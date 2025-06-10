@@ -1,0 +1,14 @@
+{
+    "ad": {
+        "country": "Andorra",
+        "capital": "Andorra la Vella",
+        "timeZone": "Europe\/Andorra",
+        "hasChannels": true
+    },
+    "ae": {
+        "country": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "timeZone": "Asia\/Dubai",
+        "hasChannels": true
+    }
+}
