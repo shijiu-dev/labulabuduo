@@ -1,68 +1,13 @@
 {
     "other": [
         {
-            "nanoid": "WWlg5pGjVUMKba",
-            "name": "Grjngo",
+            "nanoid": "mZsEjSRBNvJ4C0",
+            "name": "Top Movies Polska (1080i)",
             "iptv_urls": [
-                "https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8"
+                "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8"
             ],
             "youtube_urls": [],
             "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "w778NNhzUPLcZH",
-            "name": "Car City Adventures",
-            "iptv_urls": [
-                "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b6397b24-18b0-49c2-80bf-0333ae568e37/5.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "5fsuYuCG8ydAtN",
-            "name": "Bigtime",
-            "iptv_urls": [
-                "https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "lDdB3kWTCzSV1Q",
-            "name": "4 Fun TV (576i)",
-            "iptv_urls": [
-                "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "gnXbQSLxnNAtTV",
-            "name": "4 Fun TV",
-            "iptv_urls": [
-                "https://stream.4fun.tv:8888/hls/4f.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "eR7HsNDqvDnpND",
-            "name": "TNA Wrestling Channel",
-            "iptv_urls": [
-                "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
             "country": "pl",
             "isGeoBlocked": false
         },
@@ -78,35 +23,13 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "mZsEjSRBNvJ4C0",
-            "name": "Top Movies Polska (1080i)",
+            "nanoid": "eR7HsNDqvDnpND",
+            "name": "TNA Wrestling Channel",
             "iptv_urls": [
-                "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8"
+                "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039"
             ],
             "youtube_urls": [],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "XOB3inPkwkHuWb",
-            "name": "TVP1",
-            "iptv_urls": [
-                "https://liveovh009.cda.pl/enc129/tvp1hdraw/tvp1hdraw.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "cHNd9QwjmVgc7U",
-            "name": "TVP2 (1080i)",
-            "iptv_urls": [
-                "https://liveovh009.cda.pl/enc129/tvp2hdraw/tvp2hdraw.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "pol",
+            "language": "eng",
             "country": "pl",
             "isGeoBlocked": false
         },
@@ -115,17 +38,6 @@
             "name": "TVT",
             "iptv_urls": [
                 "https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "EjDpY5aT4uenI8",
-            "name": "Viasat Explore Classic",
-            "iptv_urls": [
-                "https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "pol",
@@ -188,13 +100,57 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "FGu0fYqXfBQdVu",
-            "name": "Hard Knocks Fighting Championship",
+            "nanoid": "lDdB3kWTCzSV1Q",
+            "name": "4 Fun TV (576i)",
             "iptv_urls": [
-                "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8"
+                "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
             ],
             "youtube_urls": [],
-            "language": "eng",
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "5fsuYuCG8ydAtN",
+            "name": "Bigtime",
+            "iptv_urls": [
+                "https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "w778NNhzUPLcZH",
+            "name": "Car City Adventures",
+            "iptv_urls": [
+                "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b6397b24-18b0-49c2-80bf-0333ae568e37/5.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "gnXbQSLxnNAtTV",
+            "name": "4 Fun TV",
+            "iptv_urls": [
+                "https://stream.4fun.tv:8888/hls/4f.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "WWlg5pGjVUMKba",
+            "name": "Grjngo",
+            "iptv_urls": [
+                "https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "pol",
             "country": "pl",
             "isGeoBlocked": false
         },
@@ -210,73 +166,58 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "UJbaTqKZCiMB83",
-            "name": "Monster Jam",
+            "nanoid": "bYyllb5PVIf1uE",
+            "name": "Royalworld",
             "iptv_urls": [
-                "https://4b9627c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "v2SUaMB4RDxTow",
-            "name": "People Are Awesome",
-            "iptv_urls": [
-                "https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "r0FWsYybZ61leE",
-            "name": "PFL MMA",
-            "iptv_urls": [
-                "https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "pl",
-            "isGeoBlocked": false
-        }
-    ],
-    "sports": [
-        {
-            "nanoid": "OknLTHOYAA8wM2",
-            "name": "FIFA+",
-            "iptv_urls": [
-                "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "pl",
-            "isGeoBlocked": false
-        }
-    ],
-    "religious": [
-        {
-            "nanoid": "BrhdrwsQAO4B4e",
-            "name": "EWTN Poland",
-            "iptv_urls": [
-                "https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8"
+                "https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "FGu0fYqXfBQdVu",
+            "name": "Hard Knocks Fighting Championship",
+            "iptv_urls": [
+                "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
             "country": "pl",
             "isGeoBlocked": false
         }
     ],
     "news": [
         {
-            "nanoid": "Yu5wceoQ17tjtg",
-            "name": "Euronews",
-            "iptv_urls": [
-                "https://euronews-live-pol-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiNDgyYjMzYzEtYmYwYi00NTIzLThlMGMtZGZmY2ZkNjYyMGU1IiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ%3D%3D/26235/euronews-pl.m3u8"
+            "nanoid": "zfdmNYbszO1KPF",
+            "name": "Telewizja \u017bary",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/UWjkhzIpuuY"
             ],
-            "youtube_urls": [],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "fZZPr1C3WHRQYc",
+            "name": "Telewizja wPolsce",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/DcjNCGnHtbc"
+            ],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "99BxHYFs1W5Wmp",
+            "name": "Telewizja Republika",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/dzntyCTgJMQ"
+            ],
             "language": "pol",
             "country": "pl",
             "isGeoBlocked": false
@@ -297,62 +238,7 @@
             "name": "TVSUDECKA PL",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/jMvXlnEthrA"
-            ],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "bpwyCfxeYK07lR",
-            "name": "ZTV live",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/25UgMMeCn1U"
-            ],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "zfdmNYbszO1KPF",
-            "name": "Telewizja \u017bary",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/j3oHzm9qOv8"
-            ],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "mRFyheBmrSRckk",
-            "name": "Telewizja Dami Radom",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/cMIsg7lY0GU"
-            ],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "99BxHYFs1W5Wmp",
-            "name": "Telewizja Republika",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/dzntyCTgJMQ"
-            ],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "fZZPr1C3WHRQYc",
-            "name": "Telewizja wPolsce",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/otSjQIpXeeE"
+                "https://www.youtube-nocookie.com/embed/vZMuGR2Z7x0"
             ],
             "language": "pol",
             "country": "pl",
@@ -368,14 +254,139 @@
             "language": "pol",
             "country": "pl",
             "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Yu5wceoQ17tjtg",
+            "name": "Euronews",
+            "iptv_urls": [
+                "https://euronews-live-pol-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiNDgyYjMzYzEtYmYwYi00NTIzLThlMGMtZGZmY2ZkNjYyMGU1IiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ%3D%3D/26235/euronews-pl.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "DN6TpQ0x9cD41t",
+            "name": "HORYZONT TV",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/YwWZpoksTMI"
+            ],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        }
+    ],
+    "general": [
+        {
+            "nanoid": "9s6DDTJkNu9V38",
+            "name": "Telewizja Zabrze",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/Vadumneq5C8"
+            ],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "1BgwlFIal9aEik",
+            "name": "Telewizja Olsztyn",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/02ZfpT1-JHA"
+            ],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Zfbee02Fm1Nqwi",
+            "name": "Telewizja Jaslo",
+            "iptv_urls": [
+                "https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "hjCXHjX41BNCM8",
+            "name": "Telewizja Gorz\u00f3w",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/8nHPONMTMIg"
+            ],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "viSqDXiMLM8FN0",
+            "name": "TV ASTA",
+            "iptv_urls": [
+                "https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "2SfhuUEazfjthW",
+            "name": "TV Relax",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/E8KILguALXU"
+            ],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "JrEw5jZnZLZh8l",
+            "name": "Echo24",
+            "iptv_urls": [
+                "https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        }
+    ],
+    "business": [
+        {
+            "nanoid": "BlvOv7Ksnyq1tc",
+            "name": "Telewizja Biznesowa",
+            "iptv_urls": [
+                "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
         }
     ],
     "music": [
         {
-            "nanoid": "IsP6AH9kXeysaM",
-            "name": "Eska Rock Dobrze Rockuje (1080i)",
+            "nanoid": "Mt2WzNC4k7bC15",
+            "name": "Szlagierowo: Szlagierowe Radio",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/j50JVAlVL-g"
+            ],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "c3NzsuLCqtTQpN",
+            "name": "Vox w Rytmie Hitow (1080i)",
             "iptv_urls": [
-                "https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8"
+                "https://s-pl-01.mediatool.tv/playout/vxpl-abr/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "pol",
@@ -394,10 +405,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "qm03oEavhYLZXh",
-            "name": "HiDance (1080i)",
+            "nanoid": "EQEGSe3LlRCr52",
+            "name": "Szlagierowo: Biesiadne Radio",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/xSgIrK_b2mI"
+            ],
+            "language": "pol",
+            "country": "pl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "IsP6AH9kXeysaM",
+            "name": "Eska Rock Dobrze Rockuje (1080i)",
             "iptv_urls": [
-                "https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8"
+                "https://s-pl-01.mediatool.tv/playout/erpl-abr/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "pol",
@@ -405,10 +427,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "c3NzsuLCqtTQpN",
-            "name": "Vox w Rytmie Hitow (1080i)",
+            "nanoid": "qm03oEavhYLZXh",
+            "name": "HiDance (1080i)",
             "iptv_urls": [
-                "https://s-pl-01.mediatool.tv/playout/vxpl-abr/index.m3u8"
+                "https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "pol",
@@ -436,96 +458,6 @@
             "language": "pol",
             "country": "pl",
             "isGeoBlocked": false
-        },
-        {
-            "nanoid": "EQEGSe3LlRCr52",
-            "name": "Szlagierowo: Biesiadne Radio",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/xSgIrK_b2mI"
-            ],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Mt2WzNC4k7bC15",
-            "name": "Szlagierowo: Szlagierowe Radio",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/j50JVAlVL-g"
-            ],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        }
-    ],
-    "general": [
-        {
-            "nanoid": "JrEw5jZnZLZh8l",
-            "name": "Echo24",
-            "iptv_urls": [
-                "https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "viSqDXiMLM8FN0",
-            "name": "TV ASTA",
-            "iptv_urls": [
-                "https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "2SfhuUEazfjthW",
-            "name": "TV Relax",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/N2AdKo5XrZM"
-            ],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "9s6DDTJkNu9V38",
-            "name": "Telewizja Zabrze",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/BEcSS-0ko_w"
-            ],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "hjCXHjX41BNCM8",
-            "name": "Telewizja Gorz\u00f3w",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/q2wxg9_T-Tw"
-            ],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "1BgwlFIal9aEik",
-            "name": "Telewizja Olsztyn",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/_b2J5oKXpqI"
-            ],
-            "language": "pol",
-            "country": "pl",
-            "isGeoBlocked": false
         }
     ],
     "education": [
@@ -534,19 +466,21 @@
             "name": "Arche TV",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/5VMKiw5PIcE"
+                "https://www.youtube-nocookie.com/embed/8PNOZCIIYvw"
             ],
             "language": "pol",
             "country": "pl",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "religious": [
         {
-            "nanoid": "moehtnlcI4ChMQ",
-            "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/3Qx6xtKuyfs"
+            "nanoid": "BrhdrwsQAO4B4e",
+            "name": "EWTN Poland",
+            "iptv_urls": [
+                "https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8"
             ],
+            "youtube_urls": [],
             "language": "pol",
             "country": "pl",
             "isGeoBlocked": false
@@ -558,7 +492,7 @@
             "name": "Kapitan Bomba",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/n3YAhU-UDec"
+                "https://www.youtube-nocookie.com/embed/ATa2nbeJ8As"
             ],
             "language": "pol",
             "country": "pl",
@@ -589,12 +523,12 @@
             "isGeoBlocked": false
         }
     ],
-    "business": [
+    "entertainment": [
         {
-            "nanoid": "BlvOv7Ksnyq1tc",
-            "name": "Telewizja Biznesowa",
+            "nanoid": "yVHVo5RwmcKcvS",
+            "name": "Radio Czw\u00f3rka",
             "iptv_urls": [
-                "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
+                "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "pol",

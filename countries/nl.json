@@ -1,10 +1,10 @@
 {
     "other": [
         {
-            "nanoid": "XHDOE2lLg7uleF",
-            "name": "Salto 4",
+            "nanoid": "LpQFuIp1jHcUHG",
+            "name": "RTV Oost",
             "iptv_urls": [
-                "https://salto-streams.nl/hls/sotv2.m3u8"
+                "https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "nld",
@@ -12,10 +12,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "LpQFuIp1jHcUHG",
-            "name": "RTV Oost",
+            "nanoid": "XHDOE2lLg7uleF",
+            "name": "Salto 4",
             "iptv_urls": [
-                "https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8"
+                "https://salto-streams.nl/hls/sotv2.m3u8"
             ],
             "youtube_urls": [],
             "language": "nld",
@@ -49,17 +49,6 @@
             "name": "RTV Rijnstreek TV",
             "iptv_urls": [
                 "https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Y3tRl2FeGVTyQz",
-            "name": "RTV SLOS",
-            "iptv_urls": [
-                "https://d3b6teev8t7bb2.cloudfront.net/nlpo/clr-nlpo/rtvslos/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "nld",
@@ -103,6 +92,7 @@
             "nanoid": "bdBmeA8W9ieof9",
             "name": "RTV Noordoost Friesland",
             "iptv_urls": [
+                "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8",
                 "https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8"
             ],
             "youtube_urls": [],
@@ -122,10 +112,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "c9BxDiVsbQOfro",
-            "name": "RTV NOF Achtkarspelen & Tytsjerksteradiel",
+            "nanoid": "hUCgRjmVobCb6w",
+            "name": "RTV Noord",
             "iptv_urls": [
-                "https://5e6ab219de8f5.streamlock.net/rtvnof/rtvnof/playlist.m3u8"
+                "https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "nld",
@@ -177,10 +167,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "hUCgRjmVobCb6w",
-            "name": "RTV Noord",
+            "nanoid": "Y3tRl2FeGVTyQz",
+            "name": "RTV SLOS",
             "iptv_urls": [
-                "https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8"
+                "https://d3b6teev8t7bb2.cloudfront.net/nlpo/clr-nlpo/rtvslos/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
+            "country": "nl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Ae17iGLPc7Gwuz",
+            "name": "Tweede Kamer: Klompezaal",
+            "iptv_urls": [
+                "https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
             ],
             "youtube_urls": [],
             "language": "nld",
@@ -250,17 +251,6 @@
             "iptv_urls": [
                 "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8",
                 "https://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Ae17iGLPc7Gwuz",
-            "name": "Tweede Kamer: Klompezaal",
-            "iptv_urls": [
-                "https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
             ],
             "youtube_urls": [],
             "language": "nld",
@@ -389,17 +379,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "TBf1AgDQksJ41T",
-            "name": "Bloomberg TV+",
-            "iptv_urls": [
-                "https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "tkIXZ09wUTDqoW",
             "name": "Altena TV",
             "iptv_urls": [
@@ -462,17 +441,6 @@
             ],
             "youtube_urls": [],
             "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "GfSEaPlNpylOqF",
-            "name": "Mojitv",
-            "iptv_urls": [
-                "https://odmedia-mojitv-1-nl.samsung.wurl.tv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
             "country": "nl",
             "isGeoBlocked": false
         }
@@ -757,6 +725,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "12S0shaF2zjsAh",
+            "name": "LOZ (Lokale Omroep Zeewolde)",
+            "iptv_urls": [
+                "https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
+            "country": "nl",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "eFozWtc9ctVlJw",
             "name": "ORTS",
             "iptv_urls": [
@@ -835,131 +814,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "dRnsytBJsmGO6h",
-            "name": "Omroep S\u00fadwest",
-            "iptv_urls": [
-                "https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "nVpsvaBycf2VlN",
             "name": "Omroep Lingewaard",
             "iptv_urls": [
                 "https://58c04fb1d143f.streamlock.net/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Es6l1ExFTcGD0U",
-            "name": "Omroep Land van Cuijk",
-            "iptv_urls": [
-                "https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "KVNirP7LjuoIoN",
-            "name": "Omroep Hulst TV",
-            "iptv_urls": [
-                "https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "hk7PXKEYotjuny",
-            "name": "Omroep Hoeksche Waard",
-            "iptv_urls": [
-                "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "xTdO7TGIM8R5HS",
-            "name": "Omroep Flevoland",
-            "iptv_urls": [
-                "https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "OplIrrFGFNiRPM",
-            "name": "Omroep Dommelland",
-            "iptv_urls": [
-                "https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "P6DKosG5lbofcV",
-            "name": "Omroep Brabant Radio",
-            "iptv_urls": [
-                "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "OgYe6u4a9Y8YAf",
-            "name": "Omroep Brabant",
-            "iptv_urls": [
-                "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "XOpl8bGO6eDIWC",
-            "name": "Omroep Almere",
-            "iptv_urls": [
-                "https://wowza2.videostreamingwowza.com/OAlmerelive/OAlmerelive/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "cz0NSemk409jgG",
-            "name": "NOOS TV",
-            "iptv_urls": [
-                "https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "KfaJQ0FjPIb81N",
-            "name": "Merwe TV",
-            "iptv_urls": [
-                "https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "nld",
@@ -978,10 +836,120 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "12S0shaF2zjsAh",
-            "name": "LOZ (Lokale Omroep Zeewolde)",
+            "nanoid": "KfaJQ0FjPIb81N",
+            "name": "Merwe TV",
             "iptv_urls": [
-                "https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8"
+                "https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
+            "country": "nl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "cz0NSemk409jgG",
+            "name": "NOOS TV",
+            "iptv_urls": [
+                "https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
+            "country": "nl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "XOpl8bGO6eDIWC",
+            "name": "Omroep Almere",
+            "iptv_urls": [
+                "https://wowza2.videostreamingwowza.com/OAlmerelive/OAlmerelive/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
+            "country": "nl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "OgYe6u4a9Y8YAf",
+            "name": "Omroep Brabant",
+            "iptv_urls": [
+                "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
+            "country": "nl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "P6DKosG5lbofcV",
+            "name": "Omroep Brabant Radio",
+            "iptv_urls": [
+                "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
+            "country": "nl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "xTdO7TGIM8R5HS",
+            "name": "Omroep Flevoland",
+            "iptv_urls": [
+                "https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
+            "country": "nl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "hk7PXKEYotjuny",
+            "name": "Omroep Hoeksche Waard",
+            "iptv_urls": [
+                "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
+            "country": "nl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "KVNirP7LjuoIoN",
+            "name": "Omroep Hulst TV",
+            "iptv_urls": [
+                "https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
+            "country": "nl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Es6l1ExFTcGD0U",
+            "name": "Omroep Land van Cuijk",
+            "iptv_urls": [
+                "https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
+            "country": "nl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "dRnsytBJsmGO6h",
+            "name": "Omroep S\u00fadwest",
+            "iptv_urls": [
+                "https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
+            "country": "nl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "OplIrrFGFNiRPM",
+            "name": "Omroep Dommelland",
+            "iptv_urls": [
+                "https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "nld",
@@ -1024,10 +992,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "UnCRZpdx8z5Vi8",
-            "name": "Radio Continu TV",
+            "nanoid": "nnzZPCLnvZFXmg",
+            "name": "Magic PowerRadio",
             "iptv_urls": [
-                "https://streaming05.stream.delivery/radiocontinu/live/playlist.m3u8"
+                "https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "nld",
@@ -1035,10 +1003,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "nnzZPCLnvZFXmg",
-            "name": "Magic PowerRadio",
+            "nanoid": "UnCRZpdx8z5Vi8",
+            "name": "Radio Continu TV",
             "iptv_urls": [
-                "https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8"
+                "https://streaming05.stream.delivery/radiocontinu/live/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "nld",
@@ -1072,10 +1040,10 @@
     ],
     "music": [
         {
-            "nanoid": "W9VS8SRmkQmeJR",
-            "name": "Rararadio",
+            "nanoid": "Yy1gqgg3H5Fb73",
+            "name": "Radio JND",
             "iptv_urls": [
-                "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8"
+                "https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "nld",
@@ -1083,10 +1051,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "Yy1gqgg3H5Fb73",
-            "name": "Radio JND",
+            "nanoid": "W9VS8SRmkQmeJR",
+            "name": "Rararadio",
             "iptv_urls": [
-                "https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8"
+                "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "nld",
@@ -1105,11 +1073,11 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "bBCcvAlqZAWZi9",
-            "name": "frequenzy: Alternative/Rock",
+            "nanoid": "wGEV3sNBMStagF",
+            "name": "frequenzy: Indie/Pop/Rock",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/tWTPGVIw1es"
+                "https://www.youtube-nocookie.com/embed/uRImXboQnzE"
             ],
             "language": "eng",
             "country": "nl",
@@ -1149,11 +1117,11 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "wGEV3sNBMStagF",
-            "name": "frequenzy: Indie/Pop/Rock",
+            "nanoid": "bBCcvAlqZAWZi9",
+            "name": "frequenzy: Alternative/Rock",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/uRImXboQnzE"
+                "https://www.youtube-nocookie.com/embed/tWTPGVIw1es"
             ],
             "language": "eng",
             "country": "nl",
@@ -1206,17 +1174,6 @@
     ],
     "legislative": [
         {
-            "nanoid": "BJ3SYF7xMwSu2u",
-            "name": "Tweede Kamer: Max van der Stoelzaal",
-            "iptv_urls": [
-                "https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "nl",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "xk5ybVwggmYe7A",
             "name": "Tweede Kamer: Wttewaall van Stoetwegenzaal",
             "iptv_urls": [
@@ -1265,6 +1222,17 @@
             "name": "Tweede Kamer: Plenaire zaal",
             "iptv_urls": [
                 "https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
+            "country": "nl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "BJ3SYF7xMwSu2u",
+            "name": "Tweede Kamer: Max van der Stoelzaal",
+            "iptv_urls": [
+                "https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&subtitles=live&keyframes=1"
             ],
             "youtube_urls": [],
             "language": "nld",
@@ -1326,6 +1294,19 @@
             ],
             "youtube_urls": [],
             "language": "eng",
+            "country": "nl",
+            "isGeoBlocked": false
+        }
+    ],
+    "news": [
+        {
+            "nanoid": "hRkZkX0leLsxvX",
+            "name": "Eemland 1",
+            "iptv_urls": [
+                "https://streamingserver02.omroepnuenen.nl/spakenburg/spakenburglive_720p/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
             "country": "nl",
             "isGeoBlocked": false
         }

@@ -1,23 +1,34 @@
 {
-    "other": [
-        {
-            "nanoid": "wOuKcaJXWEMKNa",
-            "name": "UCL",
-            "iptv_urls": [
-                "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "uy",
-            "isGeoBlocked": false
-        }
-    ],
     "entertainment": [
         {
             "nanoid": "ASe7q9C6waVLXN",
             "name": "VIVO TV",
             "iptv_urls": [
                 "https://stream.vivotv.uy/hls/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "uy",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "qO9vRi6qWS9n0t",
+            "name": "Raquel Daruech TV",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/7yv7K-1eLUc"
+            ],
+            "language": "spa",
+            "country": "uy",
+            "isGeoBlocked": false
+        }
+    ],
+    "other": [
+        {
+            "nanoid": "wOuKcaJXWEMKNa",
+            "name": "UCL",
+            "iptv_urls": [
+                "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",

@@ -1,42 +1,5 @@
 {
-    "outdoor": [
-        {
-            "nanoid": "aYAhxfge3884Ci",
-            "name": "Agro TV",
-            "iptv_urls": [
-                "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "bul",
-            "country": "bg",
-            "isGeoBlocked": false
-        }
-    ],
-    "general": [
-        {
-            "nanoid": "z7zMm8Am4tFsxt",
-            "name": "Evrokom",
-            "iptv_urls": [
-                "https://live.ecomservice.bg/hls/stream.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "bul",
-            "country": "bg",
-            "isGeoBlocked": false
-        }
-    ],
     "religious": [
-        {
-            "nanoid": "xb56fwuwQyeFpw",
-            "name": "Hope Channel Bulgaria",
-            "iptv_urls": [
-                "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "bul",
-            "country": "bg",
-            "isGeoBlocked": false
-        },
         {
             "nanoid": "baxC7ZNvKlaeR7",
             "name": "Light Channel",
@@ -47,25 +10,38 @@
             "language": "bul",
             "country": "bg",
             "isGeoBlocked": false
-        }
-    ],
-    "music": [
+        },
         {
-            "nanoid": "rq3OJITyKdZXB9",
-            "name": "Magic TV",
+            "nanoid": "xb56fwuwQyeFpw",
+            "name": "Hope Channel Bulgaria",
             "iptv_urls": [
-                "https://bss1.neterra.tv/magictv/magictv.m3u8"
+                "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "bul",
             "country": "bg",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "travel": [
         {
-            "nanoid": "dFVfkSRxGNsYew",
-            "name": "The Voice TV",
+            "nanoid": "fwm1YJJu2dW30c",
+            "name": "Travel TV",
             "iptv_urls": [
-                "https://bss1.neterra.tv/thevoice/thevoice.m3u8"
+                "https://streamer103.neterra.tv/travel/live.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "bul",
+            "country": "bg",
+            "isGeoBlocked": false
+        }
+    ],
+    "music": [
+        {
+            "nanoid": "SByzYuSnvckWM0",
+            "name": "Tiankov Orient Folk",
+            "iptv_urls": [
+                "https://streamer103.neterra.tv/tiankov-orient/live.m3u8"
             ],
             "youtube_urls": [],
             "language": "bul",
@@ -84,10 +60,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "SByzYuSnvckWM0",
-            "name": "Tiankov Orient Folk",
+            "nanoid": "S1ZYN7hADGka8A",
+            "name": "City TV",
             "iptv_urls": [
-                "https://streamer103.neterra.tv/tiankov-orient/live.m3u8"
+                "https://tv.city.bg/play/tshls/citytv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "bul",
@@ -108,12 +84,25 @@
             "isGeoBlocked": false
         }
     ],
-    "travel": [
+    "general": [
         {
-            "nanoid": "fwm1YJJu2dW30c",
-            "name": "Travel TV",
+            "nanoid": "z7zMm8Am4tFsxt",
+            "name": "Evrokom",
             "iptv_urls": [
-                "https://streamer103.neterra.tv/travel/live.m3u8"
+                "https://live.ecomservice.bg/hls/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "bul",
+            "country": "bg",
+            "isGeoBlocked": false
+        }
+    ],
+    "outdoor": [
+        {
+            "nanoid": "aYAhxfge3884Ci",
+            "name": "Agro TV",
+            "iptv_urls": [
+                "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
             ],
             "youtube_urls": [],
             "language": "bul",

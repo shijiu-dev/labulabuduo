@@ -1,10 +1,10 @@
 {
-    "music": [
+    "general": [
         {
-            "nanoid": "HvYJs4nihzTmh7",
-            "name": "Muzangala TV",
+            "nanoid": "WQ6unWGtm0BnT8",
+            "name": "TV Zimbo",
             "iptv_urls": [
-                "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8"
+                "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8"
             ],
             "youtube_urls": [],
             "language": "por",
@@ -12,12 +12,12 @@
             "isGeoBlocked": false
         }
     ],
-    "general": [
+    "music": [
         {
-            "nanoid": "WQ6unWGtm0BnT8",
-            "name": "TV Zimbo",
+            "nanoid": "HvYJs4nihzTmh7",
+            "name": "Muzangala TV",
             "iptv_urls": [
-                "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8"
+                "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "por",

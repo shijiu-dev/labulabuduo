@@ -1,40 +1,16 @@
 {
-    "entertainment": [
+    "other": [
         {
-            "nanoid": "YeMnj5BHLAkj2x",
-            "name": "CeeJay TV",
+            "nanoid": "zv2UQ2zMvKk0XR",
+            "name": "Adinkra TV",
             "iptv_urls": [
-                "https://asiakwa.com/ceejaytv/index.fmp4.m3u8"
+                "https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
             "country": "gh",
             "isGeoBlocked": false
         },
-        {
-            "nanoid": "2D5WXDkOrvxrFu",
-            "name": "Joy Prime TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/AZ4_aXDtvRo"
-            ],
-            "language": "eng",
-            "country": "gh",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "BA9iVpakjBBwDS",
-            "name": "Adom TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/LNfgs3PFB3E"
-            ],
-            "language": "eng",
-            "country": "gh",
-            "isGeoBlocked": false
-        }
-    ],
-    "other": [
         {
             "nanoid": "BxmKon0ZujiiDI",
             "name": "Resurrection TV",
@@ -56,39 +32,37 @@
             "language": "",
             "country": "gh",
             "isGeoBlocked": false
-        },
-        {
-            "nanoid": "zv2UQ2zMvKk0XR",
-            "name": "Adinkra TV",
-            "iptv_urls": [
-                "https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "gh",
-            "isGeoBlocked": false
         }
     ],
-    "news": [
+    "entertainment": [
         {
             "nanoid": "qrd5qBWYEVUZjj",
             "name": "OTV",
             "iptv_urls": [
                 "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8"
             ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "gh",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "2D5WXDkOrvxrFu",
+            "name": "Joy Prime TV",
+            "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/9T7VpBKdu68"
+                "https://www.youtube-nocookie.com/embed/Q0z1_DLsb0M"
             ],
             "language": "eng",
             "country": "gh",
             "isGeoBlocked": false
         },
         {
-            "nanoid": "5uGhvob0v0qr3L",
-            "name": "JoyNews",
+            "nanoid": "BA9iVpakjBBwDS",
+            "name": "Adom TV",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/TtRyl8rEAMY"
+                "https://www.youtube-nocookie.com/embed/FuW4Wka0MoE"
             ],
             "language": "eng",
             "country": "gh",
@@ -112,17 +86,6 @@
             "name": "MOGPA TV",
             "iptv_urls": [
                 "https://bk7l2r2nyx53-hls-live.5centscdn.com/ablazetv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "gh",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "xcyEEiO2Xlq3AP",
-            "name": "Maranatha TV",
-            "iptv_urls": [
-                "https://media.streambrothers.com:1936/8298/8298/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
@@ -154,12 +117,25 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "bzTv7htWQDj8Mj",
-            "name": "ChannelOne TV",
+            "nanoid": "IY7Bu4zaSSX9q8",
+            "name": "Channel247",
             "iptv_urls": [
-                "https://2ctv.crystaltv.mobi:44095/tv877.167.m3u8"
+                "https://tv.localstreamgh.com/Channel247/index.m3u8"
             ],
             "youtube_urls": [],
+            "language": "eng",
+            "country": "gh",
+            "isGeoBlocked": false
+        }
+    ],
+    "news": [
+        {
+            "nanoid": "5uGhvob0v0qr3L",
+            "name": "JoyNews",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/dpoe6mA2mIw"
+            ],
             "language": "eng",
             "country": "gh",
             "isGeoBlocked": false

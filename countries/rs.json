@@ -1,17 +1,6 @@
 {
     "other": [
         {
-            "nanoid": "tGRgOGa9BjpssA",
-            "name": "Narodna TV",
-            "iptv_urls": [
-                "https://edge8.pink.rs/narodnatv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "srp",
-            "country": "rs",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "fhxP6wIauoX6aK",
             "name": "Pink",
             "iptv_urls": [
@@ -34,10 +23,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "vVlBCeCYGdzOFp",
-            "name": "TV Pirot",
+            "nanoid": "7mAvWG2Rz0LqWu",
+            "name": "RTV Bap",
             "iptv_urls": [
-                "https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8"
+                "https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "srp",
@@ -49,6 +38,17 @@
             "name": "TV Hram",
             "iptv_urls": [
                 "https://vod1.laki.eu/live/hram/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "srp",
+            "country": "rs",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "tGRgOGa9BjpssA",
+            "name": "Narodna TV",
+            "iptv_urls": [
+                "https://edge8.pink.rs/narodnatv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "srp",
@@ -124,13 +124,24 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "NXmQMcdBBL18WX",
-            "name": "Muzzik TIKTAK",
+            "nanoid": "lUMgGLQOr0MAIm",
+            "name": "Muzzik POP STAR",
             "iptv_urls": [
-                "https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8"
+                "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8"
             ],
             "youtube_urls": [],
-            "language": "srp",
+            "language": "eng",
+            "country": "rs",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "P6UnOfnRUoeBh8",
+            "name": "Muzzik ZZ TV",
+            "iptv_urls": [
+                "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
             "country": "rs",
             "isGeoBlocked": false
         },
@@ -153,17 +164,6 @@
             ],
             "youtube_urls": [],
             "language": "srp",
-            "country": "rs",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "P6UnOfnRUoeBh8",
-            "name": "Muzzik ZZ TV",
-            "iptv_urls": [
-                "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
             "country": "rs",
             "isGeoBlocked": false
         },
@@ -201,17 +201,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "lUMgGLQOr0MAIm",
-            "name": "Muzzik POP STAR",
-            "iptv_urls": [
-                "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "rs",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "jDj4ccd4i0QFkD",
             "name": "Muzzik SENSE",
             "iptv_urls": [
@@ -219,6 +208,17 @@
             ],
             "youtube_urls": [],
             "language": "eng",
+            "country": "rs",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "NXmQMcdBBL18WX",
+            "name": "Muzzik TIKTAK",
+            "iptv_urls": [
+                "https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "srp",
             "country": "rs",
             "isGeoBlocked": false
         }
@@ -229,19 +229,6 @@
             "name": "SOS Kanal Plus",
             "iptv_urls": [
                 "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "srp",
-            "country": "rs",
-            "isGeoBlocked": false
-        }
-    ],
-    "business": [
-        {
-            "nanoid": "dKwoD3dEbTFFj9",
-            "name": "Bloomberg Adria",
-            "iptv_urls": [
-                "https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "srp",

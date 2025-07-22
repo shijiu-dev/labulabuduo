@@ -1,6 +1,17 @@
 {
     "general": [
         {
+            "nanoid": "8B3qgJfyLRwkgk",
+            "name": "RTB Aneka",
+            "iptv_urls": [
+                "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "bn",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "qgsd5xqeWxixS3",
             "name": "RTB Go",
             "iptv_urls": [
@@ -19,17 +30,6 @@
             ],
             "youtube_urls": [],
             "language": "msa",
-            "country": "bn",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "8B3qgJfyLRwkgk",
-            "name": "RTB Aneka",
-            "iptv_urls": [
-                "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
             "country": "bn",
             "isGeoBlocked": false
         }

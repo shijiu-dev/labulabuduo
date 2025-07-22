@@ -1,4 +1,30 @@
 {
+    "other": [
+        {
+            "nanoid": "fKperBii2EQlSc",
+            "name": "CTB Perth News",
+            "iptv_urls": [
+                "https://news.ctbperth.net.au/hls/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "au",
+            "isGeoBlocked": false
+        }
+    ],
+    "sports": [
+        {
+            "nanoid": "J9pzzefgaVZFtU",
+            "name": "Racing.com",
+            "iptv_urls": [
+                "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "au",
+            "isGeoBlocked": false
+        }
+    ],
     "shop": [
         {
             "nanoid": "1urxVFjg7HoQcm",
@@ -18,7 +44,7 @@
                 "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
             ],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/GNZa-miA1jc"
+                "https://www.youtube-nocookie.com/embed/j1pJ-8W6Er4"
             ],
             "language": "eng",
             "country": "au",
@@ -64,34 +90,8 @@
             "name": "Force Thirteen Earthquakes",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/l5U6E3duOkg"
+                "https://www.youtube-nocookie.com/embed/gWVMjyao_YA"
             ],
-            "language": "eng",
-            "country": "au",
-            "isGeoBlocked": false
-        }
-    ],
-    "entertainment": [
-        {
-            "nanoid": "Vq9Xl3qiulflhQ",
-            "name": "Indo Oz TV",
-            "iptv_urls": [
-                "https://stream.e2is.in/hls/indoztv.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "hin",
-            "country": "au",
-            "isGeoBlocked": false
-        }
-    ],
-    "sports": [
-        {
-            "nanoid": "J9pzzefgaVZFtU",
-            "name": "Racing.com",
-            "iptv_urls": [
-                "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8"
-            ],
-            "youtube_urls": [],
             "language": "eng",
             "country": "au",
             "isGeoBlocked": false
@@ -132,10 +132,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "w7tqHUVLOEoOLR",
-            "name": "6PR Perth",
+            "nanoid": "3vSMiEn9fcjoqq",
+            "name": "2GB Sydney",
             "iptv_urls": [
-                "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8"
+                "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
@@ -154,10 +154,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "3vSMiEn9fcjoqq",
-            "name": "2GB Sydney",
+            "nanoid": "w7tqHUVLOEoOLR",
+            "name": "6PR Perth",
             "iptv_urls": [
-                "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8"
+                "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
@@ -169,19 +169,6 @@
             "name": "3AW Melbourne",
             "iptv_urls": [
                 "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "au",
-            "isGeoBlocked": false
-        }
-    ],
-    "movies": [
-        {
-            "nanoid": "5OROd5MAKjXezh",
-            "name": "CTB Perth Movies",
-            "iptv_urls": [
-                "https://movies.ctbperth.net.au/hls/stream.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
@@ -261,15 +248,15 @@
             "isGeoBlocked": false
         }
     ],
-    "other": [
+    "movies": [
         {
-            "nanoid": "fKperBii2EQlSc",
-            "name": "CTB Perth News",
+            "nanoid": "5OROd5MAKjXezh",
+            "name": "CTB Perth Movies",
             "iptv_urls": [
-                "https://news.ctbperth.net.au/hls/stream.m3u8"
+                "https://movies.ctbperth.net.au/hls/stream.m3u8"
             ],
             "youtube_urls": [],
-            "language": "",
+            "language": "eng",
             "country": "au",
             "isGeoBlocked": false
         }

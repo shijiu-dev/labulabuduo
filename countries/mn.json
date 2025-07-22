@@ -1,4 +1,17 @@
 {
+    "entertainment": [
+        {
+            "nanoid": "P7g6QNTVCdx38r",
+            "name": "Dream TV",
+            "iptv_urls": [
+                "https://cdn3.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "mon",
+            "country": "mn",
+            "isGeoBlocked": false
+        }
+    ],
     "general": [
         {
             "nanoid": "yRtxXNRanqtYe0",
@@ -23,17 +36,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "TkAa6zF0DZybam",
-            "name": "Central TV",
-            "iptv_urls": [
-                "https://cdn3.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "mon",
-            "country": "mn",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "Ul5fNF6EOAnI7C",
             "name": "TV8",
             "iptv_urls": [
@@ -50,6 +52,17 @@
             "iptv_urls": [
                 "https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8",
                 "https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "mon",
+            "country": "mn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "8mAz6PQe6dOkxu",
+            "name": "Star TV",
+            "iptv_urls": [
+                "https://cdn2.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8"
             ],
             "youtube_urls": [],
             "language": "mon",
@@ -112,6 +125,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "TkAa6zF0DZybam",
+            "name": "Central TV",
+            "iptv_urls": [
+                "https://cdn3.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "mon",
+            "country": "mn",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "5rOxHUaAFQGVdg",
             "name": "MN25",
             "iptv_urls": [
@@ -135,18 +159,20 @@
             "isGeoBlocked": false
         }
     ],
-    "other": [
+    "movies": [
         {
-            "nanoid": "8mAz6PQe6dOkxu",
-            "name": "Star TV",
+            "nanoid": "U9RR25VRV55FfP",
+            "name": "MovieBox",
             "iptv_urls": [
-                "https://cdn2.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8"
+                "https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8"
             ],
             "youtube_urls": [],
             "language": "mon",
             "country": "mn",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "other": [
         {
             "nanoid": "aRQ1y8w3hHJJTt",
             "name": "MNB \u041c\u043e\u043d\u0433\u043e\u043b\u044b\u043d \u041c\u044d\u0434\u044d\u044d",
@@ -181,38 +207,12 @@
             "isGeoBlocked": false
         }
     ],
-    "movies": [
-        {
-            "nanoid": "U9RR25VRV55FfP",
-            "name": "MovieBox",
-            "iptv_urls": [
-                "https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "mon",
-            "country": "mn",
-            "isGeoBlocked": false
-        }
-    ],
     "business": [
         {
             "nanoid": "JPDh3cfdNqA9Zf",
             "name": "Bloomberg TV Mongolia HD",
             "iptv_urls": [
                 "https://cdn3.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "mon",
-            "country": "mn",
-            "isGeoBlocked": false
-        }
-    ],
-    "entertainment": [
-        {
-            "nanoid": "P7g6QNTVCdx38r",
-            "name": "Dream TV",
-            "iptv_urls": [
-                "https://cdn3.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8"
             ],
             "youtube_urls": [],
             "language": "mon",

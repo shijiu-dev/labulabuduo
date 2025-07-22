@@ -1,4 +1,17 @@
 {
+    "culture": [
+        {
+            "nanoid": "MFBhdF22oHPsQx",
+            "name": "Komala TV",
+            "iptv_urls": [
+                "https://live.tvkomala.com/live/komala/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kur",
+            "country": "se",
+            "isGeoBlocked": false
+        }
+    ],
     "other": [
         {
             "nanoid": "wETjJuUNWWDAGH",
@@ -16,17 +29,6 @@
             "name": "Mission Asia",
             "iptv_urls": [
                 "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "se",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "NTBWN0nmmoUc3L",
-            "name": "Bloomberg TV+",
-            "iptv_urls": [
-                "https://bloomberg-bloombergtv-3-se.samsung.wurl.tv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -89,19 +91,6 @@
             ],
             "youtube_urls": [],
             "language": "swe",
-            "country": "se",
-            "isGeoBlocked": false
-        }
-    ],
-    "culture": [
-        {
-            "nanoid": "MFBhdF22oHPsQx",
-            "name": "Komala TV",
-            "iptv_urls": [
-                "https://live.tvkomala.com/live/komala/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kur",
             "country": "se",
             "isGeoBlocked": false
         }

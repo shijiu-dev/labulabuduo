@@ -23,17 +23,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "1rUb7jXosDq9U6",
-            "name": "\u00d1uka TV",
-            "iptv_urls": [
-                "https://cloudvideo.servers10.com:8081/8118/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ec",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "xWGjAVSP39eb8X",
             "name": "Plus TV",
             "iptv_urls": [
@@ -67,10 +56,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "wNDe4JNBUCreJE",
-            "name": "Austral TV",
+            "nanoid": "7rCpyg4PCpPsco",
+            "name": "TV Color Canal 36",
             "iptv_urls": [
-                "https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8"
+                "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -78,10 +67,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "7rCpyg4PCpPsco",
-            "name": "TV Color Canal 36",
+            "nanoid": "7G6TKaBuir2YYY",
+            "name": "Am\u00e9rica Est\u00e9reo Quito",
             "iptv_urls": [
-                "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8"
+                "https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -111,10 +100,32 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "ac84yC8dTLNOrh",
+            "name": "Am\u00e9rica Est\u00e9reo Ibarra",
+            "iptv_urls": [
+                "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ec",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "mTBj2wwnkApUNi",
             "name": "Am\u00e9rica Est\u00e9reo Tulc\u00e1n",
             "iptv_urls": [
                 "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ec",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "wNDe4JNBUCreJE",
+            "name": "Austral TV",
+            "iptv_urls": [
+                "https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -278,6 +289,30 @@
             "isGeoBlocked": false
         }
     ],
+    "entertainment": [
+        {
+            "nanoid": "WCNgs5Fvq7rKOn",
+            "name": "Se\u00f1al Positiva TV",
+            "iptv_urls": [
+                "https://eu1.servers10.com:8081/8108/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ec",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "E3rLmWg3JB8sKD",
+            "name": "MakroDigital Television",
+            "iptv_urls": [
+                "https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ec",
+            "isGeoBlocked": false
+        }
+    ],
     "other": [
         {
             "nanoid": "gU9qpItJjz9ZDd",
@@ -314,6 +349,17 @@
         }
     ],
     "education": [
+        {
+            "nanoid": "XdpYpRhL3xchs3",
+            "name": "UCSG TV",
+            "iptv_urls": [
+                "https://stream.catomedia.net/catomedia-app/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ec",
+            "isGeoBlocked": false
+        },
         {
             "nanoid": "uhXaKy0zwMPJAb",
             "name": "UNIANDES TV",
@@ -356,19 +402,6 @@
             "name": "IeanJesus Ecuador",
             "iptv_urls": [
                 "https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ec",
-            "isGeoBlocked": false
-        }
-    ],
-    "entertainment": [
-        {
-            "nanoid": "E3rLmWg3JB8sKD",
-            "name": "MakroDigital Television",
-            "iptv_urls": [
-                "https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",

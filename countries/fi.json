@@ -1,17 +1,6 @@
 {
     "other": [
         {
-            "nanoid": "3kvMeRQNc7yJgV",
-            "name": "World of Love Island",
-            "iptv_urls": [
-                "https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "fi",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "gAbt2rH6T2mSLN",
             "name": "YLE TV Teema & Fem",
             "iptv_urls": [
@@ -45,6 +34,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "3kvMeRQNc7yJgV",
+            "name": "World of Love Island",
+            "iptv_urls": [
+                "https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "fi",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "WJxJB7lKSKz27v",
             "name": "Rakuten TV Romance Movies Finland",
             "iptv_urls": [
@@ -56,10 +56,32 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "KAOo0COMVRKLuy",
-            "name": "NatureTime",
+            "nanoid": "sC5wiasOvc6i5v",
+            "name": "NatureTime Finland",
             "iptv_urls": [
                 "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "fi",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Wd5LQK7QYkvnE1",
+            "name": "5-Minute Craft",
+            "iptv_urls": [
+                "https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "fi",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "ZsOJRyJmqi98FC",
+            "name": "BBC Top Gear Finland",
+            "iptv_urls": [
+                "https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -78,21 +100,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "v1a78kAyYWVRAm",
-            "name": "Celeb Reality",
+            "nanoid": "Ll5s2H0UCXnUdm",
+            "name": "InTravel",
             "iptv_urls": [
-                "https://d3453fcf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NlbGViUmVhbGl0eUlOVExfSExT/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "fi",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "ZsOJRyJmqi98FC",
-            "name": "BBC Top Gear Finland",
-            "iptv_urls": [
-                "https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8"
+                "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -122,6 +133,17 @@
             "language": "est",
             "country": "fi",
             "isGeoBlocked": false
+        },
+        {
+            "nanoid": "RXkTjTqpb8UDSl",
+            "name": "Himlen TV7",
+            "iptv_urls": [
+                "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "swe",
+            "country": "fi",
+            "isGeoBlocked": false
         }
     ],
     "general": [
@@ -135,6 +157,17 @@
             "language": "fin",
             "country": "fi",
             "isGeoBlocked": false
+        },
+        {
+            "nanoid": "z3QTyvg0mqUEif",
+            "name": "N\u00e4rTV",
+            "iptv_urls": [
+                "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "swe",
+            "country": "fi",
+            "isGeoBlocked": false
         }
     ],
     "news": [
@@ -143,6 +176,17 @@
             "name": "Nopola News",
             "iptv_urls": [
                 "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fin",
+            "country": "fi",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "ymyzvymgU1533k",
+            "name": "MTV Uutiset",
+            "iptv_urls": [
+                "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8"
             ],
             "youtube_urls": [],
             "language": "fin",
@@ -159,6 +203,17 @@
             ],
             "youtube_urls": [],
             "language": "fas",
+            "country": "fi",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "f8OcMZj8nk12cd",
+            "name": "JRTV J\u00e4rviradio",
+            "iptv_urls": [
+                "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fin",
             "country": "fi",
             "isGeoBlocked": false
         }

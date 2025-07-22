@@ -1,10 +1,10 @@
 {
     "general": [
         {
-            "nanoid": "blN8uMLBNq1v02",
-            "name": "LIM TV",
+            "nanoid": "JAreuKNijuO7ug",
+            "name": "Bruno Masi TV",
             "iptv_urls": [
-                "https://tv.invasivamedia.com/hls/limtv.m3u8"
+                "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -23,10 +23,32 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "JAreuKNijuO7ug",
-            "name": "Bruno Masi TV",
+            "nanoid": "yjn0fCt96jnweK",
+            "name": "Rep\u00fablica TV",
             "iptv_urls": [
-                "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
+                "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "py",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "jiNkr0V3Kg3LFU",
+            "name": "Panambi Digital TV",
+            "iptv_urls": [
+                "https://video.hostingcaaguazu.com:19360/panambiveratv/panambiveratv.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "py",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "blN8uMLBNq1v02",
+            "name": "LIM TV",
+            "iptv_urls": [
+                "https://tv.invasivamedia.com/hls/limtv.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -56,6 +78,17 @@
             "language": "spa",
             "country": "py",
             "isGeoBlocked": false
+        },
+        {
+            "nanoid": "RszKNvM58V3E5m",
+            "name": "Dismar Radio TV",
+            "iptv_urls": [
+                "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "py",
+            "isGeoBlocked": false
         }
     ],
     "other": [
@@ -77,6 +110,19 @@
             "name": "C\u00e1ritas TV",
             "iptv_urls": [
                 "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "py",
+            "isGeoBlocked": false
+        }
+    ],
+    "news": [
+        {
+            "nanoid": "ZOwQAPUGPgS297",
+            "name": "4Dm\u00e1sNoticias TV",
+            "iptv_urls": [
+                "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",

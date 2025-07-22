@@ -1,28 +1,6 @@
 {
     "other": [
         {
-            "nanoid": "gaIbE0ft11ifJV",
-            "name": "Rakuten TV Romance Movies Germany",
-            "iptv_urls": [
-                "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "SE1h1zk5kvUylr",
-            "name": "Rakuten TV Thrillers Germany",
-            "iptv_urls": [
-                "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "mQHqSj1XNTLdav",
             "name": "Rakuten TV Trailers Germany",
             "iptv_urls": [
@@ -34,13 +12,13 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "FQrtFwT9zo3Xcp",
-            "name": "Red Bull TV Germany",
+            "nanoid": "ulPFxJfssVYhRL",
+            "name": "Sophia TV Espa\u00f1ol",
             "iptv_urls": [
-                "https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
+                "https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
-            "language": "",
+            "language": "spa",
             "country": "de",
             "isGeoBlocked": false
         },
@@ -89,13 +67,13 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "NnjWTXJtm42fYx",
-            "name": "Royalworld Germany",
+            "nanoid": "brqnNRKBRjnKyb",
+            "name": "RTL Super",
             "iptv_urls": [
-                "https://amogonetworx-royalworld-2-de.rakuten.wurl.tv/playlist.m3u8"
+                "https://trn09.bozztv.com/gin-superrtl/index.m3u8"
             ],
             "youtube_urls": [],
-            "language": "",
+            "language": "deu",
             "country": "de",
             "isGeoBlocked": false
         },
@@ -188,10 +166,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "SMFkP3zTr5LosF",
-            "name": "Rakuten TV German Cinema",
+            "nanoid": "SE1h1zk5kvUylr",
+            "name": "Rakuten TV Thrillers Germany",
             "iptv_urls": [
-                "https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8"
+                "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -210,10 +188,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "Gt6McIqzqsAgE1",
-            "name": "WDR Fernsehen D\u00fcsseldorf",
+            "nanoid": "SMFkP3zTr5LosF",
+            "name": "Rakuten TV German Cinema",
             "iptv_urls": [
-                "https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8"
+                "https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -221,21 +199,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "vdlrNTq7TC5hbk",
-            "name": "TVA",
+            "nanoid": "gaIbE0ft11ifJV",
+            "name": "Rakuten TV Romance Movies Germany",
             "iptv_urls": [
-                "https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "aaowsSWPgbYhP0",
-            "name": "Vevo Pop Germany",
-            "iptv_urls": [
-                "https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8"
+                "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -254,132 +221,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "4YJWj04hCfbsQM",
-            "name": "WDR 1 Live",
+            "nanoid": "aaowsSWPgbYhP0",
+            "name": "Vevo Pop Germany",
             "iptv_urls": [
-                "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8",
-                "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "VX0nmnBQ8D5Pdv",
-            "name": "WDR Fernsehen Aachen",
-            "iptv_urls": [
-                "https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "kpnjh9YYciFo9a",
-            "name": "WDR Fernsehen Bielefeld",
-            "iptv_urls": [
-                "https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "9bq9EK8pK09oGU",
-            "name": "WDR Fernsehen Bonn",
-            "iptv_urls": [
-                "https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "syMY9oojgpG8KI",
-            "name": "WDR Fernsehen Dortmund",
-            "iptv_urls": [
-                "https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "mhLwW0aVVzdJ90",
-            "name": "WDR Fernsehen Duisburg",
-            "iptv_urls": [
-                "https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "NJf6re2BP1KzzE",
-            "name": "TV38 S\u00fcdost-Niedersachen",
-            "iptv_urls": [
-                "https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref="
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "6Lz1ceHetsyoUa",
-            "name": "WDR Fernsehen Essen",
-            "iptv_urls": [
-                "https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "HOEGJfbN2vEljn",
-            "name": "WDR Fernsehen K\u00f6ln",
-            "iptv_urls": [
-                "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "wxs1H0scf0XK4q",
-            "name": "WDR Fernsehen M\u00fcnster",
-            "iptv_urls": [
-                "https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "dEZtPa59baOyrW",
-            "name": "WDR Fernsehen Siegen",
-            "iptv_urls": [
-                "https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "dC86JbiDgYV1qp",
-            "name": "WDR Fernsehen Wuppertal",
-            "iptv_urls": [
-                "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8"
+                "https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -409,13 +254,13 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "Dh2uUg08yXJN7u",
-            "name": "Tennis Channel Germany",
+            "nanoid": "REJUigPfewJh6j",
+            "name": "tiviT\u00dcRK",
             "iptv_urls": [
-                "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8"
+                "https://stream.tiviturk.de/live/tiviturk.m3u8"
             ],
             "youtube_urls": [],
-            "language": "",
+            "language": "tur",
             "country": "de",
             "isGeoBlocked": false
         },
@@ -438,17 +283,6 @@
             ],
             "youtube_urls": [],
             "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "qyY0UwrdD794tp",
-            "name": "Starke Frauen",
-            "iptv_urls": [
-                "https://mainstreamstarkefrauen-rakuten.amagi.tv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
             "country": "de",
             "isGeoBlocked": false
         },
@@ -508,17 +342,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "ulPFxJfssVYhRL",
-            "name": "Sophia TV Espa\u00f1ol",
-            "iptv_urls": [
-                "https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "26XgnwsMGpjD8v",
             "name": "Tide TV",
             "iptv_urls": [
@@ -527,17 +350,6 @@
             ],
             "youtube_urls": [],
             "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "REJUigPfewJh6j",
-            "name": "tiviT\u00dcRK",
-            "iptv_urls": [
-                "https://stream.tiviturk.de/live/tiviturk.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "tur",
             "country": "de",
             "isGeoBlocked": false
         },
@@ -557,17 +369,6 @@
             "name": "Top Serien",
             "iptv_urls": [
                 "https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "wErA0A4xOWcO9V",
-            "name": "Travelxp Germany",
-            "iptv_urls": [
-                "https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -608,13 +409,24 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "yep0AEQWzImsdj",
-            "name": "DEFA TV",
+            "nanoid": "NJf6re2BP1KzzE",
+            "name": "TV38 S\u00fcdost-Niedersachen",
             "iptv_urls": [
-                "https://wdrmediagroup-defatv-1-eu.rakuten.wurl.tv/playlist.m3u8"
+                "https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref="
             ],
             "youtube_urls": [],
-            "language": "",
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "vdlrNTq7TC5hbk",
+            "name": "TVA",
+            "iptv_urls": [
+                "https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
             "country": "de",
             "isGeoBlocked": false
         },
@@ -630,10 +442,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "EQlKZrKNoncpvI",
-            "name": "FIFA+ Germany",
+            "nanoid": "0deWs8tTLyJPRE",
+            "name": "FilmGold Germany",
             "iptv_urls": [
-                "https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8"
+                "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -648,17 +460,6 @@
             ],
             "youtube_urls": [],
             "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "1BTUSVqIEACPxb",
-            "name": "Amasia",
-            "iptv_urls": [
-                "https://splendid-film-amasia-1-eu.rakuten.wurl.tv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
             "country": "de",
             "isGeoBlocked": false
         },
@@ -718,21 +519,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "AbxXTVaBkxXkK3",
-            "name": "Comedy & Shows",
+            "nanoid": "6t1cMSkk9OGnfS",
+            "name": "Comedy & Shows Germany",
             "iptv_urls": [
                 "https://comedy-and-shows-rakuten.amagi.tv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "i6LFTdesm4CmTg",
-            "name": "Curiosity Now Germany",
-            "iptv_urls": [
-                "https://autentic-curiosity-now-1-eu.rakuten.wurl.tv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -751,43 +541,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "zOU476HeQiHlnB",
-            "name": "Lindenstrasse",
-            "iptv_urls": [
-                "https://ad2ef2da.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0FSRFBsdXNMaW5kZW5zdHJhZV9ITFM/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "HWTSet3C8bbwKJ",
             "name": "LooLoo Kids TV",
             "iptv_urls": [
                 "https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "6ftPsR4C1PTDrI",
-            "name": "Fluss Monster",
-            "iptv_urls": [
-                "https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "1vBPSqBW9LaA0Z",
-            "name": "MyTime Movie Network Germany",
-            "iptv_urls": [
-                "https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -850,56 +607,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "CAxVgP8GRDkV1H",
-            "name": "Krimi",
+            "nanoid": "Qm2znUA46MmZwc",
+            "name": "labor14",
             "iptv_urls": [
-                "https://4dad3dcf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0FSRFBsdXNLcmltaV9ITFM/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "de",
-            "isGeoBlocked": false
-        }
-    ],
-    "religious": [
-        {
-            "nanoid": "e8rG5QU8htEE7k",
-            "name": "Sophia TV",
-            "iptv_urls": [
-                "https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "vjjVNvSTr7Q0Aw",
-            "name": "Sophia TV Fran\u00e7ais",
-            "iptv_urls": [
-                "https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fra",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "VVcQY1hOdMpI1U",
-            "name": "EchtJetzt TV",
-            "iptv_urls": [
-                "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "W9Bp7ViyOHjoax",
-            "name": "EWTN Germany",
-            "iptv_urls": [
-                "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8"
+                "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -931,54 +642,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "rpldptjFjL2uv5",
-            "name": "OK Mainz",
+            "nanoid": "WXS0fra9wbJjZY",
+            "name": "OK Rhein-Main",
             "iptv_urls": [
-                "https://s.ok54.de/oktvmainz/webstream/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "R8FmRSSy6Ez0Ni",
-            "name": "OK RheinLokal (Worms)",
-            "iptv_urls": [
-                "https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "jLzwTijSyS48Dn",
-            "name": "OK Suedwestpfalz",
-            "iptv_urls": [
-                "https://s.ok54.de/okswp/test/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "F23o0isfrVABPH",
-            "name": "OK Trier",
-            "iptv_urls": [
-                "https://s.ok54.de/ott/webstream/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "s5CdB6WN90dsZ9",
-            "name": "OK Weinstra\u00dfe (Neustadt)",
-            "iptv_urls": [
-                "https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8"
+                "https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -1019,10 +686,132 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "paDrWcFyUNsNMX",
-            "name": "M\u00fcnchen TV",
+            "nanoid": "6Lz1ceHetsyoUa",
+            "name": "WDR Fernsehen Essen",
             "iptv_urls": [
-                "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8"
+                "https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "VX0nmnBQ8D5Pdv",
+            "name": "WDR Fernsehen Aachen",
+            "iptv_urls": [
+                "https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "kpnjh9YYciFo9a",
+            "name": "WDR Fernsehen Bielefeld",
+            "iptv_urls": [
+                "https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "9bq9EK8pK09oGU",
+            "name": "WDR Fernsehen Bonn",
+            "iptv_urls": [
+                "https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "syMY9oojgpG8KI",
+            "name": "WDR Fernsehen Dortmund",
+            "iptv_urls": [
+                "https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "mhLwW0aVVzdJ90",
+            "name": "WDR Fernsehen Duisburg",
+            "iptv_urls": [
+                "https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Gt6McIqzqsAgE1",
+            "name": "WDR Fernsehen D\u00fcsseldorf",
+            "iptv_urls": [
+                "https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "HOEGJfbN2vEljn",
+            "name": "WDR Fernsehen K\u00f6ln",
+            "iptv_urls": [
+                "https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8",
+                "https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "wxs1H0scf0XK4q",
+            "name": "WDR Fernsehen M\u00fcnster",
+            "iptv_urls": [
+                "https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "dEZtPa59baOyrW",
+            "name": "WDR Fernsehen Siegen",
+            "iptv_urls": [
+                "https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "dC86JbiDgYV1qp",
+            "name": "WDR Fernsehen Wuppertal",
+            "iptv_urls": [
+                "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "0xxDuqMMk42taZ",
+            "name": "Niederbayern TV Passau",
+            "iptv_urls": [
+                "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -1185,10 +974,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "d8YHTAnPVAiw8c",
-            "name": "Niederbayern TV",
+            "nanoid": "5HPuRsaIZ7wi9S",
+            "name": "Niederbayern TV Deggendorf & Straubing",
             "iptv_urls": [
-                "https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8"
+                "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "paDrWcFyUNsNMX",
+            "name": "M\u00fcnchen TV",
+            "iptv_urls": [
+                "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -1207,10 +1007,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "WRVOp3UlwzyfTu",
-            "name": "Franken Fernsehen (N\u00fcrnberg)",
+            "nanoid": "d8YHTAnPVAiw8c",
+            "name": "Niederbayern TV",
             "iptv_urls": [
-                "https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8"
+                "https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -1218,10 +1018,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "5HPuRsaIZ7wi9S",
-            "name": "Niederbayern TV Deggendorf & Straubing",
+            "nanoid": "WRVOp3UlwzyfTu",
+            "name": "Franken Fernsehen (N\u00fcrnberg)",
             "iptv_urls": [
-                "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8"
+                "https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -1234,17 +1034,6 @@
             "iptv_urls": [
                 "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8",
                 "https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "0xxDuqMMk42taZ",
-            "name": "Niederbayern TV Passau",
-            "iptv_urls": [
-                "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -1323,17 +1112,6 @@
             "name": "L-TV",
             "iptv_urls": [
                 "https://live2.telvi.de/hls/l-tv_s1.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "18vGI4yRhljatv",
-            "name": "H1 Fernsehen",
-            "iptv_urls": [
-                "https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -1518,17 +1296,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "JUHY7ZFUwE8O9n",
-            "name": "Finest TV",
-            "iptv_urls": [
-                "https://media.finest.tv/hls/live.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "yHOMIT6YTjFRD3",
             "name": "Bibel TV Musik",
             "iptv_urls": [
@@ -1560,14 +1327,25 @@
             "language": "deu",
             "country": "de",
             "isGeoBlocked": false
+        },
+        {
+            "nanoid": "JUHY7ZFUwE8O9n",
+            "name": "Finest TV",
+            "iptv_urls": [
+                "https://media.finest.tv/hls/live.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
         }
     ],
-    "legislative": [
+    "religious": [
         {
-            "nanoid": "eYYqGiBGykkSSs",
-            "name": "Parlamentsfernsehen 3",
+            "nanoid": "e8rG5QU8htEE7k",
+            "name": "Sophia TV",
             "iptv_urls": [
-                "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8"
+                "https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -1575,10 +1353,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "hKXziqHmvJRVZi",
-            "name": "Parlamentsfernsehen 1",
+            "nanoid": "vjjVNvSTr7Q0Aw",
+            "name": "Sophia TV Fran\u00e7ais",
             "iptv_urls": [
-                "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8"
+                "https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fra",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "VVcQY1hOdMpI1U",
+            "name": "EchtJetzt TV",
+            "iptv_urls": [
+                "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -1586,21 +1375,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "ZBBFj5GnvGni4T",
-            "name": "Parlamentsfernsehen 2",
+            "nanoid": "W9Bp7ViyOHjoax",
+            "name": "EWTN Germany",
             "iptv_urls": [
-                "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "9rKd670JNINyhC",
-            "name": "Parlamentsfernsehen 4",
-            "iptv_urls": [
-                "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8"
+                "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -1610,23 +1388,23 @@
     ],
     "shop": [
         {
-            "nanoid": "HiMqxCwB3tPMLP",
-            "name": "Pearl TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/Ou6XkR1tGE4"
-            ],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "PtN8OxL80ZUGMa",
             "name": "QVC 2 Germany",
             "iptv_urls": [
                 "https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8"
             ],
             "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "HiMqxCwB3tPMLP",
+            "name": "Pearl TV",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/Ou6XkR1tGE4"
+            ],
             "language": "deu",
             "country": "de",
             "isGeoBlocked": false
@@ -1687,17 +1465,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "Jz8ammTirg5lLj",
-            "name": "HSE24 Extra",
-            "iptv_urls": [
-                "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "de",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "KWubgLKIN9lBtR",
             "name": "Handystar",
             "iptv_urls": [
@@ -1713,6 +1480,17 @@
             "name": "HSE",
             "iptv_urls": [
                 "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Jz8ammTirg5lLj",
+            "name": "HSE24 Extra",
+            "iptv_urls": [
+                "https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -1755,12 +1533,13 @@
             "isGeoBlocked": false
         }
     ],
-    "sports": [
+    "legislative": [
         {
-            "nanoid": "Rbcaed64dSHjvH",
-            "name": "World of Freesports",
+            "nanoid": "hKXziqHmvJRVZi",
+            "name": "Parlamentsfernsehen 1",
             "iptv_urls": [
-                "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
+                "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
+                "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -1768,10 +1547,32 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "VV5nh58QSIjuA6",
-            "name": "More Than Sports TV",
+            "nanoid": "ZBBFj5GnvGni4T",
+            "name": "Parlamentsfernsehen 2",
             "iptv_urls": [
-                "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
+                "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "eYYqGiBGykkSSs",
+            "name": "Parlamentsfernsehen 3",
+            "iptv_urls": [
+                "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "9rKd670JNINyhC",
+            "name": "Parlamentsfernsehen 4",
+            "iptv_urls": [
+                "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -1780,6 +1581,18 @@
         }
     ],
     "entertainment": [
+        {
+            "nanoid": "4YJWj04hCfbsQM",
+            "name": "WDR 1 Live",
+            "iptv_urls": [
+                "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8",
+                "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
         {
             "nanoid": "gKvpxssPKWiIr7",
             "name": "Zee One",
@@ -1818,7 +1631,7 @@
             "name": "Gl\u00fcck Auf TV - Mittel Erzgebirgs Fernsehen",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/bei8t4Rd9r4"
+                "https://www.youtube-nocookie.com/embed/hPfVti2asvs"
             ],
             "language": "deu",
             "country": "de",
@@ -1829,8 +1642,32 @@
             "name": "Kanal 9 Erzgebirge",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/AJO2s8Qzodw"
+                "https://www.youtube-nocookie.com/embed/W96kJGyfS-o"
             ],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        }
+    ],
+    "sports": [
+        {
+            "nanoid": "Rbcaed64dSHjvH",
+            "name": "World of Freesports",
+            "iptv_urls": [
+                "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "de",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "VV5nh58QSIjuA6",
+            "name": "More Than Sports TV",
+            "iptv_urls": [
+                "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
+            ],
+            "youtube_urls": [],
             "language": "deu",
             "country": "de",
             "isGeoBlocked": false
@@ -1910,19 +1747,6 @@
             ],
             "youtube_urls": [],
             "language": "eng",
-            "country": "de",
-            "isGeoBlocked": false
-        }
-    ],
-    "culture": [
-        {
-            "nanoid": "ZaqHYhAnlIHd0x",
-            "name": "Kanal Avrupa",
-            "iptv_urls": [
-                "https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "tur",
             "country": "de",
             "isGeoBlocked": false
         }

@@ -23,12 +23,38 @@
             "isGeoBlocked": false
         }
     ],
+    "movies": [
+        {
+            "nanoid": "BCwpxvnZLKSQWc",
+            "name": "Armenia Premium",
+            "iptv_urls": [
+                "https://live20.bozztv.com/gin-trn09/gt-ampremium/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "hye",
+            "country": "am",
+            "isGeoBlocked": false
+        }
+    ],
     "news": [
         {
             "nanoid": "pKOdpT5WzCBSuI",
             "name": "First Channel News",
             "iptv_urls": [
                 "https://amtvusdvr.tulix.tv/am3abr/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "hye",
+            "country": "am",
+            "isGeoBlocked": false
+        }
+    ],
+    "religious": [
+        {
+            "nanoid": "aENLEBzeO1aTt6",
+            "name": "Shoghakat TV",
+            "iptv_urls": [
+                "https://live20.bozztv.com/gin-trn09/gt-amshoghakat/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "hye",

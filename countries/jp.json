@@ -23,11 +23,38 @@
             "isGeoBlocked": false
         }
     ],
+    "shop": [
+        {
+            "nanoid": "M98NGeM2JJqoWZ",
+            "name": "QVC Japan",
+            "iptv_urls": [
+                "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "jpn",
+            "country": "jp",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "VFHPY4Y8ToG3zS",
+            "name": "Shop Channel",
+            "iptv_urls": [
+                "https://stream3.shopch.jp/HLS/master.m3u8"
+            ],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/G5BmXmv78iU"
+            ],
+            "language": "jpn",
+            "country": "jp",
+            "isGeoBlocked": false
+        }
+    ],
     "news": [
         {
             "nanoid": "bt1m1v4h1CmExI",
             "name": "NHK World-Japan",
             "iptv_urls": [
+                "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8",
                 "https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8"
             ],
             "youtube_urls": [],
@@ -62,7 +89,7 @@
             "name": "RKB News 24",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/JiDH5bZOews"
+                "https://www.youtube-nocookie.com/embed/h6z0nzJqbhA"
             ],
             "language": "jpn",
             "country": "jp",
@@ -106,18 +133,7 @@
             "name": "TBS NEWS DIG",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/ohI356mwBp8"
-            ],
-            "language": "jpn",
-            "country": "jp",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "ToMXBmes3Kja4W",
-            "name": "TeNY Niigata News",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/FZtX-Oob1XU"
+                "https://www.youtube-nocookie.com/embed/Anr15FA9OCI"
             ],
             "language": "jpn",
             "country": "jp",
@@ -128,7 +144,7 @@
             "name": "TOS News",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/pkubtMhy__E"
+                "https://www.youtube-nocookie.com/embed/-dN1sxckqeI"
             ],
             "language": "jpn",
             "country": "jp",
@@ -146,28 +162,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "zcW6vCKG9ZO6s9",
-            "name": "ABC\u30c6\u30ec\u30d3\u30cb\u30e5\u30fc\u30b9",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/-29O-q6Qfm8"
-            ],
-            "language": "jpn",
-            "country": "jp",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "p6qHyum8xkT7Yw",
-            "name": "FNN\u30d7\u30e9\u30a4\u30e0\u30aa\u30f3\u30e9\u30a4\u30f3",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/KdHAo3FuIGY"
-            ],
-            "language": "jpn",
-            "country": "jp",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "EJU67zKw2oX8W5",
             "name": "HBC Hokkaido News 24",
             "iptv_urls": [],
@@ -179,11 +173,22 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "OPJr34iVleC5zs",
+            "name": "Hiroshima News 24",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/e2pgLUmaxGs"
+            ],
+            "language": "jpn",
+            "country": "jp",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "hwKovrTxuxaj5o",
             "name": "Hokkaido News UHB",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/cwXCuCBF3oY"
+                "https://www.youtube-nocookie.com/embed/6iOt0ZmuSsU"
             ],
             "language": "jpn",
             "country": "jp",
@@ -206,6 +211,17 @@
             "iptv_urls": [],
             "youtube_urls": [
                 "https://www.youtube-nocookie.com/embed/coYw-eVU0Ks"
+            ],
+            "language": "jpn",
+            "country": "jp",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "zcW6vCKG9ZO6s9",
+            "name": "ABC\u30c6\u30ec\u30d3\u30cb\u30e5\u30fc\u30b9",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/-29O-q6Qfm8"
             ],
             "language": "jpn",
             "country": "jp",
@@ -243,17 +259,6 @@
             "language": "jpn",
             "country": "jp",
             "isGeoBlocked": false
-        },
-        {
-            "nanoid": "OPJr34iVleC5zs",
-            "name": "Hiroshima News 24",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/e2pgLUmaxGs"
-            ],
-            "language": "jpn",
-            "country": "jp",
-            "isGeoBlocked": false
         }
     ],
     "kids": [
@@ -280,32 +285,6 @@
             "isGeoBlocked": false
         }
     ],
-    "shop": [
-        {
-            "nanoid": "M98NGeM2JJqoWZ",
-            "name": "QVC Japan",
-            "iptv_urls": [
-                "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "jpn",
-            "country": "jp",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "VFHPY4Y8ToG3zS",
-            "name": "Shop Channel",
-            "iptv_urls": [
-                "https://stream3.shopch.jp/HLS/master.m3u8"
-            ],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/Oa3DX_MzpPE"
-            ],
-            "language": "jpn",
-            "country": "jp",
-            "isGeoBlocked": false
-        }
-    ],
     "science": [
         {
             "nanoid": "PsC2Ff8IrDt4Uv",
@@ -320,6 +299,17 @@
         }
     ],
     "music": [
+        {
+            "nanoid": "JIHZDaqzj6yTSY",
+            "name": "\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u30c1\u30e3\u30f3\u30cd\u30eb",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/T-rDsU9M5EU"
+            ],
+            "language": "jpn",
+            "country": "jp",
+            "isGeoBlocked": false
+        },
         {
             "nanoid": "iDPxLdUClyuBG1",
             "name": "Anileap: \u30a2\u30cb\u30ea\u30fc\u30d7\u516c\u5f0f",
@@ -362,7 +352,7 @@
             "name": "Asahi: Documentary",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/d9HnQGBbV50"
+                "https://www.youtube-nocookie.com/embed/ZU7ZhvDZMog"
             ],
             "language": "jpn",
             "country": "jp",

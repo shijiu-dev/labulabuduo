@@ -1,10 +1,10 @@
 {
     "general": [
         {
-            "nanoid": "NiW1eLWF6Tpazk",
-            "name": "Polar2 TV",
+            "nanoid": "TJaXKOg9obT2nw",
+            "name": "Polar TV",
             "iptv_urls": [
-                "https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8"
+                "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ces",
@@ -12,12 +12,12 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "vlo5ng6qbMlI3x",
-            "name": "Televize FILMpro",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/qowVBqGn2jE"
+            "nanoid": "NiW1eLWF6Tpazk",
+            "name": "Polar2 TV",
+            "iptv_urls": [
+                "https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8"
             ],
+            "youtube_urls": [],
             "language": "ces",
             "country": "cz",
             "isGeoBlocked": false
@@ -56,10 +56,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "yMNi2T844C4jgy",
-            "name": "Plze\u0148 TV",
+            "nanoid": "vlo5ng6qbMlI3x",
+            "name": "Televize FILMpro",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/qowVBqGn2jE"
+            ],
+            "language": "ces",
+            "country": "cz",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "4C6iazzYfwNNzj",
+            "name": "OIK TV",
             "iptv_urls": [
-                "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8"
+                "https://streamer05.low-latency.cz/oiktv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "ces",
@@ -89,21 +100,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "TJaXKOg9obT2nw",
-            "name": "Polar TV",
+            "nanoid": "yMNi2T844C4jgy",
+            "name": "Plze\u0148 TV",
             "iptv_urls": [
-                "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ces",
-            "country": "cz",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "4C6iazzYfwNNzj",
-            "name": "OIK TV",
-            "iptv_urls": [
-                "https://streamer05.low-latency.cz/oiktv/index.m3u8"
+                "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "ces",
@@ -161,6 +161,17 @@
     ],
     "other": [
         {
+            "nanoid": "pjcfIzp5Fm5qbc",
+            "name": "TV NOE",
+            "iptv_urls": [
+                "https://n105.quickmedia.tv/noe-abr/noe-abr/playlist_dvr.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ces",
+            "country": "cz",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "piXRxTA7vAtUKh",
             "name": "\u00daTV",
             "iptv_urls": [
@@ -176,17 +187,6 @@
             "name": "V\u00fdchodo\u010desk\u00e1 TV",
             "iptv_urls": [
                 "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ces",
-            "country": "cz",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "pjcfIzp5Fm5qbc",
-            "name": "TV NOE",
-            "iptv_urls": [
-                "https://n105.quickmedia.tv/noe-abr/noe-abr/playlist_dvr.m3u8"
             ],
             "youtube_urls": [],
             "language": "ces",
@@ -212,6 +212,19 @@
             ],
             "youtube_urls": [],
             "language": "ces",
+            "country": "cz",
+            "isGeoBlocked": false
+        }
+    ],
+    "news": [
+        {
+            "nanoid": "0CtFck8EDsu0ca",
+            "name": "Current Time TV",
+            "iptv_urls": [
+                "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
             "country": "cz",
             "isGeoBlocked": false
         }

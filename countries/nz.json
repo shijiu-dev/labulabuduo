@@ -1,17 +1,4 @@
 {
-    "legislative": [
-        {
-            "nanoid": "pGZdS7NMq1FAlR",
-            "name": "Parliament TV",
-            "iptv_urls": [
-                "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "nz",
-            "isGeoBlocked": false
-        }
-    ],
     "other": [
         {
             "nanoid": "1jOpKreG2aLlwA",
@@ -48,28 +35,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "etg1QtG5OKYo2P",
-            "name": "Kordia TV",
-            "iptv_urls": [
-                "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "nz",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "YQsCj1DDdgmv1Z",
-            "name": "Drybar Comedy",
-            "iptv_urls": [
-                "https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "nz",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "ouzJTzWehzRiyY",
             "name": "CineView",
             "iptv_urls": [
@@ -90,6 +55,17 @@
             "language": "",
             "country": "nz",
             "isGeoBlocked": false
+        },
+        {
+            "nanoid": "etg1QtG5OKYo2P",
+            "name": "Kordia TV",
+            "iptv_urls": [
+                "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "nz",
+            "isGeoBlocked": false
         }
     ],
     "entertainment": [
@@ -100,6 +76,19 @@
             "youtube_urls": [
                 "https://www.youtube-nocookie.com/embed/47UuBxCn6e4"
             ],
+            "language": "eng",
+            "country": "nz",
+            "isGeoBlocked": false
+        }
+    ],
+    "legislative": [
+        {
+            "nanoid": "pGZdS7NMq1FAlR",
+            "name": "Parliament TV",
+            "iptv_urls": [
+                "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8"
+            ],
+            "youtube_urls": [],
             "language": "eng",
             "country": "nz",
             "isGeoBlocked": false

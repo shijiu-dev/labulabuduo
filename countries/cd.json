@@ -1,4 +1,61 @@
 {
+    "religious": [
+        {
+            "nanoid": "SbXABTl4CnEfqa",
+            "name": "ONE-TV",
+            "iptv_urls": [
+                "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fra",
+            "country": "cd",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "8LOmsJ4tSkesGy",
+            "name": "Mishapi Voice TV",
+            "iptv_urls": [
+                "https://tnt-television.com/MISHAPI-STREAM1/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fra",
+            "country": "cd",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "6HjiInfkoOCTQt",
+            "name": "LBFD RTV",
+            "iptv_urls": [
+                "https://tnt-television.com/LBFD_RTV/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fra",
+            "country": "cd",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "XT7eoy2OYibIED",
+            "name": "CCPV TV",
+            "iptv_urls": [
+                "https://tnt-television.com/CCPV-TV/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fra",
+            "country": "cd",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "ySblSG7rL2qlNr",
+            "name": "Metanoia TV",
+            "iptv_urls": [
+                "https://tnt-television.com/METANOIA-STREAM1/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fra",
+            "country": "cd",
+            "isGeoBlocked": false
+        }
+    ],
     "general": [
         {
             "nanoid": "DNL85vskEfv05e",
@@ -58,63 +115,6 @@
             "isGeoBlocked": false
         }
     ],
-    "religious": [
-        {
-            "nanoid": "QOfJ38EhuVvyDe",
-            "name": "Compassion TV",
-            "iptv_urls": [
-                "https://tnt-television.com/COMPASSION_FM/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fra",
-            "country": "cd",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "SbXABTl4CnEfqa",
-            "name": "ONE-TV",
-            "iptv_urls": [
-                "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fra",
-            "country": "cd",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "ySblSG7rL2qlNr",
-            "name": "Metanoia TV",
-            "iptv_urls": [
-                "https://tnt-television.com/METANOIA-STREAM1/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fra",
-            "country": "cd",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "XT7eoy2OYibIED",
-            "name": "CCPV TV",
-            "iptv_urls": [
-                "https://tnt-television.com/CCPV-TV/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fra",
-            "country": "cd",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "6HjiInfkoOCTQt",
-            "name": "LBFD RTV",
-            "iptv_urls": [
-                "https://tnt-television.com/LBFD_RTV/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fra",
-            "country": "cd",
-            "isGeoBlocked": false
-        }
-    ],
     "other": [
         {
             "nanoid": "UzHYdyET8p8TTx",
@@ -124,19 +124,6 @@
             ],
             "youtube_urls": [],
             "language": "",
-            "country": "cd",
-            "isGeoBlocked": false
-        }
-    ],
-    "news": [
-        {
-            "nanoid": "WAGlEl54HjyWyD",
-            "name": "G\u00e9opolis TV",
-            "iptv_urls": [
-                "https://tnt-television.com/Geopolis_tv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fra",
             "country": "cd",
             "isGeoBlocked": false
         }

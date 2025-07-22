@@ -23,17 +23,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "lsn2po0NoORfy7",
-            "name": "Bel RTL",
-            "iptv_urls": [
-                "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fra",
-            "country": "be",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "zopX3UbWUAAl4C",
             "name": "Joe FM",
             "iptv_urls": [
@@ -43,20 +32,20 @@
             "language": "nld",
             "country": "be",
             "isGeoBlocked": false
-        }
-    ],
-    "other": [
+        },
         {
-            "nanoid": "Nawp6hUkpbwpTg",
-            "name": "RTL-TVI",
+            "nanoid": "lsn2po0NoORfy7",
+            "name": "Bel RTL",
             "iptv_urls": [
-                "https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8"
+                "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8"
             ],
             "youtube_urls": [],
             "language": "fra",
             "country": "be",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "other": [
         {
             "nanoid": "5Zcz2bxyMU9HNA",
             "name": "VTM",
@@ -69,13 +58,13 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "PrJGVTJWc9crU5",
-            "name": "VTM 2",
+            "nanoid": "Nawp6hUkpbwpTg",
+            "name": "RTL-TVI",
             "iptv_urls": [
-                "https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8"
+                "https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8"
             ],
             "youtube_urls": [],
-            "language": "nld",
+            "language": "fra",
             "country": "be",
             "isGeoBlocked": false
         },
@@ -84,6 +73,19 @@
             "name": "BX1",
             "iptv_urls": [
                 "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fra",
+            "country": "be",
+            "isGeoBlocked": false
+        }
+    ],
+    "business": [
+        {
+            "nanoid": "fnLMviFzmCw79c",
+            "name": "Trends Z",
+            "iptv_urls": [
+                "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "fra",
@@ -104,13 +106,13 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "zAiv1kjoT63gMu",
-            "name": "HLN Live",
+            "nanoid": "Pek3wJ8DtbjdIJ",
+            "name": "Sterk TV",
             "iptv_urls": [
-                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8"
+                "https://trn09.bozztv.com/gin-sterk/index.m3u8"
             ],
             "youtube_urls": [],
-            "language": "nld",
+            "language": "kur",
             "country": "be",
             "isGeoBlocked": false
         },
@@ -122,6 +124,17 @@
             ],
             "youtube_urls": [],
             "language": "fra",
+            "country": "be",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "zAiv1kjoT63gMu",
+            "name": "HLN Live",
+            "iptv_urls": [
+                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
             "country": "be",
             "isGeoBlocked": false
         }
@@ -137,14 +150,12 @@
             "language": "nld",
             "country": "be",
             "isGeoBlocked": false
-        }
-    ],
-    "culture": [
+        },
         {
-            "nanoid": "K4LyZRSbFfF4co",
-            "name": "Bel'Afrika Media TV",
+            "nanoid": "8NTileZb0uFTPL",
+            "name": "MaTele",
             "iptv_urls": [
-                "https://goccn.cloud/hls/belafrikatv/index.m3u8"
+                "https://live.matele.be/hls/live.m3u8"
             ],
             "youtube_urls": [],
             "language": "fra",
@@ -158,6 +169,19 @@
             "name": "Japanim TV",
             "iptv_urls": [
                 "https://foxkidstv.be:3369/stream/play.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fra",
+            "country": "be",
+            "isGeoBlocked": false
+        }
+    ],
+    "culture": [
+        {
+            "nanoid": "K4LyZRSbFfF4co",
+            "name": "Bel'Afrika Media TV",
+            "iptv_urls": [
+                "https://goccn.cloud/hls/belafrikatv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "fra",

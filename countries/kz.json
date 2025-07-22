@@ -1,83 +1,4 @@
 {
-    "other": [
-        {
-            "nanoid": "HLcBNIMeG4CXgY",
-            "name": "Ont\u00fastik",
-            "iptv_urls": [
-                "https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kaz",
-            "country": "kz",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "FppU7q3IhJObQ8",
-            "name": "Qazaqstan TV",
-            "iptv_urls": [
-                "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kaz",
-            "country": "kz",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "PMwzchcqbjnsfa",
-            "name": "Qostanai",
-            "iptv_urls": [
-                "https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kaz",
-            "country": "kz",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "eepJygZxahztw1",
-            "name": "Qyzyljar",
-            "iptv_urls": [
-                "https://stream.kaztrk.kz/regional/petropavltv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kaz",
-            "country": "kz",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "vMqkevgsCxeqeq",
-            "name": "Qyzylorda",
-            "iptv_urls": [
-                "https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kaz",
-            "country": "kz",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "e365egePCiMt2P",
-            "name": "Saryarqa",
-            "iptv_urls": [
-                "https://stream.kaztrk.kz/regional/karagandytv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kaz",
-            "country": "kz",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "jIgDetReIEdnsC",
-            "name": "Alau TV",
-            "iptv_urls": [
-                "https://otv.wotom.net/alau/stream.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kaz",
-            "country": "kz",
-            "isGeoBlocked": false
-        }
-    ],
     "general": [
         {
             "nanoid": "u6Kfd6P0YKGpB4",
@@ -91,13 +12,13 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "IQsye2yif5KrI1",
-            "name": "Seme\u0131",
+            "nanoid": "APCyUHitJGQfWl",
+            "name": "\u041c\u0422\u0420\u041a",
             "iptv_urls": [
-                "https://stream.kaztrk.kz/regional/semeytv/index.m3u8"
+                "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8"
             ],
             "youtube_urls": [],
-            "language": "kaz",
+            "language": "rus",
             "country": "kz",
             "isGeoBlocked": false
         },
@@ -113,13 +34,24 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "APCyUHitJGQfWl",
-            "name": "\u041c\u0422\u0420\u041a",
+            "nanoid": "IQsye2yif5KrI1",
+            "name": "Seme\u0131",
             "iptv_urls": [
-                "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8"
+                "https://stream.kaztrk.kz/regional/semeytv/index.m3u8"
             ],
             "youtube_urls": [],
-            "language": "rus",
+            "language": "kaz",
+            "country": "kz",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Tv4n4LLG3T4OT8",
+            "name": "K\u00f3kshe",
+            "iptv_urls": [
+                "https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kaz",
             "country": "kz",
             "isGeoBlocked": false
         },
@@ -188,41 +120,6 @@
             "language": "kaz",
             "country": "kz",
             "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Tv4n4LLG3T4OT8",
-            "name": "K\u00f3kshe",
-            "iptv_urls": [
-                "https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kaz",
-            "country": "kz",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "n7nkFHwX3Y7qJ6",
-            "name": "Ma\u0144\u01f5ysta\u00fd",
-            "iptv_urls": [
-                "https://stream.kaztrk.kz/regional/mangystautv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kaz",
-            "country": "kz",
-            "isGeoBlocked": false
-        }
-    ],
-    "sports": [
-        {
-            "nanoid": "RlDh4IHVR4WpZw",
-            "name": "QazSport",
-            "iptv_urls": [
-                "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kaz",
-            "country": "kz",
-            "isGeoBlocked": false
         }
     ],
     "news": [
@@ -231,7 +128,7 @@
             "name": "\u0422\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b 24kz",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/U_n_HnmlNaw"
+                "https://www.youtube-nocookie.com/embed/KetN4zYDbs0"
             ],
             "language": "rus",
             "country": "kz",
@@ -249,12 +146,80 @@
             "isGeoBlocked": false
         }
     ],
-    "music": [
+    "other": [
         {
-            "nanoid": "WoQEf6zQAxKfCA",
-            "name": "MuzzOne",
+            "nanoid": "e365egePCiMt2P",
+            "name": "Saryarqa",
             "iptv_urls": [
-                "https://hls.live.31kz.adapto.kz/muzzone/index.m3u8"
+                "https://stream.kaztrk.kz/regional/karagandytv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kaz",
+            "country": "kz",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "vMqkevgsCxeqeq",
+            "name": "Qyzylorda",
+            "iptv_urls": [
+                "https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kaz",
+            "country": "kz",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "eepJygZxahztw1",
+            "name": "Qyzyljar",
+            "iptv_urls": [
+                "https://stream.kaztrk.kz/regional/petropavltv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kaz",
+            "country": "kz",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "PMwzchcqbjnsfa",
+            "name": "Qostanai",
+            "iptv_urls": [
+                "https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kaz",
+            "country": "kz",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "FppU7q3IhJObQ8",
+            "name": "Qazaqstan TV",
+            "iptv_urls": [
+                "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kaz",
+            "country": "kz",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "jIgDetReIEdnsC",
+            "name": "Alau TV",
+            "iptv_urls": [
+                "https://otv.wotom.net/alau/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kaz",
+            "country": "kz",
+            "isGeoBlocked": false
+        }
+    ],
+    "sports": [
+        {
+            "nanoid": "RlDh4IHVR4WpZw",
+            "name": "QazSport",
+            "iptv_urls": [
+                "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "kaz",
@@ -281,6 +246,19 @@
             "name": "Balapan TV",
             "iptv_urls": [
                 "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kaz",
+            "country": "kz",
+            "isGeoBlocked": false
+        }
+    ],
+    "music": [
+        {
+            "nanoid": "WoQEf6zQAxKfCA",
+            "name": "MuzzOne",
+            "iptv_urls": [
+                "https://hls.live.31kz.adapto.kz/muzzone/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "kaz",

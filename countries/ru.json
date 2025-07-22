@@ -1,10 +1,10 @@
 {
-    "news": [
+    "religious": [
         {
-            "nanoid": "l3U18FWIil4l8h",
-            "name": "\u041a\u0420\u0418\u041a-\u0422\u0412 (\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433)",
+            "nanoid": "XBEmtUuQphx0AS",
+            "name": "\u041c\u0443\u0437 \u0441\u043e\u044e\u0437",
             "iptv_urls": [
-                "https://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8"
+                "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -12,10 +12,11 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "K7MkhCrOepYy6F",
-            "name": "\u041b\u0435\u0433\u0435\u043d\u0434\u0430\u0440\u043d\u044b\u0439 24",
+            "nanoid": "lCl8WMVdJ5MxcZ",
+            "name": "\u041d\u0430\u0434\u0435\u0436\u0434\u0430",
             "iptv_urls": [
-                "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
+                "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+                "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -23,10 +24,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "XjZW6x6PGKTPg0",
-            "name": "\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f",
+            "nanoid": "gTpe7IQt8t8tRu",
+            "name": "\u041a\u0430\u0431\u0431\u0430\u043b\u0430 \u0422\u0412",
             "iptv_urls": [
-                "https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8"
+                "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -34,11 +35,11 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "AIHRA4w3vdxLfI",
-            "name": "\u0422\u043e\u043b\u043a HD",
+            "nanoid": "TfaEWFgppVp2Rt",
+            "name": "\u0422\u0440\u0438 \u0410\u043d\u0433\u0435\u043b\u0430",
             "iptv_urls": [
-                "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
-                "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
+                "https://hls.tv.3angels.ru/stream.m3u8",
+                "https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -46,11 +47,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "kUjDpkaxsNrqT9",
-            "name": "\u0420\u043e\u0441\u0441\u0438\u044f 24",
+            "nanoid": "644fFRd06AWlyf",
+            "name": "\u0425\u0443\u0437\u0443\u0440 \u0422\u0412",
             "iptv_urls": [
-                "https://streaming.televizor-24-tochka.ru/live/30.m3u8",
-                "https://streaming.skynetconnect.online/live/30.m3u8"
+                "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -58,10 +58,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "YE3lwyUGvtLVBz",
-            "name": "360\u00b0 \u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+            "nanoid": "DN9KSZSbROa2qk",
+            "name": "\u0421\u043e\u044e\u0437",
             "iptv_urls": [
-                "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8"
+                "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -69,37 +69,13 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "GaxdR3CfuVEY6D",
-            "name": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c 24",
+            "nanoid": "qtiWLEZdWFW0Tb",
+            "name": "\u0421\u041f\u0410\u0421",
             "iptv_urls": [
-                "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8"
+                "https://spas.mediacdn.ru/cdn/spas/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "JnxjBtQt6s0RPO",
-            "name": "RT Arabic",
-            "iptv_urls": [
-                "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
-                "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "mPfWobHfV25q8P",
-            "name": "RT en Espa\u00f1ol",
-            "iptv_urls": [
-                "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
-                "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
             "country": "ru",
             "isGeoBlocked": false
         }
@@ -150,33 +126,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "W3k5nQPsuuFhwy",
-            "name": "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u043b\u0438\u043d\u0438\u044f",
+            "nanoid": "h4XqYLN5BBAUkl",
+            "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439",
             "iptv_urls": [
-                "https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8",
-                "https://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "x3K6ZIGQqiYkqb",
-            "name": "\u041a\u0418\u041d\u041e-1 INTERNATIONAL",
-            "iptv_urls": [
-                "https://autopilot.catcast.tv/content/38617/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "lQnAhlrKiieUTC",
-            "name": "\u041a\u0438\u043d\u043e 1 International",
-            "iptv_urls": [
-                "https://kino-1.catcast.tv/content/38617/index.m3u8"
+                "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -195,21 +148,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "wIP1vVYNV6iQvd",
-            "name": "\u0414\u0435\u0442\u0441\u043a\u043e\u0435 \u043a\u0438\u043d\u043e International",
+            "nanoid": "pDyufQ5FcaL7TY",
+            "name": "\u0417\u0432\u0435\u0437\u0434\u0430 \u041f\u043b\u044e\u0441",
             "iptv_urls": [
-                "https://autopilot.catcast.tv/content/38720/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "WMn4d8yyfRaen5",
-            "name": "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
-            "iptv_urls": [
-                "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8"
+                "https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -217,10 +159,66 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "OBVlZ4r6srVWUy",
-            "name": "\u042e\u0433\u0440\u0430",
+            "nanoid": "lQnAhlrKiieUTC",
+            "name": "\u041a\u0438\u043d\u043e 1 International",
             "iptv_urls": [
-                "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8"
+                "https://kino-1.catcast.tv/content/38617/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "x3K6ZIGQqiYkqb",
+            "name": "\u041a\u0418\u041d\u041e-1 INTERNATIONAL",
+            "iptv_urls": [
+                "https://autopilot.catcast.tv/content/38617/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "W3k5nQPsuuFhwy",
+            "name": "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u043b\u0438\u043d\u0438\u044f",
+            "iptv_urls": [
+                "https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8",
+                "https://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "P0QpY46NVNwvnd",
+            "name": "\u0422\u0412\u041a 24",
+            "iptv_urls": [
+                "https://air.tvk6.ru/tvk24/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "EMI75wRd9fhjIw",
+            "name": "\u0422\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440",
+            "iptv_urls": [
+                "https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "lFHxymRgYvsnV7",
+            "name": "\u0422\u0435\u043b\u043f\u043b\u044e\u0441 \u0422\u0412 (\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c)",
+            "iptv_urls": [
+                "https://streaming.astrakhan.ru/telplushd/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -239,10 +237,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "lFHxymRgYvsnV7",
-            "name": "\u0422\u0435\u043b\u043f\u043b\u044e\u0441 \u0422\u0412 (\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c)",
+            "nanoid": "OBVlZ4r6srVWUy",
+            "name": "\u042e\u0433\u0440\u0430",
             "iptv_urls": [
-                "https://streaming.astrakhan.ru/telplushd/playlist.m3u8"
+                "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -250,10 +248,12 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "dgMx8sDoefxlM7",
-            "name": "\u041f\u0440\u043e\u0441\u0432\u0435\u0449\u0435\u043d\u0438\u0435",
+            "nanoid": "3OOeiozk8ilduN",
+            "name": "Univer TV",
             "iptv_urls": [
-                "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
+                "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
+                "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
+                "https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -261,10 +261,11 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "84HXD5LPc8NimV",
-            "name": "\u0421\u0443\u0440\u0433\u0443\u0442 24",
+            "nanoid": "v5BobHbQa3QGys",
+            "name": "\u0421\u0435\u0432\u0435\u0440 (\u041d\u0430\u0440\u044c\u044f\u043d-\u041c\u0430\u0440)",
             "iptv_urls": [
-                "https://sitv.ru/vgtrk/stv.m3u8"
+                "https://live2.mediacdn.ru/sr1/sever/playlist.m3u8",
+                "https://live.mediacdn.ru/sr1/sever/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -272,10 +273,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "7b5R8cKF38hUmT",
-            "name": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c",
+            "nanoid": "Y4xhoODgjNlFG2",
+            "name": "\u0420\u043e\u0441\u0441\u0438\u044f \u0420\u0422\u0420",
             "iptv_urls": [
-                "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8"
+                "https://streaming.skynetconnect.online/live/211.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -283,10 +284,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "ajdBoaQ2tGHGnT",
-            "name": "\u0421\u0432\u043e\u0451 HD",
+            "nanoid": "AL13wnHi0qOCN5",
+            "name": "\u04211 (\u0421\u0443\u0440\u0433\u0443\u0442)",
             "iptv_urls": [
-                "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8"
+                "https://sitv.ru/hls/stv.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -305,10 +306,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "AL13wnHi0qOCN5",
-            "name": "\u04211 (\u0421\u0443\u0440\u0433\u0443\u0442)",
+            "nanoid": "ajdBoaQ2tGHGnT",
+            "name": "\u0421\u0432\u043e\u0451 HD",
             "iptv_urls": [
-                "https://sitv.ru/hls/stv.m3u8"
+                "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -316,10 +317,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "Y4xhoODgjNlFG2",
-            "name": "\u0420\u043e\u0441\u0441\u0438\u044f \u0420\u0422\u0420",
+            "nanoid": "dgMx8sDoefxlM7",
+            "name": "\u041f\u0440\u043e\u0441\u0432\u0435\u0449\u0435\u043d\u0438\u0435",
             "iptv_urls": [
-                "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
+                "https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "7b5R8cKF38hUmT",
+            "name": "\u0421\u043c\u043e\u0442\u0440\u0438\u043c",
+            "iptv_urls": [
+                "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -327,13 +339,35 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "tRjB1srD2Y47HO",
-            "name": "\u0412\u043c\u0435\u0441\u0442\u0435 \u0420\u0424",
+            "nanoid": "84HXD5LPc8NimV",
+            "name": "\u0421\u0443\u0440\u0433\u0443\u0442 24",
             "iptv_urls": [
-                "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
+                "https://sitv.ru/vgtrk/stv.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "AwFWSg3vQpeSdA",
+            "name": "Pobeda",
+            "iptv_urls": [
+                "https://streaming.skynetconnect.online/live/43.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "wIP1vVYNV6iQvd",
+            "name": "\u0414\u0435\u0442\u0441\u043a\u043e\u0435 \u043a\u0438\u043d\u043e International",
+            "iptv_urls": [
+                "https://autopilot.catcast.tv/content/38720/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
             "country": "ru",
             "isGeoBlocked": false
         },
@@ -349,43 +383,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "uwiOfsLMvkb1ym",
-            "name": "\u0412\u043e\u043b\u0433\u0430 (HD)",
+            "nanoid": "XZdxMkliOodrfO",
+            "name": "Zagorodnaya Zhizn",
             "iptv_urls": [
-                "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "hyGNAyWTM5V3VT",
-            "name": "\u0411\u0421\u0422 (\u0411\u0430\u0448\u043a\u0438\u0440\u0441\u043a\u043e\u0435 \u0441\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u043e\u0435 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u0435)",
-            "iptv_urls": [
-                "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "b2LICrzMiejVED",
-            "name": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c.Ru TV",
-            "iptv_urls": [
-                "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Ry3ID7sJhAQ0Uy",
-            "name": "Zoopark",
-            "iptv_urls": [
-                "https://s1.merlive.am/Zoopark/index.m3u8"
+                "https://s7.merlive.am/zagorodnayajizn/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -404,11 +405,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "3OOeiozk8ilduN",
-            "name": "Univer TV",
+            "nanoid": "Ry3ID7sJhAQ0Uy",
+            "name": "Zoopark",
             "iptv_urls": [
-                "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
-                "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8"
+                "https://s1.merlive.am/Zoopark/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -416,10 +416,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "Fq3Tj6FkUeq9tg",
-            "name": "Tochka otryva",
+            "nanoid": "wllXuyEivFsvvl",
+            "name": "\u0410\u0440\u0445\u044b\u0437 24",
             "iptv_urls": [
-                "https://s1.merlive.am/tochkaotriva/index.m3u8"
+                "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -427,11 +427,65 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "AwFWSg3vQpeSdA",
-            "name": "Pobeda",
+            "nanoid": "b2LICrzMiejVED",
+            "name": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c.Ru TV",
             "iptv_urls": [
-                "https://streaming.televizor-24-tochka.ru/live/43.m3u8",
-                "https://streaming.skynetconnect.online/live/43.m3u8"
+                "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "hyGNAyWTM5V3VT",
+            "name": "\u0411\u0421\u0422 (\u0411\u0430\u0448\u043a\u0438\u0440\u0441\u043a\u043e\u0435 \u0441\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u043e\u0435 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u0435)",
+            "iptv_urls": [
+                "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "tRjB1srD2Y47HO",
+            "name": "\u0412\u043c\u0435\u0441\u0442\u0435 \u0420\u0424",
+            "iptv_urls": [
+                "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "uwiOfsLMvkb1ym",
+            "name": "\u0412\u043e\u043b\u0433\u0430 (HD)",
+            "iptv_urls": [
+                "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "WMn4d8yyfRaen5",
+            "name": "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
+            "iptv_urls": [
+                "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "AzQJPoEMlhRS4n",
+            "name": "TV Centr",
+            "iptv_urls": [
+                "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -448,20 +502,234 @@
             "language": "rus",
             "country": "ru",
             "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Fq3Tj6FkUeq9tg",
+            "name": "Tochka otryva",
+            "iptv_urls": [
+                "https://s1.merlive.am/tochkaotriva/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
         }
     ],
-    "general": [
+    "kids": [
         {
-            "nanoid": "o4YZnzTzgoxbDb",
-            "name": "\u041a\u0443\u0440\u0430\u0439 (\u0423\u0444\u0430)",
+            "nanoid": "gJChs4RXWcqghm",
+            "name": "\u041c\u0443\u043b\u044c\u0442\u0438\u043c\u0430\u043d\u0438\u044f",
             "iptv_urls": [
-                "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8"
+                "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
+                "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
             "country": "ru",
             "isGeoBlocked": false
         },
+        {
+            "nanoid": "seBkiHFn8gkgrY",
+            "name": "\u041a\u0430\u0440\u0443\u0441\u0435\u043b\u044c",
+            "iptv_urls": [
+                "https://streaming.skynetconnect.online/live/232.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Ph3sAZycESjTXH",
+            "name": "\u0422\u0430\u043c\u044b\u0440 (\u0423\u0444\u0430)",
+            "iptv_urls": [
+                "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "bak",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "S7XWd4ADfnPIn3",
+            "name": "\u0420\u0430\u0434\u043e\u0441\u0442\u044c \u043c\u043e\u044f",
+            "iptv_urls": [
+                "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "jf4gPtHjnGADqF",
+            "name": "\u0421\u043e\u044e\u0437\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c: \u041d\u0443, \u043f\u043e\u0433\u043e\u0434\u0438!",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/-4457lHTOLc"
+            ],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "ADmxE4x4wFzXBU",
+            "name": "\u0421\u043e\u044e\u0437\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c: \u041f\u0440\u043e\u0441\u0442\u043e\u043a\u0432\u0430\u0448\u0438\u043d\u043e",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/4UhHLQZLXyY"
+            ],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "HIYNkCzd1JA2lB",
+            "name": "Mama",
+            "iptv_urls": [
+                "https://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "01MRODsYpIe9lI",
+            "name": "Mult",
+            "iptv_urls": [
+                "https://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "RHPHGPbs3tcbvm",
+            "name": "Mult i muzyka",
+            "iptv_urls": [
+                "https://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Jw5WL1s9nrf85x",
+            "name": "Ani",
+            "iptv_urls": [
+                "https://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "osISnF3JomfnFF",
+            "name": "Carousel International",
+            "iptv_urls": [
+                "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "zXKH8WmbfaDrMI",
+            "name": "Get Movies: \u041c\u0430\u0448\u0430 \u0438 \u041c\u0435\u0434\u0432\u0435\u0434\u044c",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/lQS4dHmbuc8"
+            ],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "EDJsRoJArkwgcL",
+            "name": "Jetix",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/Kja1iUnxeRQ"
+            ],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "1PDAXeZuzrm6dH",
+            "name": "V gostyakh u skazki",
+            "iptv_urls": [
+                "https://s1.merlive.am/vgostyaxuskazki/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "2cqczD8kdz7wyL",
+            "name": "Solnce",
+            "iptv_urls": [
+                "https://tv.mediacdn.ru/live/solntse/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        }
+    ],
+    "documentary": [
+        {
+            "nanoid": "sao2rpFyAlLRAD",
+            "name": "\u041d\u0430\u043d\u043e \u0422\u0412 HD",
+            "iptv_urls": [
+                "https://s1.tv-nano.com/Nano_rec/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "qvshctukdxD4Jr",
+            "name": "Nauka",
+            "iptv_urls": [
+                "https://vod.tuva.ru/nauka2/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "0mulGVhtSW9kDC",
+            "name": "RT Documentary Russian",
+            "iptv_urls": [
+                "https://streaming.skynetconnect.online/live/554.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "I7PhM3btdu71JQ",
+            "name": "Tayny Galaktiki",
+            "iptv_urls": [
+                "https://s1.merlive.am/TainiGalaktiki/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        }
+    ],
+    "general": [
         {
             "nanoid": "gB8tELUDVeaGTe",
             "name": "\u041d\u0412\u041a \u0421\u0430\u0445\u0430",
@@ -478,6 +746,17 @@
             "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 24",
             "iptv_urls": [
                 "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "vS6J0kXBLE78kR",
+            "name": "\u041d\u0438\u043a\u0430 \u0422\u0412",
+            "iptv_urls": [
+                "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -518,46 +797,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "U4INrzVYWsDWWg",
-            "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
+            "nanoid": "RwPXD8LwO5Q5WI",
+            "name": "\u041e\u0421\u041d",
             "iptv_urls": [
-                "https://streaming.televizor-24-tochka.ru/live/210.m3u8",
-                "https://streaming.skynetconnect.online/live/210.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "uKc7FCTFVYx1He",
-            "name": "\u0418\u043d\u0433\u0443\u0448\u0435\u0442\u0438\u044f \u0422\u0412",
-            "iptv_urls": [
-                "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "0aNqMqNfvYuTeN",
-            "name": "\u0417\u0432\u0435\u0437\u0434\u0430",
-            "iptv_urls": [
-                "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
-                "https://streaming.televizor-24-tochka.ru/live/748.m3u8",
-                "https://streaming.skynetconnect.online/live/748.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "MWpwpmNBFVXPy8",
-            "name": "\u0415\u043d\u0438\u0441\u0435\u0439",
-            "iptv_urls": [
-                "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8"
+                "https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -576,10 +819,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "prXcBYtn3tI3lj",
-            "name": "\u042d\u0445\u043e TV (\u0420\u044f\u0437\u0430\u043d\u044c)",
+            "nanoid": "MWpwpmNBFVXPy8",
+            "name": "\u0415\u043d\u0438\u0441\u0435\u0439",
             "iptv_urls": [
-                "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8"
+                "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -587,10 +830,12 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "AyRHI5JIwcnvUa",
-            "name": "\u0426\u0435\u043d\u0442\u0440 (\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a)",
+            "nanoid": "0aNqMqNfvYuTeN",
+            "name": "\u0417\u0432\u0435\u0437\u0434\u0430",
             "iptv_urls": [
-                "https://stream.tck.tv/hd.m3u8"
+                "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
+                "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8",
+                "https://streaming.skynetconnect.online/live/748.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -598,10 +843,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "RH6fEJb5kMD2Ge",
-            "name": "\u0422\u041a \u0410\u043b\u043c\u0430\u0437\u043d\u044b\u0439 \u043a\u0440\u0430\u0439",
+            "nanoid": "uKc7FCTFVYx1He",
+            "name": "\u0418\u043d\u0433\u0443\u0448\u0435\u0442\u0438\u044f \u0422\u0412",
             "iptv_urls": [
-                "https://stream.almaz-media.tv:8080/hls/576.m3u8"
+                "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "o4YZnzTzgoxbDb",
+            "name": "\u041a\u0443\u0440\u0430\u0439 (\u0423\u0444\u0430)",
+            "iptv_urls": [
+                "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -620,10 +876,32 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "8KkzMzj0gbrJEI",
-            "name": "360\u00b0",
+            "nanoid": "RH6fEJb5kMD2Ge",
+            "name": "\u0422\u041a \u0410\u043b\u043c\u0430\u0437\u043d\u044b\u0439 \u043a\u0440\u0430\u0439",
             "iptv_urls": [
-                "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8"
+                "https://stream.almaz-media.tv:8080/hls/576.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "prXcBYtn3tI3lj",
+            "name": "\u042d\u0445\u043e TV (\u0420\u044f\u0437\u0430\u043d\u044c)",
+            "iptv_urls": [
+                "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "splkmO5m1RfhmY",
+            "name": "KTOKUDA",
+            "iptv_urls": [
+                "https://s7.merlive.am/ktokuda/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -643,10 +921,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "H8wU5vcIBxPEzP",
-            "name": "\u0411\u0435\u043b\u0420\u043e\u0441",
+            "nanoid": "8KkzMzj0gbrJEI",
+            "name": "360\u00b0",
             "iptv_urls": [
-                "https://live2.mediacdn.ru/sr1/tro/playlist.m3u8"
+                "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Rtthjg4Rw9SfrY",
+            "name": "\u0410\u0438\u0441\u0442 \u0422\u0412",
+            "iptv_urls": [
+                "https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -665,10 +954,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "Rtthjg4Rw9SfrY",
-            "name": "\u0410\u0438\u0441\u0442 \u0422\u0412",
+            "nanoid": "H8wU5vcIBxPEzP",
+            "name": "\u0411\u0435\u043b\u0420\u043e\u0441",
             "iptv_urls": [
-                "https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8"
+                "https://live2.mediacdn.ru/sr1/tro/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -699,277 +988,12 @@
             "isGeoBlocked": false
         }
     ],
-    "documentary": [
-        {
-            "nanoid": "sao2rpFyAlLRAD",
-            "name": "\u041d\u0430\u043d\u043e \u0422\u0412 HD",
-            "iptv_urls": [
-                "https://s1.tv-nano.com/Nano_rec/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "qvshctukdxD4Jr",
-            "name": "Nauka",
-            "iptv_urls": [
-                "https://vod.tuva.ru/nauka2/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "0mulGVhtSW9kDC",
-            "name": "RT Documentary Russian",
-            "iptv_urls": [
-                "https://streaming.televizor-24-tochka.ru/live/554.m3u8",
-                "https://streaming.skynetconnect.online/live/554.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "I7PhM3btdu71JQ",
-            "name": "Tayny Galaktiki",
-            "iptv_urls": [
-                "https://s1.merlive.am/TainiGalaktiki/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        }
-    ],
     "culture": [
         {
             "nanoid": "SouHlOn23CzTQS",
             "name": "\u041d\u0422\u0412 \u041c\u0438\u0440",
             "iptv_urls": [
-                "https://streaming.televizor-24-tochka.ru/live/213.m3u8",
                 "https://streaming.skynetconnect.online/live/213.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        }
-    ],
-    "series": [
-        {
-            "nanoid": "J3EJNMTTTwoCfX",
-            "name": "\u041a\u0438\u043d\u043e \u0414\u043e\u0431\u0440\u044f\u043a: \u0421\u0432\u0430\u0442\u044b \u0438 \u0411\u0430\u0439\u043a\u0438 \u041c\u0438\u0442\u044f\u044f",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/oStIua-QlMI"
-            ],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "OPwNo7g1vlqU7d",
-            "name": "\u0414\u0435\u043c\u0431\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0430\u043b\u044c\u0431\u043e\u043c: \u0421\u043e\u043b\u0434\u0430\u0442\u044b",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/1zpCNefHbC0"
-            ],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "vzPGxRe9XdVwB1",
-            "name": "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u043e\u0435 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u0435. \u0413\u041e\u0421\u0422\u0415\u041b\u0415\u0420\u0410\u0414\u0418\u041e\u0424\u041e\u041d\u0414: \u0421\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0435 \u0432\u0435\u0434\u0443\u0442 \u0417\u043d\u0430\u0422\u043e\u041a\u0438",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/NFXv2UW-KLI"
-            ],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        }
-    ],
-    "kids": [
-        {
-            "nanoid": "seBkiHFn8gkgrY",
-            "name": "\u041a\u0430\u0440\u0443\u0441\u0435\u043b\u044c",
-            "iptv_urls": [
-                "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
-                "https://streaming.skynetconnect.online/live/232.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Ph3sAZycESjTXH",
-            "name": "\u0422\u0430\u043c\u044b\u0440 (\u0423\u0444\u0430)",
-            "iptv_urls": [
-                "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "bak",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "ADmxE4x4wFzXBU",
-            "name": "\u0421\u043e\u044e\u0437\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c: \u041f\u0440\u043e\u0441\u0442\u043e\u043a\u0432\u0430\u0448\u0438\u043d\u043e",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/4UhHLQZLXyY"
-            ],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "jf4gPtHjnGADqF",
-            "name": "\u0421\u043e\u044e\u0437\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c: \u041d\u0443, \u043f\u043e\u0433\u043e\u0434\u0438!",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/-4457lHTOLc"
-            ],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "zXKH8WmbfaDrMI",
-            "name": "Get Movies: \u041c\u0430\u0448\u0430 \u0438 \u041c\u0435\u0434\u0432\u0435\u0434\u044c",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/xcwWDUEaEOk"
-            ],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "RHPHGPbs3tcbvm",
-            "name": "Mult i muzyka",
-            "iptv_urls": [
-                "https://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "01MRODsYpIe9lI",
-            "name": "Mult",
-            "iptv_urls": [
-                "https://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "HIYNkCzd1JA2lB",
-            "name": "Mama",
-            "iptv_urls": [
-                "https://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "EDJsRoJArkwgcL",
-            "name": "Jetix",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/SIt-xRee3Wg"
-            ],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "osISnF3JomfnFF",
-            "name": "Carousel International",
-            "iptv_urls": [
-                "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Jw5WL1s9nrf85x",
-            "name": "Ani",
-            "iptv_urls": [
-                "https://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "1PDAXeZuzrm6dH",
-            "name": "V gostyakh u skazki",
-            "iptv_urls": [
-                "https://s1.merlive.am/vgostyaxuskazki/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        }
-    ],
-    "religious": [
-        {
-            "nanoid": "gTpe7IQt8t8tRu",
-            "name": "\u041a\u0430\u0431\u0431\u0430\u043b\u0430 \u0422\u0412",
-            "iptv_urls": [
-                "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "644fFRd06AWlyf",
-            "name": "\u0425\u0443\u0437\u0443\u0440 \u0422\u0412",
-            "iptv_urls": [
-                "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "TfaEWFgppVp2Rt",
-            "name": "\u0422\u0440\u0438 \u0410\u043d\u0433\u0435\u043b\u0430",
-            "iptv_urls": [
-                "https://hls.tv.3angels.ru/stream.m3u8",
-                "https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "qtiWLEZdWFW0Tb",
-            "name": "\u0421\u041f\u0410\u0421",
-            "iptv_urls": [
-                "https://spas.mediacdn.ru/cdn/spas/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -982,18 +1006,7 @@
             "nanoid": "GXyfpkGN0MGlca",
             "name": "\u0414\u043e\u043c \u041a\u0438\u043d\u043e",
             "iptv_urls": [
-                "https://streaming.televizor-24-tochka.ru/live/44.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "P88q6fKKIfMNs2",
-            "name": "Muzhskoy",
-            "iptv_urls": [
-                "https://s1.merlive.am/mujskoy/index.m3u8"
+                "https://streaming.skynetconnect.online/live/44.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -1012,10 +1025,32 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "pUaQTeKhZwlGXt",
-            "name": "Kino 1 International",
+            "nanoid": "P88q6fKKIfMNs2",
+            "name": "Muzhskoy",
             "iptv_urls": [
-                "https://kino-1.catcast.tv/content/38617/index.m3u8"
+                "https://s1.merlive.am/mujskoy/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "KLuuIpvAKJif3j",
+            "name": "Nashe Lubimoe Kino",
+            "iptv_urls": [
+                "https://s7.merlive.am/lubimoekino/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "oubeKLPS2AIZdf",
+            "name": "Pro100TV",
+            "iptv_urls": [
+                "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -1034,10 +1069,242 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "pUaQTeKhZwlGXt",
+            "name": "Kino 1 International",
+            "iptv_urls": [
+                "https://kino-1.catcast.tv/content/38617/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "gSNslvci5VvEfL",
+            "name": "Kino 24",
+            "iptv_urls": [
+                "https://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "1CU0iY2snqoAuR",
             "name": "Star Cinema",
             "iptv_urls": [
                 "https://s1.merlive.am/starsinema/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        }
+    ],
+    "legislative": [
+        {
+            "nanoid": "jdtDDFx09GQYAn",
+            "name": "\u0414\u0443\u043c\u0430 \u0422\u0412",
+            "iptv_urls": [
+                "https://dumatv.iptv2022.com/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        }
+    ],
+    "news": [
+        {
+            "nanoid": "XjZW6x6PGKTPg0",
+            "name": "\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f",
+            "iptv_urls": [
+                "https://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "PZBt17abf1Uupk",
+            "name": "\u041c\u0438\u043b\u043b\u0435\u0442",
+            "iptv_urls": [
+                "https://live.trkmillet.ru/millet/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "K7MkhCrOepYy6F",
+            "name": "\u041b\u0435\u0433\u0435\u043d\u0434\u0430\u0440\u043d\u044b\u0439 24",
+            "iptv_urls": [
+                "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "AIHRA4w3vdxLfI",
+            "name": "\u0422\u043e\u043b\u043a HD",
+            "iptv_urls": [
+                "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
+                "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "mn5XB58vCFBGXV",
+            "name": "\u0420\u0430\u0434\u0438\u043e \u0413\u043e\u0432\u043e\u0440\u0438\u0442 \u041c\u043e\u0441\u043a\u0432\u0430 (\u0412\u0435\u0431-\u043a\u0430\u043c\u0435\u0440\u0430)",
+            "iptv_urls": [
+                "https://video.govoritmoskva.ru/rufm/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "kUjDpkaxsNrqT9",
+            "name": "\u0420\u043e\u0441\u0441\u0438\u044f 24",
+            "iptv_urls": [
+                "https://streaming.skynetconnect.online/live/30.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "YE3lwyUGvtLVBz",
+            "name": "360\u00b0 \u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+            "iptv_urls": [
+                "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "GaxdR3CfuVEY6D",
+            "name": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c 24",
+            "iptv_urls": [
+                "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
+                "https://astrakhan24.bonus-tv.ru/cdn/astrakhan24/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "JnxjBtQt6s0RPO",
+            "name": "RT Arabic",
+            "iptv_urls": [
+                "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
+                "https://rt-arb.rttv.com/live/rtarab/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "mPfWobHfV25q8P",
+            "name": "RT en Espa\u00f1ol",
+            "iptv_urls": [
+                "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+                "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ru",
+            "isGeoBlocked": false
+        }
+    ],
+    "series": [
+        {
+            "nanoid": "J3EJNMTTTwoCfX",
+            "name": "\u041a\u0438\u043d\u043e \u0414\u043e\u0431\u0440\u044f\u043a: \u0421\u0432\u0430\u0442\u044b \u0438 \u0411\u0430\u0439\u043a\u0438 \u041c\u0438\u0442\u044f\u044f",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/DLJ7CvuwVc4"
+            ],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "vzPGxRe9XdVwB1",
+            "name": "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u043e\u0435 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u0435. \u0413\u041e\u0421\u0422\u0415\u041b\u0415\u0420\u0410\u0414\u0418\u041e\u0424\u041e\u041d\u0414: \u0421\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0435 \u0432\u0435\u0434\u0443\u0442 \u0417\u043d\u0430\u0422\u043e\u041a\u0438",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/NFXv2UW-KLI"
+            ],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "OPwNo7g1vlqU7d",
+            "name": "\u0414\u0435\u043c\u0431\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0430\u043b\u044c\u0431\u043e\u043c: \u0421\u043e\u043b\u0434\u0430\u0442\u044b",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/1zpCNefHbC0"
+            ],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        }
+    ],
+    "shop": [
+        {
+            "nanoid": "xBvNUxKG46FiuF",
+            "name": "\u041c\u0430\u0433\u043d\u0430\u0442 \u0422\u0412",
+            "iptv_urls": [
+                "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "VRSVNzRuNbdCXJ",
+            "name": "\u042e\u0432\u0435\u043b\u0438\u0440\u043e\u0447\u043a\u0430",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/YNbpOkuCVYA"
+            ],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "8iOK4Asu2pvPAa",
+            "name": "\u042e\u0432\u0435\u043b\u0438\u0440\u043e\u0447\u043a\u0430 \u0422\u0412",
+            "iptv_urls": [
+                "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "IPkLjLkp2JBRTC",
+            "name": "Leomax 24",
+            "iptv_urls": [
+                "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -1069,88 +1336,7 @@
             "isGeoBlocked": false
         }
     ],
-    "sports": [
-        {
-            "nanoid": "Pd5U9ygw4LfGIv",
-            "name": "MMA-TV.com",
-            "iptv_urls": [
-                "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "PnYs28KZYftvil",
-            "name": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c.Ru Sport",
-            "iptv_urls": [
-                "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        }
-    ],
-    "shop": [
-        {
-            "nanoid": "UXs7jUvZNYr6Hi",
-            "name": "\u042e\u0412\u0415\u041b\u0418\u0420\u0422\u0420\u0415\u0419\u0414",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/XV7C8WhXy9Y"
-            ],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "8iOK4Asu2pvPAa",
-            "name": "\u042e\u0432\u0435\u043b\u0438\u0440\u043e\u0447\u043a\u0430 \u0422\u0412",
-            "iptv_urls": [
-                "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "VRSVNzRuNbdCXJ",
-            "name": "\u042e\u0432\u0435\u043b\u0438\u0440\u043e\u0447\u043a\u0430",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/Tu6UquPsZ9s"
-            ],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "IPkLjLkp2JBRTC",
-            "name": "Leomax 24",
-            "iptv_urls": [
-                "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        }
-    ],
     "music": [
-        {
-            "nanoid": "RhYXXyim8Z06kp",
-            "name": "\u0428\u0430\u043d\u0441\u043e\u043d \u0422\u0412",
-            "iptv_urls": [
-                "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
         {
             "nanoid": "mHCDrEybu2WeBY",
             "name": "\u0422\u041d\u0422 MUSIC",
@@ -1163,10 +1349,32 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "RhYXXyim8Z06kp",
+            "name": "\u0428\u0430\u043d\u0441\u043e\u043d \u0422\u0412",
+            "iptv_urls": [
+                "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "zFcQgIj3O4E7R6",
+            "name": "\u0421\u0442\u0440\u0430\u043d\u0430 FM",
+            "iptv_urls": [
+                "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "n2ZIcLCsaevUgx",
             "name": "Muz-TV",
             "iptv_urls": [
-                "https://streaming.televizor-24-tochka.ru/live/618.m3u8"
+                "https://streaming.skynetconnect.online/live/618.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -1207,6 +1415,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "uuwdAM4ggDTLQ4",
+            "name": "SONGTV Russia",
+            "iptv_urls": [
+                "https://songtv.hls.iptvdc.com/web-russia/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "OoOqpCfI3BbmiH",
             "name": "TaronaMusic",
             "iptv_urls": [],
@@ -1232,18 +1451,20 @@
             "isGeoBlocked": false
         }
     ],
-    "outdoor": [
+    "comedy": [
         {
-            "nanoid": "wONYBUUfvWHPUX",
-            "name": "Okhota i rybalka",
+            "nanoid": "3fFYhVvoyJNcPX",
+            "name": "Komedia",
             "iptv_urls": [
-                "https://s1.merlive.am/oxotairibalka/index.m3u8"
+                "https://s1.merlive.am/Komedia/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
             "country": "ru",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "outdoor": [
         {
             "nanoid": "qkah1q5cW8a2sQ",
             "name": "Konniy mir",
@@ -1257,10 +1478,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "n0IEbTbrJacXvo",
-            "name": "Dikaya rybalka",
+            "nanoid": "wONYBUUfvWHPUX",
+            "name": "Okhota i rybalka",
             "iptv_urls": [
-                "https://s1.merlive.am/dikaiaribalka/index.m3u8"
+                "https://s1.merlive.am/oxotairibalka/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -1277,14 +1498,49 @@
             "language": "rus",
             "country": "ru",
             "isGeoBlocked": false
+        },
+        {
+            "nanoid": "n0IEbTbrJacXvo",
+            "name": "Dikaya rybalka",
+            "iptv_urls": [
+                "https://s1.merlive.am/dikaiaribalka/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        }
+    ],
+    "lifestyle": [
+        {
+            "nanoid": "auAIR0SNZkMlek",
+            "name": "Otkritiy mir. Zdorove",
+            "iptv_urls": [
+                "https://v4.proofix.ru/0mir/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "KBG89XLCITqAor",
+            "name": "Domashniy International",
+            "iptv_urls": [
+                "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "ru",
+            "isGeoBlocked": false
         }
     ],
     "entertainment": [
         {
-            "nanoid": "2tTZim8zqH8gSx",
-            "name": ".black",
+            "nanoid": "Mp3WWoPdFjO3pT",
+            "name": "Peretz International",
             "iptv_urls": [
-                "https://s1.merlive.am/black/index.m3u8"
+                "https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -1303,10 +1559,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "suLXbSYTvn8ziT",
-            "name": "Che!",
+            "nanoid": "2tTZim8zqH8gSx",
+            "name": ".black",
             "iptv_urls": [
-                "https://vs6.cdn.mrf.tvime.ru/che/index.m3u8"
+                "https://s1.merlive.am/black/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -1314,10 +1570,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "Mp3WWoPdFjO3pT",
-            "name": "Peretz International",
+            "nanoid": "egZkmi74prPpaH",
+            "name": "TNT",
             "iptv_urls": [
-                "https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8"
+                "https://streaming.skynetconnect.online/live/38.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",
@@ -1345,49 +1601,14 @@
             "language": "rus",
             "country": "ru",
             "isGeoBlocked": false
-        },
-        {
-            "nanoid": "egZkmi74prPpaH",
-            "name": "TNT",
-            "iptv_urls": [
-                "https://streaming.televizor-24-tochka.ru/live/38.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
         }
     ],
-    "comedy": [
+    "sports": [
         {
-            "nanoid": "3fFYhVvoyJNcPX",
-            "name": "Komedia",
+            "nanoid": "PnYs28KZYftvil",
+            "name": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u044c.Ru Sport",
             "iptv_urls": [
-                "https://s1.merlive.am/Komedia/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        }
-    ],
-    "lifestyle": [
-        {
-            "nanoid": "KBG89XLCITqAor",
-            "name": "Domashniy International",
-            "iptv_urls": [
-                "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ru",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "auAIR0SNZkMlek",
-            "name": "Otkritiy mir. Zdorove",
-            "iptv_urls": [
-                "https://v4.proofix.ru/0mir/index.m3u8"
+                "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",

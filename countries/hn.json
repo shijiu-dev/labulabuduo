@@ -1,61 +1,4 @@
 {
-    "entertainment": [
-        {
-            "nanoid": "052OEa16dMrwDi",
-            "name": "Metro TV",
-            "iptv_urls": [
-                "https://s.emisoras.tv:8081/metrotv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "hn",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "HGtPDQoNFPOwzf",
-            "name": "Girasol TV",
-            "iptv_urls": [
-                "https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "hn",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "bogtDcaAWtOFRz",
-            "name": "Telerayo",
-            "iptv_urls": [
-                "https://s.emisoras.tv:8081/telerayo/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "hn",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "qWRNlLMLdjrPV7",
-            "name": "TV Centro 27.2 HD",
-            "iptv_urls": [
-                "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "hn",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Kw9H3TMQWZCUM4",
-            "name": "Canal 15 DTP",
-            "iptv_urls": [
-                "https://s.emisoras.tv:8081/dtp/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "hn",
-            "isGeoBlocked": false
-        }
-    ],
     "general": [
         {
             "nanoid": "rbKwYyvdnrtuOd",
@@ -80,10 +23,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "KzHYTMjW9jsTsR",
-            "name": "Telem\u00e1s",
+            "nanoid": "ZL6itoyroCEVU7",
+            "name": "Sula TV",
             "iptv_urls": [
-                "https://viewhn.com/telemas/live/playlist.m3u8"
+                "https://tv.webmedialive.com/sulatv/live/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "uoM0jHqhHe7tUv",
+            "name": "Televisi\u00f3n Metr\u00f3polis 19.1",
+            "iptv_urls": [
+                "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -95,6 +49,17 @@
             "name": "Televisi\u00f3n Metr\u00f3polis 19.2",
             "iptv_urls": [
                 "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "yH1S0lEj15Dojl",
+            "name": "Television Olanchana",
+            "iptv_urls": [
+                "https://viewhn.com/canal30/live/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -124,6 +89,72 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "7Hc3HYWsDnC2XP",
+            "name": "Ceiba Vision Canal 36",
+            "iptv_urls": [
+                "https://dvrfl03.bozztv.com/hondu/hondu-ceibavisionhd/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "GF1Vqx1eYwwgFP",
+            "name": "Alsacias Televisi\u00f3n (ATV | Canal 28)",
+            "iptv_urls": [
+                "https://s.emisoras.tv:8081/atv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "je3ohmVqrNXg16",
+            "name": "Canal 51",
+            "iptv_urls": [
+                "https://tvcn51.com/hls/cn51480.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "7EGP8r2xzAyDEk",
+            "name": "CHTV",
+            "iptv_urls": [
+                "https://viewhn.com/chtv/live/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "1CJHZmX3K7wOcM",
+            "name": "DTV",
+            "iptv_urls": [
+                "https://dvrfl03.bozztv.com/hondu-dtelevision/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "6qsL1feBgyIfmP",
+            "name": "Go TV",
+            "iptv_urls": [
+                "https://dvrfl03.bozztv.com/hondu/hondu-gotv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "26RtUqr5ZSMhUL",
             "name": "Litoral Atl\u00e1ntico HD",
             "iptv_urls": [
@@ -146,32 +177,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "GF1Vqx1eYwwgFP",
-            "name": "Alsacias Televisi\u00f3n (ATV | Canal 28)",
+            "nanoid": "Xi0oml7Z8gh7if",
+            "name": "Olanchito TV Canal 23",
             "iptv_urls": [
-                "https://s.emisoras.tv:8081/atv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "hn",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "183cR1WeYyHeIp",
-            "name": "CTV Internacional",
-            "iptv_urls": [
-                "https://mediacp.us:8081/ctvhn/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "hn",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "6qsL1feBgyIfmP",
-            "name": "Go TV",
-            "iptv_urls": [
-                "https://dvrfl03.bozztv.com/hondu/hondu-gotv/index.m3u8"
+                "https://dvrfl03.bozztv.com/hondu/hondu-otvcanal23/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -192,10 +201,43 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "uGyooLbKXOf30x",
-            "name": "Televisi\u00f3n Comayagua Canal 40",
+            "nanoid": "ZdpmcY2WMWGjUG",
+            "name": "RTV",
             "iptv_urls": [
-                "https://mediacp.us:8081/8034/index.m3u8"
+                "https://dvrfl03.bozztv.com/hondu/hondu-rtvtv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "OWqCpLlUvE6U3g",
+            "name": "Telecadena 7 y 4",
+            "iptv_urls": [
+                "https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "CdFanpx5ODdkpP",
+            "name": "Teleceiba",
+            "iptv_urls": [
+                "https://dvrfl03.bozztv.com/hondu-teleceiba/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "jg9P4CmxxRKBNk",
+            "name": "TeleProgreso",
+            "iptv_urls": [
+                "https://dvrfl03.bozztv.com/hondu-teleprogreso/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -207,6 +249,17 @@
             "name": "TV Cop\u00e1n",
             "iptv_urls": [
                 "https://s.emisoras.tv:8081/tvcopan/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "s5LZw8Yx4rrG1s",
+            "name": "Canal 11",
+            "iptv_urls": [
+                "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -260,12 +313,91 @@
             "isGeoBlocked": false
         }
     ],
+    "entertainment": [
+        {
+            "nanoid": "I1eaiqSEwU4HoX",
+            "name": "Omega TV",
+            "iptv_urls": [
+                "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "iXL9fS6dPWm1hC",
+            "name": "RSV Honduras",
+            "iptv_urls": [
+                "https://live20.bozztv.com/dvrfl03/hondu/hondu-rsvhonduras/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "bogtDcaAWtOFRz",
+            "name": "Telerayo",
+            "iptv_urls": [
+                "https://s.emisoras.tv:8081/telerayo/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "qWRNlLMLdjrPV7",
+            "name": "TV Centro 27.2 HD",
+            "iptv_urls": [
+                "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "052OEa16dMrwDi",
+            "name": "Metro TV",
+            "iptv_urls": [
+                "https://s.emisoras.tv:8081/metrotv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "HGtPDQoNFPOwzf",
+            "name": "Girasol TV",
+            "iptv_urls": [
+                "https://video.misistemareseller.com/Girasoltv/Girasoltv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        }
+    ],
     "news": [
         {
             "nanoid": "geOpkQODtnZbnn",
             "name": "RCV TV",
             "iptv_urls": [
                 "https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "YFN0Wt8jkUTjZN",
+            "name": "HCH",
+            "iptv_urls": [
+                "https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -285,6 +417,17 @@
         }
     ],
     "religious": [
+        {
+            "nanoid": "aZfzG8NlnpRuhU",
+            "name": "Activa TV",
+            "iptv_urls": [
+                "https://streamtv.mediasector.es/hls/activatv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "hn",
+            "isGeoBlocked": false
+        },
         {
             "nanoid": "3KGjjtUNZxERKV",
             "name": "Choluteca TV",
@@ -323,17 +466,6 @@
             "name": "Ebenezer TV",
             "iptv_urls": [
                 "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "hn",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "frDF36VUpFOTUs",
-            "name": "JBN",
-            "iptv_urls": [
-                "https://mediacp.us:8081/jbntv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",

@@ -14,12 +14,12 @@
     ],
     "news": [
         {
-            "nanoid": "2hs4FzDgKk1l2e",
-            "name": "Almagharibia TV: \u0627\u0644\u0645\u063a\u0627\u0631\u0628\u064a\u0629",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/W9-l-rVgZjE"
+            "nanoid": "H7V9aJymbO5o7g",
+            "name": "TV3",
+            "iptv_urls": [
+                "https://fl1002.bozztv.com/ga-algeria3/index.m3u8"
             ],
+            "youtube_urls": [],
             "language": "ara",
             "country": "dz",
             "isGeoBlocked": false
@@ -31,6 +31,17 @@
                 "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8"
             ],
             "youtube_urls": [],
+            "language": "ara",
+            "country": "dz",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "2hs4FzDgKk1l2e",
+            "name": "Almagharibia TV: \u0627\u0644\u0645\u063a\u0627\u0631\u0628\u064a\u0629",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/W9-l-rVgZjE"
+            ],
             "language": "ara",
             "country": "dz",
             "isGeoBlocked": false

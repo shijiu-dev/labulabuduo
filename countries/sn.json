@@ -1,39 +1,4 @@
 {
-    "general": [
-        {
-            "nanoid": "owH3JZO3ZACRWR",
-            "name": "Yegl\u00e9 TV",
-            "iptv_urls": [
-                "https://endour.net/hls/Yegle-tv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fra",
-            "country": "sn",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "RfhIP8Ek1pr7to",
-            "name": "SenJeunes TV",
-            "iptv_urls": [
-                "https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fra",
-            "country": "sn",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "JUnTXwYpoyd7Ny",
-            "name": "Louga TV",
-            "iptv_urls": [
-                "https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fra",
-            "country": "sn",
-            "isGeoBlocked": false
-        }
-    ],
     "religious": [
         {
             "nanoid": "qnZnUMjCzgKR22",
@@ -58,10 +23,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "yDHaoIRgBqtbA9",
-            "name": "Islam TV S\u00e9n\u00e9gal",
+            "nanoid": "fdl8JD06lrql2h",
+            "name": "Chabiba TV",
             "iptv_urls": [
-                "https://tv.imediasn.com/hls/live.m3u8"
+                "https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "fra",
@@ -69,28 +34,15 @@
             "isGeoBlocked": false
         }
     ],
-    "culture": [
+    "general": [
         {
-            "nanoid": "A1HSPKu1efRkNQ",
-            "name": "Amani TV",
+            "nanoid": "JUnTXwYpoyd7Ny",
+            "name": "Louga TV",
             "iptv_urls": [
-                "https://goccn.cloud/hls/amanitv/index.m3u8"
+                "https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "fra",
-            "country": "sn",
-            "isGeoBlocked": false
-        }
-    ],
-    "music": [
-        {
-            "nanoid": "d5k9RHTOOkIzsq",
-            "name": "A2i Music",
-            "iptv_urls": [
-                "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "wol",
             "country": "sn",
             "isGeoBlocked": false
         }

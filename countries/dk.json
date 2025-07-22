@@ -1,17 +1,6 @@
 {
     "general": [
         {
-            "nanoid": "CU97WLDcdlYM5R",
-            "name": "DR1",
-            "iptv_urls": [
-                "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "dan",
-            "country": "dk",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "V5LLT8Xso7GEeT",
             "name": "DRTV",
             "iptv_urls": [
@@ -27,21 +16,8 @@
             "name": "DanmarkC TV",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/-gTkD7B_TJw"
+                "https://www.youtube-nocookie.com/embed/Cxqjjc9N0lA"
             ],
-            "language": "dan",
-            "country": "dk",
-            "isGeoBlocked": false
-        }
-    ],
-    "legislative": [
-        {
-            "nanoid": "d7pcxFhPY8vfBm",
-            "name": "Folketinget",
-            "iptv_urls": [
-                "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8"
-            ],
-            "youtube_urls": [],
             "language": "dan",
             "country": "dk",
             "isGeoBlocked": false
@@ -53,6 +29,19 @@
             "name": "TV2/Bornholm",
             "iptv_urls": [
                 "https://cdn-akamai-live.tv2bornholm.dk/stream/live/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "dan",
+            "country": "dk",
+            "isGeoBlocked": false
+        }
+    ],
+    "legislative": [
+        {
+            "nanoid": "d7pcxFhPY8vfBm",
+            "name": "Folketinget",
+            "iptv_urls": [
+                "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8"
             ],
             "youtube_urls": [],
             "language": "dan",

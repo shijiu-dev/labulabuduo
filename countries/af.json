@@ -1,13 +1,35 @@
 {
     "general": [
         {
-            "nanoid": "IY8wUUaOrilWui",
-            "name": "Bahar TV",
+            "nanoid": "NDEl1l17WGFGfJ",
+            "name": "1TV",
             "iptv_urls": [
-                "https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8"
+                "https://live20.bozztv.com/dvrfl05/gin-1tvafg/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "prd",
+            "country": "af",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "mHBW6LlMDv1YFs",
+            "name": "Zhwandoon TV",
+            "iptv_urls": [
+                "https://live20.bozztv.com/dvrfl05/gin-zhwandoon/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "pus",
+            "country": "af",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "7ajkTr5kLO6ghX",
+            "name": "Tolo TV",
+            "iptv_urls": [
+                "https://live20.bozztv.com/dvrfl05/gin-tolohd/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "pus",
             "country": "af",
             "isGeoBlocked": false
         },
@@ -49,6 +71,17 @@
             "name": "Dunya Naw TV",
             "iptv_urls": [
                 "https://dunyanhls.wns.live/hls/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "prd",
+            "country": "af",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "KFbLDIB7QoxUZt",
+            "name": "ATN National",
+            "iptv_urls": [
+                "https://live20.bozztv.com/dvrfl05/gin-ariana/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "prd",
@@ -100,6 +133,30 @@
             "language": "",
             "country": "af",
             "isGeoBlocked": false
+        },
+        {
+            "nanoid": "IHAemhLcGHQbLr",
+            "name": "ATN US",
+            "iptv_urls": [
+                "https://live20.bozztv.com/gin-36bay3/ga-arianausa/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "prd",
+            "country": "af",
+            "isGeoBlocked": false
+        }
+    ],
+    "entertainment": [
+        {
+            "nanoid": "sZwFjK8uOPwgBp",
+            "name": "Shamshad TV",
+            "iptv_urls": [
+                "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "pus",
+            "country": "af",
+            "isGeoBlocked": false
         }
     ],
     "sports": [
@@ -148,30 +205,6 @@
             ],
             "youtube_urls": [],
             "language": "pus",
-            "country": "af",
-            "isGeoBlocked": false
-        }
-    ],
-    "news": [
-        {
-            "nanoid": "PaXRhgZrYhVIYk",
-            "name": "Chekad TV",
-            "iptv_urls": [
-                "https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "prd",
-            "country": "af",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "XI4aQjiGdR6HDD",
-            "name": "ATN News",
-            "iptv_urls": [
-                "https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "prd",
             "country": "af",
             "isGeoBlocked": false
         }

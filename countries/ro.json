@@ -1,19 +1,6 @@
 {
     "general": [
         {
-            "nanoid": "H8lAJKYghBWOpW",
-            "name": "Kanal D",
-            "iptv_urls": [
-                "https://stream1.kanald.ro/iphone/knd-live.m3u8"
-            ],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/6wHAK439FDI"
-            ],
-            "language": "ron",
-            "country": "ro",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "al6J0ChSzrszub",
             "name": "Qub TV",
             "iptv_urls": [
@@ -25,10 +12,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "nid5EdS5dK7EEj",
-            "name": "Smart TV",
+            "nanoid": "R7k8oMS31tDfb7",
+            "name": "PROFI 24 TV",
             "iptv_urls": [
-                "https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8"
+                "https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "o5xFTwZ5XqqWJt",
+            "name": "Tele7ABC HD",
+            "iptv_urls": [
+                "https://live.tele7abc.ro/hls/stream/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "ron",
@@ -80,10 +78,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "lhCxqE1AXbE8qH",
-            "name": "HD365 TV",
+            "nanoid": "H8lAJKYghBWOpW",
+            "name": "Kanal D",
             "iptv_urls": [
-                "https://testcam.go.ro:8080/hls/hd365.m3u8"
+                "https://stream1.kanald.ro/iphone/knd-live.m3u8"
             ],
             "youtube_urls": [],
             "language": "ron",
@@ -100,119 +98,14 @@
             "language": "ron",
             "country": "ro",
             "isGeoBlocked": false
-        }
-    ],
-    "music": [
-        {
-            "nanoid": "NodY8gBnmYHwO8",
-            "name": "Magic TV",
-            "iptv_urls": [
-                "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ron",
-            "country": "ro",
-            "isGeoBlocked": false
         },
         {
-            "nanoid": "y6jKcAcSqEhfD3",
-            "name": "Moinesti TV",
+            "nanoid": "oihBZjU4iojgJW",
+            "name": "Metropola TV",
             "iptv_urls": [
-                "https://flus.moinestifm.ro/ro.moinesti/index.m3u8"
+                "https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8"
             ],
             "youtube_urls": [],
-            "language": "ron",
-            "country": "ro",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "nbZMDeOIAOPG4m",
-            "name": "Impact TV Dance",
-            "iptv_urls": [
-                "https://online.tvimpact.live/hls/dancetv.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ron",
-            "country": "ro",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "s2CfErSAqt8tzT",
-            "name": "Impact TV Manele",
-            "iptv_urls": [
-                "https://online.tvimpact.live/hls/impact_tv.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ron",
-            "country": "ro",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "c1gByRg7bGFR8Z",
-            "name": "Atomic Academy TV",
-            "iptv_urls": [
-                "https://atomic.streamnet.ro/academia.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ron",
-            "country": "ro",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "HHRin5dp3UTQFP",
-            "name": "Atomic TV",
-            "iptv_urls": [
-                "https://atomic.streamnet.ro/atomictv.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ron",
-            "country": "ro",
-            "isGeoBlocked": false
-        }
-    ],
-    "lifestyle": [
-        {
-            "nanoid": "LOoaceDLue8eJw",
-            "name": "MediCOOL TV",
-            "iptv_urls": [
-                "https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ron",
-            "country": "ro",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "9UqseJeoJNwuVC",
-            "name": "Antena Monden",
-            "iptv_urls": [
-                "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ron",
-            "country": "ro",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Dab8WPqdbc06ks",
-            "name": "CaTine",
-            "iptv_urls": [
-                "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ron",
-            "country": "ro",
-            "isGeoBlocked": false
-        }
-    ],
-    "weather": [
-        {
-            "nanoid": "dfvV9SkyUqJgjs",
-            "name": "MeteoTV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/7ZR9ZFW-EQY"
-            ],
             "language": "ron",
             "country": "ro",
             "isGeoBlocked": false
@@ -232,6 +125,17 @@
         }
     ],
     "news": [
+        {
+            "nanoid": "6q00FwKF9RQHrm",
+            "name": "Pro TV News",
+            "iptv_urls": [
+                "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
         {
             "nanoid": "TwIkx7pihLoO6V",
             "name": "Observator News",
@@ -277,10 +181,144 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "F83BfecjsD6BjR",
-            "name": "Antena 3 CNN",
+            "nanoid": "dwPib6Di7weUvt",
+            "name": "Informatia TV",
             "iptv_urls": [
-                "https://live3vox.antenaplay.ro/a3free/a3free.m3u8"
+                "https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        }
+    ],
+    "music": [
+        {
+            "nanoid": "q6atLfAg2ohp9S",
+            "name": "MoozRo",
+            "iptv_urls": [
+                "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Y9iv9PnBd0DUNW",
+            "name": "MoozHits",
+            "iptv_urls": [
+                "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "fGL8972rlBYSPd",
+            "name": "MoozDance",
+            "iptv_urls": [
+                "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "y6jKcAcSqEhfD3",
+            "name": "Moinesti TV",
+            "iptv_urls": [
+                "https://flus.moinestifm.ro/ro.moinesti/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "ANI4hASUhHAk6D",
+            "name": "Rock TV",
+            "iptv_urls": [
+                "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Njn8bJGKqOkI3F",
+            "name": "Tele7music",
+            "iptv_urls": [
+                "https://live.tele7music.ro/hls/stream/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "c1gByRg7bGFR8Z",
+            "name": "Atomic Academy TV",
+            "iptv_urls": [
+                "https://atomic.streamnet.ro/academia.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "HHRin5dp3UTQFP",
+            "name": "Atomic TV",
+            "iptv_urls": [
+                "https://atomic.streamnet.ro/atomictv.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "nbZMDeOIAOPG4m",
+            "name": "Impact TV Dance",
+            "iptv_urls": [
+                "https://online.tvimpact.live/hls/dancetv.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "s2CfErSAqt8tzT",
+            "name": "Impact TV Manele",
+            "iptv_urls": [
+                "https://online.tvimpact.live/hls/impact_tv.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "3hq4NpWZFKw05F",
+            "name": "Kiss TV",
+            "iptv_urls": [
+                "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "NodY8gBnmYHwO8",
+            "name": "Magic TV",
+            "iptv_urls": [
+                "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
             ],
             "youtube_urls": [],
             "language": "ron",
@@ -290,11 +328,83 @@
     ],
     "religious": [
         {
+            "nanoid": "FOsU86TnzYmDGQ",
+            "name": "MISA TV",
+            "iptv_urls": [
+                "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "zOxDRevVPSzLb6",
             "name": "TRINITAS TV",
             "iptv_urls": [],
             "youtube_urls": [
                 "https://www.youtube-nocookie.com/embed/T0AdCEn1fNI"
+            ],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        }
+    ],
+    "other": [
+        {
+            "nanoid": "xgGgBivUKaFSsJ",
+            "name": "Telestar1",
+            "iptv_urls": [
+                "https://dvb.tennet.ro/mobile_tv/telestar.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        }
+    ],
+    "lifestyle": [
+        {
+            "nanoid": "9UqseJeoJNwuVC",
+            "name": "Antena Monden",
+            "iptv_urls": [
+                "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Dab8WPqdbc06ks",
+            "name": "CaTine",
+            "iptv_urls": [
+                "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "LOoaceDLue8eJw",
+            "name": "MediCOOL TV",
+            "iptv_urls": [
+                "https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ron",
+            "country": "ro",
+            "isGeoBlocked": false
+        }
+    ],
+    "weather": [
+        {
+            "nanoid": "dfvV9SkyUqJgjs",
+            "name": "MeteoTV",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/2aJNw23Qyck"
             ],
             "language": "ron",
             "country": "ro",

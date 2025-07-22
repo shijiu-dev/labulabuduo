@@ -1,10 +1,111 @@
 {
-    "sports": [
+    "general": [
         {
-            "nanoid": "Da460ZcoL5SJKT",
-            "name": "Multivisi\u00f3n Sports",
+            "nanoid": "OJjfqTLSob6ySt",
+            "name": "Multivisi\u00f3n Canal 3",
             "iptv_urls": [
-                "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
+                "https://stream.digitalgt.com:3136/live/multivisionlive.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "OsYebOtVABr4xl",
+            "name": "Sol TV",
+            "iptv_urls": [
+                "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "fGTZi0sSjZTjHF",
+            "name": "TV Florencia",
+            "iptv_urls": [
+                "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "QA9eQFyjYxWrvw",
+            "name": "Esquipulas TV",
+            "iptv_urls": [
+                "https://live.esquipulastv.com:3930/live/esquipulastvlive.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "UNee5z01Xc67gg",
+            "name": "A+ Guate",
+            "iptv_urls": [
+                "https://ch2-tva.duin.dev/hls/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "NMdDWbGZ95HQVb",
+            "name": "Azteca Guate",
+            "iptv_urls": [
+                "https://ch1-tva.duin.dev/hls/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "N4gLQ8UnMpP3sJ",
+            "name": "Canal 6 Panadish",
+            "iptv_urls": [
+                "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "w69Of9M1B5QRHZ",
+            "name": "Canal 9 Barbe TV",
+            "iptv_urls": [
+                "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "tkEITU2bEZ7qMi",
+            "name": "Canal 13 Esquipulas",
+            "iptv_urls": [
+                "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        }
+    ],
+    "news": [
+        {
+            "nanoid": "QC2CsLlE51Rphf",
+            "name": "Nuevo Mundo TV",
+            "iptv_urls": [
+                "https://tvlatina.live:1936/8008/8008/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -36,6 +137,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "2LfjTVfmckF8U9",
+            "name": "Rhema TV",
+            "iptv_urls": [
+                "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "c3BqnYa8hxJ1bn",
             "name": "Peniel TV Biblia Abierta",
             "iptv_urls": [
@@ -47,10 +159,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "2LfjTVfmckF8U9",
-            "name": "Rhema TV",
+            "nanoid": "tp4aSE2XbjzMxZ",
+            "name": "Amigos TV Chiquimula",
             "iptv_urls": [
-                "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
+                "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -69,203 +181,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "HyRt6AC7F1vD4l",
-            "name": "Canal 98 Jes\u00fas TV",
-            "iptv_urls": [
-                "https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "H9gOtmwx3FUQi5",
-            "name": "El-Roi TV",
-            "iptv_urls": [
-                "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "unnPmpnUmUCfi4",
             "name": "Esp\u00edritu Santo Y Fuego TV",
             "iptv_urls": [
                 "https://inliveserver.com:1936/8392/8392/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "tp4aSE2XbjzMxZ",
-            "name": "Amigos TV Chiquimula",
-            "iptv_urls": [
-                "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        }
-    ],
-    "entertainment": [
-        {
-            "nanoid": "0hAaySENFA4XTT",
-            "name": "SAS TV",
-            "iptv_urls": [
-                "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "yE5nUo5bAO8SwG",
-            "name": "Maxivisi\u00f3n TV",
-            "iptv_urls": [
-                "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "mHmNDK9BbVky9v",
-            "name": "Canal 9 Ixchigu\u00e1n",
-            "iptv_urls": [
-                "https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        }
-    ],
-    "general": [
-        {
-            "nanoid": "OsYebOtVABr4xl",
-            "name": "Sol TV",
-            "iptv_urls": [
-                "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "fGTZi0sSjZTjHF",
-            "name": "TV Florencia",
-            "iptv_urls": [
-                "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "LX1jOBuAPab8Ct",
-            "name": "Nim TV",
-            "iptv_urls": [
-                "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "w69Of9M1B5QRHZ",
-            "name": "Canal 9 Barbe TV",
-            "iptv_urls": [
-                "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "NMdDWbGZ95HQVb",
-            "name": "Azteca Guate",
-            "iptv_urls": [
-                "https://ch1-tva.duin.dev/hls/stream.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "N4gLQ8UnMpP3sJ",
-            "name": "Canal 6 Panadish",
-            "iptv_urls": [
-                "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "qs5CgTeMKROzh8",
-            "name": "Canal 8 Santa Rosa",
-            "iptv_urls": [
-                "https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "QA9eQFyjYxWrvw",
-            "name": "Esquipulas TV",
-            "iptv_urls": [
-                "https://live.esquipulastv.com:3930/live/esquipulastvlive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        }
-    ],
-    "other": [
-        {
-            "nanoid": "sjT63Yqrczmdqs",
-            "name": "Telecosta",
-            "iptv_urls": [
-                "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "rZsgognxF8rOaX",
-            "name": "Visi\u00f3n TV",
-            "iptv_urls": [
-                "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "g7RtZ5R6hJRdT7",
-            "name": "Canal 100 Chinique",
-            "iptv_urls": [
-                "https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -299,12 +218,49 @@
             "isGeoBlocked": false
         }
     ],
+    "other": [
+        {
+            "nanoid": "rZsgognxF8rOaX",
+            "name": "Visi\u00f3n TV",
+            "iptv_urls": [
+                "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "g7RtZ5R6hJRdT7",
+            "name": "Canal 100 Chinique",
+            "iptv_urls": [
+                "https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        }
+    ],
     "movies": [
         {
             "nanoid": "qS9h25t8tf42wr",
             "name": "Aurora Media Films",
             "iptv_urls": [
                 "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        }
+    ],
+    "entertainment": [
+        {
+            "nanoid": "yE5nUo5bAO8SwG",
+            "name": "Maxivisi\u00f3n TV",
+            "iptv_urls": [
+                "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",

@@ -1,11 +1,11 @@
 {
     "general": [
         {
-            "nanoid": "YZOv9RKh6zlC6k",
-            "name": "Chada TV",
+            "nanoid": "wwW5G8G3mJAlxj",
+            "name": "Tamazight TV",
             "iptv_urls": [
-                "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8",
-                "https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8"
+                "https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8",
+                "https://fl1002.bozztv.com/ga-tamazight8/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -13,10 +13,22 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "wwW5G8G3mJAlxj",
-            "name": "Tamazight TV",
+            "nanoid": "Dr2osQPfWJgNWP",
+            "name": "2M Monde +1",
             "iptv_urls": [
-                "https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8"
+                "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "ma",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "YZOv9RKh6zlC6k",
+            "name": "Chada TV",
+            "iptv_urls": [
+                "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8",
+                "https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -57,39 +69,12 @@
             "language": "ara",
             "country": "ma",
             "isGeoBlocked": false
-        }
-    ],
-    "news": [
-        {
-            "nanoid": "nmraaidVyzLC3P",
-            "name": "Medi 1 TV Afrique",
-            "iptv_urls": [
-                "https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8",
-                "https://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fra",
-            "country": "ma",
-            "isGeoBlocked": false
         },
         {
-            "nanoid": "ksUbGrF0xj9Xbh",
-            "name": "Medi 1 TV Arabic",
+            "nanoid": "jzkK9soaeUz7HG",
+            "name": "2M",
             "iptv_urls": [
-                "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8",
-                "https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "ma",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "DQwFtbiR7BSsfG",
-            "name": "Medi 1 TV Maghreb",
-            "iptv_urls": [
-                "https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
-                "https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8"
+                "https://fl1002.bozztv.com/ga-2mmaroc-hd/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -121,16 +106,40 @@
             "isGeoBlocked": false
         }
     ],
-    "religious": [
+    "news": [
         {
-            "nanoid": "9cgcc0XVnvxANc",
-            "name": "Assadissa",
+            "nanoid": "DQwFtbiR7BSsfG",
+            "name": "Medi 1 TV Maghreb",
             "iptv_urls": [
-                "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8",
-                "https://cdn.live.easybroadcast.io/ts_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8"
+                "https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
+                "https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
+            "country": "ma",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "ksUbGrF0xj9Xbh",
+            "name": "Medi 1 TV Arabic",
+            "iptv_urls": [
+                "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8",
+                "https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "ma",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "nmraaidVyzLC3P",
+            "name": "Medi 1 TV Afrique",
+            "iptv_urls": [
+                "https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8",
+                "https://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fra",
             "country": "ma",
             "isGeoBlocked": false
         }
@@ -156,6 +165,20 @@
             "name": "Aflam TV",
             "iptv_urls": [
                 "https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "ma",
+            "isGeoBlocked": false
+        }
+    ],
+    "religious": [
+        {
+            "nanoid": "9cgcc0XVnvxANc",
+            "name": "Assadissa",
+            "iptv_urls": [
+                "https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8",
+                "https://cdn.live.easybroadcast.io/ts_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",

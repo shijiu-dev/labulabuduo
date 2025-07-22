@@ -23,28 +23,28 @@
             "isGeoBlocked": false
         }
     ],
+    "religious": [
+        {
+            "nanoid": "DfD3tq4WpLgfKH",
+            "name": "Divya Darshan TV",
+            "iptv_urls": [
+                "https://live.divyadarshantv.com/hls/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nep",
+            "country": "np",
+            "isGeoBlocked": false
+        }
+    ],
     "news": [
         {
             "nanoid": "3hs6v4cxPbP3CG",
             "name": "News24 Nepal",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/N7AlyYVB7Yk"
+                "https://www.youtube-nocookie.com/embed/P6imzhfXJyA"
             ],
             "language": "nep",
-            "country": "np",
-            "isGeoBlocked": false
-        }
-    ],
-    "outdoor": [
-        {
-            "nanoid": "QS3la54YlW2E1e",
-            "name": "Paryawaran TV",
-            "iptv_urls": [
-                "https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "dhw",
             "country": "np",
             "isGeoBlocked": false
         }

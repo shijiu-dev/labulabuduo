@@ -1,29 +1,5 @@
 {
-    "news": [
-        {
-            "nanoid": "6xbesfipmdKMbt",
-            "name": "V\u00edsir",
-            "iptv_urls": [
-                "https://live.visir.is/hls-live/visir.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "isl",
-            "country": "is",
-            "isGeoBlocked": false
-        }
-    ],
     "general": [
-        {
-            "nanoid": "E7O8zBJb4BAo4h",
-            "name": "R\u00daV 2",
-            "iptv_urls": [
-                "https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "isl",
-            "country": "is",
-            "isGeoBlocked": false
-        },
         {
             "nanoid": "ja1vixP6JUtLey",
             "name": "R\u00daV",
@@ -34,14 +10,25 @@
             "language": "isl",
             "country": "is",
             "isGeoBlocked": false
+        },
+        {
+            "nanoid": "E7O8zBJb4BAo4h",
+            "name": "R\u00daV 2",
+            "iptv_urls": [
+                "https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "isl",
+            "country": "is",
+            "isGeoBlocked": false
         }
     ],
-    "religious": [
+    "news": [
         {
-            "nanoid": "umButodmOsz4jJ",
-            "name": "Omega",
+            "nanoid": "6xbesfipmdKMbt",
+            "name": "V\u00edsir",
             "iptv_urls": [
-                "https://196914.global.ssl.fastly.net/63fe5f3a8f037f47ac36fb2a/live_1d411f00b7a411eda9b5d3bb4704377e/index.m3u8"
+                "https://live.visir.is/hls-live/visir.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "isl",

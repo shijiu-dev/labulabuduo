@@ -1,10 +1,137 @@
 {
+    "news": [
+        {
+            "nanoid": "HUxeirBEJ9XVlF",
+            "name": "News Central",
+            "iptv_urls": [
+                "https://wf.newscentral.ng:8443/hls/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "ng",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "DGyLo10RdXeXNy",
+            "name": "News Central TV",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/D-rGtZqvUVA"
+            ],
+            "language": "eng",
+            "country": "ng",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "mQsEQa26uw8XEM",
+            "name": "TrustTV News",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/p7UUGSozdzI"
+            ],
+            "language": "eng",
+            "country": "ng",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Iz3l4KLYDLXwEs",
+            "name": "TVC News",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/Mv14aabg4mA"
+            ],
+            "language": "eng",
+            "country": "ng",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "lU3vhIeIZy1ObI",
+            "name": "TVC News Nigeria",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/N0gITrmcCMQ"
+            ],
+            "language": "eng",
+            "country": "ng",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "MP4bBMx7wAtF5b",
+            "name": "Arise News",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/srJg6ZIPmvU"
+            ],
+            "language": "eng",
+            "country": "ng",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "sGnhPtaEIv2fu6",
+            "name": "Channels Television",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/W8nThq62Vb4"
+            ],
+            "language": "eng",
+            "country": "ng",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "NhRq8cgQqJKIzv",
+            "name": "Galaxy TV",
+            "iptv_urls": [
+                "https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "ng",
+            "isGeoBlocked": false
+        }
+    ],
     "culture": [
         {
             "nanoid": "SYkeshgW48vaJo",
             "name": "Qausain TV",
             "iptv_urls": [
                 "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "ng",
+            "isGeoBlocked": false
+        }
+    ],
+    "other": [
+        {
+            "nanoid": "DonGeI2QCkbMfe",
+            "name": "Quest TV",
+            "iptv_urls": [
+                "https://media2.streambrothers.com:19360/8028/8028.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "ng",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Y3iniHuYhBuCQD",
+            "name": "Wap TV",
+            "iptv_urls": [
+                "https://newproxy3.vidivu.tv/waptv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "ng",
+            "isGeoBlocked": false
+        }
+    ],
+    "family": [
+        {
+            "nanoid": "Am4Jb6RFmtHHBI",
+            "name": "Superscreen TV",
+            "iptv_urls": [
+                "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
@@ -30,17 +157,6 @@
             "iptv_urls": [
                 "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8",
                 "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "bH0xAdzXSreOQz",
-            "name": "Approval TV",
-            "iptv_urls": [
-                "https://live.approvaltv.com/approvaltv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
@@ -92,139 +208,12 @@
             "isGeoBlocked": false
         }
     ],
-    "family": [
+    "music": [
         {
-            "nanoid": "Am4Jb6RFmtHHBI",
-            "name": "Superscreen TV",
+            "nanoid": "gZ1nRlS0xe1gmU",
+            "name": "AMusic Channel",
             "iptv_urls": [
-                "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        }
-    ],
-    "news": [
-        {
-            "nanoid": "mQsEQa26uw8XEM",
-            "name": "TrustTV News",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/ZMSHwxHLg-g"
-            ],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Iz3l4KLYDLXwEs",
-            "name": "TVC News",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/4-2RGDSFNpA"
-            ],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "lU3vhIeIZy1ObI",
-            "name": "TVC News Nigeria",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/N0gITrmcCMQ"
-            ],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "DGyLo10RdXeXNy",
-            "name": "News Central TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/6KyYejVWjfA"
-            ],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "MP4bBMx7wAtF5b",
-            "name": "Arise News",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/srJg6ZIPmvU"
-            ],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "sGnhPtaEIv2fu6",
-            "name": "Channels Television",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/W8nThq62Vb4"
-            ],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        }
-    ],
-    "other": [
-        {
-            "nanoid": "sbDH8jcQOtprOU",
-            "name": "TVC",
-            "iptv_urls": [
-                "https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Y3iniHuYhBuCQD",
-            "name": "Wap TV",
-            "iptv_urls": [
-                "https://newproxy3.vidivu.tv/waptv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "xqNDe2nURDi4zM",
-            "name": "Wazobia Max TV Abuja",
-            "iptv_urls": [
-                "https://wazobia.live:8333/channel/wmaxabuja.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "XBCn7LG1vDEDMn",
-            "name": "Wazobia Max TV Nigeria",
-            "iptv_urls": [
-                "https://wazobia.live:8333/channel/wmax.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        }
-    ],
-    "general": [
-        {
-            "nanoid": "UgWTds4qowCm7J",
-            "name": "Waffi TV",
-            "iptv_urls": [
-                "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8"
+                "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
@@ -238,19 +227,6 @@
             "name": "AfroSport Nigeria",
             "iptv_urls": [
                 "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        }
-    ],
-    "music": [
-        {
-            "nanoid": "gZ1nRlS0xe1gmU",
-            "name": "AMusic Channel",
-            "iptv_urls": [
-                "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",

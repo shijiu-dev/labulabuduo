@@ -1,6 +1,28 @@
 {
     "religious": [
         {
+            "nanoid": "aeK4nQAE2QU5bC",
+            "name": "Hadi TV Pashto and Persian",
+            "iptv_urls": [
+                "https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "iq",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Gmsnn8y6nGLpT3",
+            "name": "Hadi TV Farsi",
+            "iptv_urls": [
+                "https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "far",
+            "country": "iq",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "mfKAQpCxX0PcZ3",
             "name": "Imam Asr TV",
             "iptv_urls": [
@@ -45,21 +67,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "N5IKgcAKjLEV5u",
-            "name": "Hadi TV Hausa",
+            "nanoid": "cpuhucoAUr6WIV",
+            "name": "Hadi TV English and Urdu",
             "iptv_urls": [
-                "https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8"
+                "https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8"
             ],
             "youtube_urls": [],
-            "language": "ara",
+            "language": "eng",
             "country": "iq",
             "isGeoBlocked": false
         },
         {
-            "nanoid": "aeK4nQAE2QU5bC",
-            "name": "Hadi TV Pashto and Persian",
+            "nanoid": "N5IKgcAKjLEV5u",
+            "name": "Hadi TV Hausa",
             "iptv_urls": [
-                "https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8"
+                "https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -78,32 +100,32 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "Gmsnn8y6nGLpT3",
-            "name": "Hadi TV Farsi",
+            "nanoid": "gqagHcGI6e4lYf",
+            "name": "Al-Jawadain TV",
             "iptv_urls": [
-                "https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8"
+                "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
             ],
             "youtube_urls": [],
-            "language": "far",
+            "language": "ara",
             "country": "iq",
             "isGeoBlocked": false
         },
         {
-            "nanoid": "cpuhucoAUr6WIV",
-            "name": "Hadi TV English and Urdu",
+            "nanoid": "oH3JHlocRjrWih",
+            "name": "Alquran",
             "iptv_urls": [
-                "https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8"
+                "https://ktvlive.online/stream/hls/ch1.m3u8"
             ],
             "youtube_urls": [],
-            "language": "eng",
+            "language": "ara",
             "country": "iq",
             "isGeoBlocked": false
         },
         {
-            "nanoid": "X1x4T5PnggkH9u",
-            "name": "Hadi TV Azeri and Russian",
+            "nanoid": "bBdVVt0cpWEQfg",
+            "name": "BeitolAbbas TV Channel",
             "iptv_urls": [
-                "https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8"
+                "https://live.beitolabbas.tv/live/beitolabbastv.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -122,10 +144,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "bBdVVt0cpWEQfg",
-            "name": "BeitolAbbas TV Channel",
+            "nanoid": "X1x4T5PnggkH9u",
+            "name": "Hadi TV Azeri and Russian",
             "iptv_urls": [
-                "https://live.beitolabbas.tv/live/beitolabbastv.m3u8"
+                "https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -160,7 +182,7 @@
             "nanoid": "SjoOeqUrGyldOw",
             "name": "Kurdsat News",
             "iptv_urls": [
-                "https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8"
+                "https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8"
             ],
             "youtube_urls": [],
             "language": "kur",
@@ -172,6 +194,17 @@
             "name": "NRT TV",
             "iptv_urls": [
                 "https://media.streambrothers.com:1936/8226/8226/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kur",
+            "country": "iq",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Z1xarEkNQ77Icp",
+            "name": "Payam TV",
+            "iptv_urls": [
+                "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "kur",
@@ -300,17 +333,6 @@
             "language": "ara",
             "country": "iq",
             "isGeoBlocked": false
-        },
-        {
-            "nanoid": "a653yBFnUOPJZG",
-            "name": "Alawla TV",
-            "iptv_urls": [
-                "https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "iq",
-            "isGeoBlocked": false
         }
     ],
     "music": [
@@ -342,7 +364,7 @@
             "nanoid": "RzX8WqJgd5GWa8",
             "name": "KurdMax Show",
             "iptv_urls": [
-                "https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8"
+                "https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "kur",
@@ -359,6 +381,17 @@
             "language": "ckb",
             "country": "iq",
             "isGeoBlocked": false
+        },
+        {
+            "nanoid": "8YNFXXuZHnJiGA",
+            "name": "Kurdsat",
+            "iptv_urls": [
+                "https://iko-live.akamaized.net/KurdsatTV/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kur",
+            "country": "iq",
+            "isGeoBlocked": false
         }
     ],
     "family": [
@@ -372,20 +405,20 @@
             "language": "kur",
             "country": "iq",
             "isGeoBlocked": false
-        }
-    ],
-    "other": [
+        },
         {
-            "nanoid": "KMzVAKGUvyz4eh",
-            "name": "Waar TV",
+            "nanoid": "umvB9tV3Rb1OXe",
+            "name": "EmanTv",
             "iptv_urls": [
-                "https://ca-rt.onetv.app/Waar/index-0.m3u8"
+                "https://avr.host247.net/live/emantv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "kur",
             "country": "iq",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "other": [
         {
             "nanoid": "cM31twBg1gSzK3",
             "name": "Zarok TV Sorani",
@@ -413,6 +446,17 @@
             "name": "Dua Channel",
             "iptv_urls": [
                 "https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "iq",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "W3aTFBdLCXLotm",
+            "name": "Alqanat9 TV",
+            "iptv_urls": [
+                "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8"
             ],
             "youtube_urls": [],
             "language": "",

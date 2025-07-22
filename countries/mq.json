@@ -1,17 +1,4 @@
 {
-    "religious": [
-        {
-            "nanoid": "usETpjVP1bzVNN",
-            "name": "TV Famille",
-            "iptv_urls": [
-                "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fra",
-            "country": "mq",
-            "isGeoBlocked": false
-        }
-    ],
     "music": [
         {
             "nanoid": "97DWduUX5Hf0aj",
@@ -29,6 +16,19 @@
             "name": "Identit\u00e9 T\u00e9l\u00e9 Cara\u00efbes",
             "iptv_urls": [
                 "https://vdo2.pro-fhi.net:3769/stream/play.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fra",
+            "country": "mq",
+            "isGeoBlocked": false
+        }
+    ],
+    "religious": [
+        {
+            "nanoid": "usETpjVP1bzVNN",
+            "name": "TV Famille",
+            "iptv_urls": [
+                "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "fra",

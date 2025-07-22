@@ -1,4 +1,87 @@
 {
+    "other": [
+        {
+            "nanoid": "MIQPfjaWcQ3snn",
+            "name": "TV6",
+            "iptv_urls": [
+                "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6"
+            ],
+            "youtube_urls": [],
+            "language": "msa",
+            "country": "my",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "kuNUB2BAWEAmyQ",
+            "name": "TV1",
+            "iptv_urls": [
+                "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1"
+            ],
+            "youtube_urls": [],
+            "language": "msa",
+            "country": "my",
+            "isGeoBlocked": false
+        }
+    ],
+    "music": [
+        {
+            "nanoid": "aLRI25BZ5Nmrta",
+            "name": "SuriaTV",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/kdUFfwM_KS0"
+            ],
+            "language": "msa",
+            "country": "my",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "ZOTkMMGUEIitr9",
+            "name": "Molek TV",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/mIaYkjKTfXI"
+            ],
+            "language": "msa",
+            "country": "my",
+            "isGeoBlocked": false
+        }
+    ],
+    "movies": [
+        {
+            "nanoid": "6eFuOUCYQJygt5",
+            "name": "Dunia Sinema",
+            "iptv_urls": [
+                "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "msa",
+            "country": "my",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "xJcplFZvvoAwWP",
+            "name": "Maah TV",
+            "iptv_urls": [
+                "https://hls.maahtv.live/hls/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fas",
+            "country": "my",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Ip5GJ74gCc0WVs",
+            "name": "Astro Box Office Thangathirai",
+            "iptv_urls": [
+                "https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "msa",
+            "country": "my",
+            "isGeoBlocked": false
+        }
+    ],
     "legislative": [
         {
             "nanoid": "b9eQGrQfCzFYHL",
@@ -19,65 +102,6 @@
             ],
             "youtube_urls": [],
             "language": "mal",
-            "country": "my",
-            "isGeoBlocked": false
-        }
-    ],
-    "music": [
-        {
-            "nanoid": "aLRI25BZ5Nmrta",
-            "name": "SuriaTV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/i8uZK8Bg_uM"
-            ],
-            "language": "msa",
-            "country": "my",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "ZOTkMMGUEIitr9",
-            "name": "Molek TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/Zt4PpCBH2Bo"
-            ],
-            "language": "msa",
-            "country": "my",
-            "isGeoBlocked": false
-        }
-    ],
-    "other": [
-        {
-            "nanoid": "kuNUB2BAWEAmyQ",
-            "name": "TV1",
-            "iptv_urls": [
-                "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1"
-            ],
-            "youtube_urls": [],
-            "language": "msa",
-            "country": "my",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "l686hKHlJ30ARQ",
-            "name": "TV2",
-            "iptv_urls": [
-                "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"
-            ],
-            "youtube_urls": [],
-            "language": "msa",
-            "country": "my",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "MIQPfjaWcQ3snn",
-            "name": "TV6",
-            "iptv_urls": [
-                "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6"
-            ],
-            "youtube_urls": [],
-            "language": "msa",
             "country": "my",
             "isGeoBlocked": false
         }
@@ -114,7 +138,7 @@
                 "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8"
             ],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/weCEi1NE0C8"
+                "https://www.youtube-nocookie.com/embed/mkVyNaGee8A"
             ],
             "language": "msa",
             "country": "my",
@@ -130,19 +154,6 @@
             ],
             "youtube_urls": [],
             "language": "msa",
-            "country": "my",
-            "isGeoBlocked": false
-        }
-    ],
-    "movies": [
-        {
-            "nanoid": "xJcplFZvvoAwWP",
-            "name": "Maah TV",
-            "iptv_urls": [
-                "https://hls.maahtv.live/hls/stream.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fas",
             "country": "my",
             "isGeoBlocked": false
         }

@@ -1,15 +1,24 @@
 {
-    "general": [
+    "entertainment": [
         {
-            "nanoid": "OGTxaWnBlezwNQ",
+            "nanoid": "wZUahL1eP4rrw2",
             "name": "LRT Lituanica",
-            "iptv_urls": [
-                "https://stream-live.lrt.lt/lituanica/stream03/streamPlaylist.m3u8"
-            ],
+            "iptv_urls": [],
             "youtube_urls": [
                 "https://www.youtube-nocookie.com/embed/m67gYVnA100"
             ],
             "language": "lit",
+            "country": "lt",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "uuLgGBqsJuMn2t",
+            "name": "Just TV",
+            "iptv_urls": [
+                "https://fenixstream2.online/memfs/0ac46a4f-71ea-4bf7-bb62-312df327b6c8.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
             "country": "lt",
             "isGeoBlocked": false
         }
@@ -67,19 +76,6 @@
                 "https://www.youtube-nocookie.com/embed/k7Ik8Ls-ZFk"
             ],
             "language": "lit",
-            "country": "lt",
-            "isGeoBlocked": false
-        }
-    ],
-    "entertainment": [
-        {
-            "nanoid": "uuLgGBqsJuMn2t",
-            "name": "Just TV",
-            "iptv_urls": [
-                "https://fenixstream2.online/memfs/0ac46a4f-71ea-4bf7-bb62-312df327b6c8.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
             "country": "lt",
             "isGeoBlocked": false
         }

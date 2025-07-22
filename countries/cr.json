@@ -1,10 +1,34 @@
 {
-    "classic": [
+    "news": [
         {
-            "nanoid": "Oxstp5zvFaS9ZH",
-            "name": "Retrox TV",
+            "nanoid": "4hISVyUvSKd79p",
+            "name": "Norte Informativo TV",
             "iptv_urls": [
-                "https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8"
+                "https://videohd.live:19360/8076/8076.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cr",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "fNzNQyxrdQA2dG",
+            "name": "Multimedios Costa Rica",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/49echV8mXyQ"
+            ],
+            "language": "spa",
+            "country": "cr",
+            "isGeoBlocked": false
+        }
+    ],
+    "sports": [
+        {
+            "nanoid": "KSc2NtlozO0Aw7",
+            "name": "Radio Turrialba TV Sports",
+            "iptv_urls": [
+                "https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -13,17 +37,6 @@
         }
     ],
     "general": [
-        {
-            "nanoid": "SI3nWhyuVnROLX",
-            "name": "RTV Chirrip\u00f3",
-            "iptv_urls": [
-                "https://lstv.duckdns.org:449/hls/rtchirripo.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cr",
-            "isGeoBlocked": false
-        },
         {
             "nanoid": "RYVkiPv8DNw6UC",
             "name": "Sarapiqui TV",
@@ -80,17 +93,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "FY9JMfvI9sWSMw",
-            "name": "TeleBrunca",
-            "iptv_urls": [
-                "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cr",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "K2jiXD7UiZELMV",
             "name": "Nicoya TV",
             "iptv_urls": [
@@ -118,6 +120,17 @@
             "iptv_urls": [
                 "https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8",
                 "https://video20.klm99.com:3993/live/canal1crlive.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cr",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "a7HO16dgTpwtZ8",
+            "name": "Canal 10 (576i)",
+            "iptv_urls": [
+                "https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -162,63 +175,6 @@
             "name": "Los Santos TV",
             "iptv_urls": [
                 "https://lstv.duckdns.org:449/hls/lstv.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cr",
-            "isGeoBlocked": false
-        }
-    ],
-    "religious": [
-        {
-            "nanoid": "KWtXBE79zVCsGO",
-            "name": "San Jos\u00e9 TV",
-            "iptv_urls": [
-                "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cr",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "GHvLc9YKjbjb4r",
-            "name": "Telefides",
-            "iptv_urls": [
-                "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cr",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "xMyWNZNLNYysjq",
-            "name": "Enlace",
-            "iptv_urls": [
-                "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cr",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "RdxKyXaV9qtXPb",
-            "name": "Luz Naciente TV",
-            "iptv_urls": [
-                "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cr",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "g2oDIGkwBMwsy6",
-            "name": "Extrema TV",
-            "iptv_urls": [
-                "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -286,7 +242,8 @@
             "nanoid": "9cN6rSKGfOi3ha",
             "name": "Canal 3 KMK TV",
             "iptv_urls": [
-                "https://s3.tvdatta.com:3030/live/kmk3live.m3u8"
+                "https://s3.tvdatta.com:3030/live/kmk3live.m3u8",
+                "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -298,6 +255,52 @@
             "name": "IQ Channel",
             "iptv_urls": [
                 "https://rtmp.info/iqtv/envivo/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cr",
+            "isGeoBlocked": false
+        }
+    ],
+    "religious": [
+        {
+            "nanoid": "GHvLc9YKjbjb4r",
+            "name": "Telefides",
+            "iptv_urls": [
+                "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cr",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "g2oDIGkwBMwsy6",
+            "name": "Extrema TV",
+            "iptv_urls": [
+                "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cr",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "RdxKyXaV9qtXPb",
+            "name": "Luz Naciente TV",
+            "iptv_urls": [
+                "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cr",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "xMyWNZNLNYysjq",
+            "name": "Enlace",
+            "iptv_urls": [
+                "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -340,31 +343,18 @@
             "isGeoBlocked": false
         }
     ],
-    "news": [
+    "entertainment": [
         {
-            "nanoid": "4hISVyUvSKd79p",
-            "name": "Norte Informativo TV",
+            "nanoid": "0dNDSI0p6Xtcvm",
+            "name": "TeleMas",
             "iptv_urls": [
-                "https://videohd.live:19360/8076/8076.m3u8"
+                "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
             "country": "cr",
             "isGeoBlocked": false
         },
-        {
-            "nanoid": "fNzNQyxrdQA2dG",
-            "name": "Multimedios Costa Rica",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/-AvEoFHIijU"
-            ],
-            "language": "spa",
-            "country": "cr",
-            "isGeoBlocked": false
-        }
-    ],
-    "entertainment": [
         {
             "nanoid": "bK2TlT0v8UWAuh",
             "name": "Colosal TV",

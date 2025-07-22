@@ -1,16 +1,29 @@
 {
-    "general": [
+    "religious": [
         {
-            "nanoid": "slRsHngNcym3tq",
-            "name": "Kontra Channel",
+            "nanoid": "syiSHu51AliWkD",
+            "name": "Lychnos TV",
             "iptv_urls": [
-                "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
+                "https://thor.mental-media.gr:19360/imp/imp.m3u8"
             ],
             "youtube_urls": [],
             "language": "ell",
             "country": "gr",
             "isGeoBlocked": false
         },
+        {
+            "nanoid": "c5sRTm8qGDYdgm",
+            "name": "ecclesiaTV.gr",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/RbMYLRzOGBU"
+            ],
+            "language": "ell",
+            "country": "gr",
+            "isGeoBlocked": false
+        }
+    ],
+    "general": [
         {
             "nanoid": "nOgaKVJqtjFRdy",
             "name": "Nea TV",
@@ -39,17 +52,6 @@
             "name": "One Channel",
             "iptv_urls": [
                 "https://onechannel.siliconweb.com/one/stream/chunks.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ell",
-            "country": "gr",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "cka5jMlXVO8ZDT",
-            "name": "Open TV",
-            "iptv_urls": [
-                "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ell",
@@ -113,10 +115,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "BBnkN7RuoWZuoo",
-            "name": "Gnomi TV",
+            "nanoid": "5ZeYm0HuWlcYQ2",
+            "name": "Ionian Channel",
             "iptv_urls": [
-                "https://live.streams.ovh:8081/gnomitv/index.m3u8"
+                "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ell",
@@ -124,10 +126,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "5ZeYm0HuWlcYQ2",
-            "name": "Ionian Channel",
+            "nanoid": "slRsHngNcym3tq",
+            "name": "Kontra Channel",
             "iptv_urls": [
-                "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8"
+                "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ell",
@@ -179,17 +181,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "9nOkMHgBurW2UW",
-            "name": "Blue Sky TV",
-            "iptv_urls": [
-                "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ell",
-            "country": "gr",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "qHlxPtY6uNmwIG",
             "name": "Dipso TV",
             "iptv_urls": [
@@ -199,14 +190,12 @@
             "language": "ell",
             "country": "gr",
             "isGeoBlocked": false
-        }
-    ],
-    "religious": [
+        },
         {
-            "nanoid": "syiSHu51AliWkD",
-            "name": "Lychnos TV",
+            "nanoid": "BBnkN7RuoWZuoo",
+            "name": "Gnomi TV",
             "iptv_urls": [
-                "https://thor.mental-media.gr:19360/imp/imp.m3u8"
+                "https://live.streams.ovh:8081/gnomitv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "ell",
@@ -214,12 +203,12 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "c5sRTm8qGDYdgm",
-            "name": "ecclesiaTV.gr",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/KIWoc5z6W2A"
+            "nanoid": "9nOkMHgBurW2UW",
+            "name": "Blue Sky TV",
+            "iptv_urls": [
+                "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8"
             ],
+            "youtube_urls": [],
             "language": "ell",
             "country": "gr",
             "isGeoBlocked": false
@@ -296,17 +285,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "aANHgmWHyppMiE",
-            "name": "1062 Mad Radio Live",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/40Vz9YaPjoc"
-            ],
-            "language": "ell",
-            "country": "gr",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "SwsWDthUMBPn2q",
             "name": "Baraza TV Deep House",
             "iptv_urls": [
@@ -324,6 +302,17 @@
                 "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8"
             ],
             "youtube_urls": [],
+            "language": "ell",
+            "country": "gr",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "aANHgmWHyppMiE",
+            "name": "1062 Mad Radio Live",
+            "iptv_urls": [],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/lsrCoCP1XGE"
+            ],
             "language": "ell",
             "country": "gr",
             "isGeoBlocked": false
@@ -390,10 +379,32 @@
     ],
     "other": [
         {
+            "nanoid": "k0DjU0gnwVW4VP",
+            "name": "Tilemousiki",
+            "iptv_urls": [
+                "https://live20.bozztv.com/akamaissh101/ssh101/tilemousiki/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ell",
+            "country": "gr",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "Xstsz3HxvmyGSQ",
             "name": "TV Creta",
             "iptv_urls": [
                 "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ell",
+            "country": "gr",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "nur67kMzGvKND6",
+            "name": "Best TV",
+            "iptv_urls": [
+                "https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ell",
@@ -432,12 +443,14 @@
             "language": "ell",
             "country": "gr",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "legislative": [
         {
-            "nanoid": "nur67kMzGvKND6",
-            "name": "Best TV",
+            "nanoid": "D9a6Bz5bh6RDhY",
+            "name": "\u0392\u03bf\u03c5\u03bb\u03ae \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
             "iptv_urls": [
-                "https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8"
+                "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
             ],
             "youtube_urls": [],
             "language": "ell",

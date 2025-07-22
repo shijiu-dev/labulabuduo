@@ -1,72 +1,4 @@
 {
-    "religious": [
-        {
-            "nanoid": "It09WcJXuh2yq1",
-            "name": "Josu\u00e9 TV",
-            "iptv_urls": [
-                "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "sv",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "h8wvrpeqCIA0Cx",
-            "name": "TV Le\u00f3n de Jud\u00e1",
-            "iptv_urls": [
-                "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "sv",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Jx6LDrmycTsFql",
-            "name": "TV Getseman\u00ed",
-            "iptv_urls": [
-                "https://serversv.com:8080/hls/tvgetsemani.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "sv",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Blt46frCkDVO7v",
-            "name": "TV CRET",
-            "iptv_urls": [
-                "https://radiocret.net:8082/hls/tvcret.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "sv",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "O3X8SIvmSfoleo",
-            "name": "GSG TV",
-            "iptv_urls": [
-                "https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "sv",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "lZCJ28tnHKpEgP",
-            "name": "El Camino TV",
-            "iptv_urls": [
-                "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "sv",
-            "isGeoBlocked": false
-        }
-    ],
     "general": [
         {
             "nanoid": "1jzCwLIvYDfCXS",
@@ -128,6 +60,87 @@
             "name": "Canal 2",
             "iptv_urls": [
                 "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "sv",
+            "isGeoBlocked": false
+        }
+    ],
+    "religious": [
+        {
+            "nanoid": "h8wvrpeqCIA0Cx",
+            "name": "TV Le\u00f3n de Jud\u00e1",
+            "iptv_urls": [
+                "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "sv",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Jx6LDrmycTsFql",
+            "name": "TV Getseman\u00ed",
+            "iptv_urls": [
+                "https://serversv.com:8080/hls/tvgetsemani.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "sv",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Blt46frCkDVO7v",
+            "name": "TV CRET",
+            "iptv_urls": [
+                "https://radiocret.net:8082/hls/tvcret.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "sv",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "O3X8SIvmSfoleo",
+            "name": "GSG TV",
+            "iptv_urls": [
+                "https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "sv",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "lZCJ28tnHKpEgP",
+            "name": "El Camino TV",
+            "iptv_urls": [
+                "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "sv",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "It09WcJXuh2yq1",
+            "name": "Josu\u00e9 TV",
+            "iptv_urls": [
+                "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "sv",
+            "isGeoBlocked": false
+        }
+    ],
+    "legislative": [
+        {
+            "nanoid": "NLIFoRpmAx5nwO",
+            "name": "Legislative Assembly of El Salvador",
+            "iptv_urls": [
+                "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",

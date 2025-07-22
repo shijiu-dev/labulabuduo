@@ -1,10 +1,10 @@
 {
-    "general": [
+    "religious": [
         {
-            "nanoid": "iQsTa6Z2cWc5Ch",
-            "name": "Torococo TV",
+            "nanoid": "tJa1zHfUu6eux2",
+            "name": "Reforma TV",
             "iptv_urls": [
-                "https://us.streaminghd.cl/torococotelevision/video.m3u8"
+                "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -12,10 +12,34 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "4OE4ZIp6ZfzmtV",
+            "name": "Audaz TV",
+            "iptv_urls": [
+                "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ve",
+            "isGeoBlocked": false
+        }
+    ],
+    "general": [
+        {
             "nanoid": "8UCD3Qx8hCNOEd",
             "name": "Siembra TV",
             "iptv_urls": [
                 "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ve",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Hf8hQXiCJxWSk6",
+            "name": "Somos TV",
+            "iptv_urls": [
+                "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -79,6 +103,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "iQsTa6Z2cWc5Ch",
+            "name": "Torococo TV",
+            "iptv_urls": [
+                "https://us.streaminghd.cl/torococotelevision/video.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ve",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "rO6eV79GxNqt7n",
             "name": "TRT",
             "iptv_urls": [
@@ -112,10 +147,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "plr8p8zjDPs7Ks",
-            "name": "TVS",
+            "nanoid": "y7GSsbtupMtLRG",
+            "name": "Canal Nubeh TV",
             "iptv_urls": [
-                "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8"
+                "https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -123,10 +158,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "y7GSsbtupMtLRG",
-            "name": "Canal Nubeh TV",
+            "nanoid": "plr8p8zjDPs7Ks",
+            "name": "TVS",
             "iptv_urls": [
-                "https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8"
+                "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -168,6 +203,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "1b6pwDCZHXANgu",
+            "name": "PortuTV",
+            "iptv_urls": [
+                "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ve",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "YQGNpYUE3gQTO4",
             "name": "PromarTV",
             "iptv_urls": [
@@ -183,28 +229,6 @@
             "name": "Anzo\u00e1tegui TV",
             "iptv_urls": [
                 "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ve",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "OBFGqgcPLTbi6p",
-            "name": "Canal 21 T\u00e1chira",
-            "iptv_urls": [
-                "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ve",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "6SYW2B8xTfiTLL",
-            "name": "Catatumbo TV",
-            "iptv_urls": [
-                "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -245,6 +269,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "4VY9I5iGKTuAs4",
+            "name": "Monagas Visi\u00f3n",
+            "iptv_urls": [
+                "https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ve",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "4vAoi7DUnPi0Mm",
             "name": "Onza TV",
             "iptv_urls": [
@@ -252,65 +287,6 @@
             ],
             "youtube_urls": [],
             "language": "spa",
-            "country": "ve",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "NrA2Wrk1uY7amo",
-            "name": "Panavisi\u00f3n",
-            "iptv_urls": [
-                "https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ve",
-            "isGeoBlocked": false
-        }
-    ],
-    "religious": [
-        {
-            "nanoid": "tJa1zHfUu6eux2",
-            "name": "Reforma TV",
-            "iptv_urls": [
-                "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ve",
-            "isGeoBlocked": false
-        }
-    ],
-    "other": [
-        {
-            "nanoid": "bTL6gFJ8bSv0ak",
-            "name": "Televen Asia",
-            "iptv_urls": [
-                "https://d39cdj6x0ssnqk.cloudfront.net/out/v1/95fe709c8bde490f92bea36203ec91d2/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "ve",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "2mm3A10WAbuPhc",
-            "name": "Televen Europa",
-            "iptv_urls": [
-                "https://d39cdj6x0ssnqk.cloudfront.net/out/v1/ae3f5ad3ac9d4bcfbedc1894a62782b4/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "ve",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "hYaEiBkFdAkiAd",
-            "name": "GlobalTV",
-            "iptv_urls": [
-                "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
             "country": "ve",
             "isGeoBlocked": false
         }
@@ -321,17 +297,6 @@
             "name": "Televisora de Oriente",
             "iptv_urls": [
                 "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ve",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "baPvUzzfHutjpv",
-            "name": "Vepaco TV",
-            "iptv_urls": [
-                "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -350,32 +315,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "63R3XtVRcbnL2d",
-            "name": "Italianissimo",
-            "iptv_urls": [
-                "https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ve",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "MIcJy2C1jnLtEJ",
             "name": "KandelaTV",
             "iptv_urls": [
                 "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ve",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "ufmTqAnNRqbnep",
-            "name": "Oxigeno TV",
-            "iptv_urls": [
-                "https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -407,19 +350,6 @@
             "isGeoBlocked": false
         }
     ],
-    "lifestyle": [
-        {
-            "nanoid": "dJh7EB1lQFwOCd",
-            "name": "Plous TV",
-            "iptv_urls": [
-                "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ve",
-            "isGeoBlocked": false
-        }
-    ],
     "entertainment": [
         {
             "nanoid": "t2xHdunHhK2Qqc",
@@ -433,10 +363,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "c9vagOs8X6vg6Q",
-            "name": "Guaro TV",
+            "nanoid": "gPHlL3FuCScLzN",
+            "name": "interTV",
             "iptv_urls": [
-                "https://streamtv.intervenhosting.net:3592/stream/play.m3u8"
+                "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -455,10 +385,49 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "gPHlL3FuCScLzN",
-            "name": "interTV",
+            "nanoid": "c9vagOs8X6vg6Q",
+            "name": "Guaro TV",
             "iptv_urls": [
-                "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
+                "https://streamtv.intervenhosting.net:3592/stream/play.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ve",
+            "isGeoBlocked": false
+        }
+    ],
+    "culture": [
+        {
+            "nanoid": "3qrZodX27EMHq4",
+            "name": "Canal Diplom\u00e1tico",
+            "iptv_urls": [
+                "https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ve",
+            "isGeoBlocked": false
+        }
+    ],
+    "other": [
+        {
+            "nanoid": "hYaEiBkFdAkiAd",
+            "name": "GlobalTV",
+            "iptv_urls": [
+                "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "ve",
+            "isGeoBlocked": false
+        }
+    ],
+    "lifestyle": [
+        {
+            "nanoid": "dJh7EB1lQFwOCd",
+            "name": "Plous TV",
+            "iptv_urls": [
+                "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",

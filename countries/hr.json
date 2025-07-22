@@ -1,10 +1,10 @@
 {
     "music": [
         {
-            "nanoid": "fKbltvx8aLsHQT",
-            "name": "Bravo! TV",
+            "nanoid": "enIKIkknsZ9r2w",
+            "name": "Extra TV",
             "iptv_urls": [
-                "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8"
+                "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8"
             ],
             "youtube_urls": [],
             "language": "hrv",
@@ -23,10 +23,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "enIKIkknsZ9r2w",
-            "name": "Extra TV",
+            "nanoid": "3l5doVjMXjwPIT",
+            "name": "CMC TV",
             "iptv_urls": [
-                "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8"
+                "https://stream.cmctv.hr:49998/cmc/live.m3u8"
             ],
             "youtube_urls": [],
             "language": "hrv",
@@ -34,10 +34,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "3l5doVjMXjwPIT",
-            "name": "CMC TV",
+            "nanoid": "fKbltvx8aLsHQT",
+            "name": "Bravo! TV",
             "iptv_urls": [
-                "https://stream.cmctv.hr:49998/cmc/live.m3u8"
+                "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8"
             ],
             "youtube_urls": [],
             "language": "hrv",
@@ -88,17 +88,6 @@
             "name": "Libertas TV",
             "iptv_urls": [
                 "https://stream.luci.xyz/hls/LTV.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "hrv",
-            "country": "hr",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Krnvg7lhNu9QZe",
-            "name": "Diadora TV",
-            "iptv_urls": [
-                "https://diadoratv.stream/live/diadora/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "hrv",

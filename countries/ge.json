@@ -1,11 +1,11 @@
 {
     "news": [
         {
-            "nanoid": "oWVSeCGvoYHgK5",
-            "name": "Formula",
+            "nanoid": "ulKdgYZsOoWr3b",
+            "name": "Palitra News",
             "iptv_urls": [
-                "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
-                "https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8"
+                "https://live.palitranews.ge/hls/palitratv/index.m3u8",
+                "https://livestream.palitra.ge/hls/palitratv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "kat",
@@ -13,11 +13,22 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "ulKdgYZsOoWr3b",
-            "name": "Palitra News",
+            "nanoid": "61s5Bw5xO8tnRp",
+            "name": "Obieqtivi TV",
             "iptv_urls": [
-                "https://live.palitranews.ge/hls/palitratv/index.m3u8",
-                "https://livestream.palitra.ge/hls/palitratv/index.m3u8"
+                "https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kat",
+            "country": "ge",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "oWVSeCGvoYHgK5",
+            "name": "Formula",
+            "iptv_urls": [
+                "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
+                "https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "kat",
@@ -38,6 +49,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "gsTBbyeaJICffC",
+            "name": "1TV",
+            "iptv_urls": [
+                "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kat",
+            "country": "ge",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "GSqdkOSq3rdO9Y",
             "name": "2TV",
             "iptv_urls": [
@@ -47,12 +69,14 @@
             "language": "kat",
             "country": "ge",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "sports": [
         {
-            "nanoid": "gsTBbyeaJICffC",
-            "name": "1TV",
+            "nanoid": "yeW750BW1vvPMb",
+            "name": "Adjarasport 1",
             "iptv_urls": [
-                "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8"
+                "https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "kat",

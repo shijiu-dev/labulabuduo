@@ -34,10 +34,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "QA1BHMxRwKgdpS",
-            "name": "ANTV",
+            "nanoid": "b1H5SOg2OgNTE7",
+            "name": "Dong Thap TV",
             "iptv_urls": [
-                "https://ott1.nethubtv.vn/live/antv/playlist.m3u8"
+                "https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "vie",
@@ -49,6 +49,17 @@
             "name": "Bac Ninh TV",
             "iptv_urls": [
                 "https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "vie",
+            "country": "vn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "QA1BHMxRwKgdpS",
+            "name": "ANTV",
+            "iptv_urls": [
+                "https://ott1.nethubtv.vn/live/antv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "vie",
@@ -104,10 +115,10 @@
     ],
     "general": [
         {
-            "nanoid": "nsztoVuHNX5xBo",
-            "name": "Tra Vinh TV 2",
+            "nanoid": "TxKRcL8oCX3WJY",
+            "name": "Thai Nguyen TV",
             "iptv_urls": [
-                "https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8"
+                "https://streaming.thainguyentv.vn/hls/livestream.m3u8"
             ],
             "youtube_urls": [],
             "language": "vie",
@@ -126,10 +137,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "wTq4UeqAKJPSFz",
-            "name": "Dien Bien TV",
+            "nanoid": "LDEtdCq8NfZ3XG",
+            "name": "Lao Cai TV",
             "iptv_urls": [
-                "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId="
+                "https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "vie",
+            "country": "vn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "0lBimXOrNeTPYl",
+            "name": "HBTV",
+            "iptv_urls": [
+                "https://hbtvlive.3ssoft.vn/hoabinhtv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "vie",
@@ -148,10 +170,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "LDEtdCq8NfZ3XG",
-            "name": "Lao Cai TV",
+            "nanoid": "wTq4UeqAKJPSFz",
+            "name": "Dien Bien TV",
             "iptv_urls": [
-                "https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8"
+                "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId="
             ],
             "youtube_urls": [],
             "language": "vie",
@@ -176,7 +198,7 @@
             "name": "L\u00ednh Tr\u1eadn Mi\u1ec1n Xa - Nh\u1ea1c L\u00ednh H\u1ea3i Ngo\u1ea1i",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/3s-__1744tg"
+                "https://www.youtube-nocookie.com/embed/YA3s2yMploE"
             ],
             "language": "vie",
             "country": "vn",
@@ -187,7 +209,7 @@
             "name": "360 Entertainment - Bolero & Nh\u1ea1c V\u00e0ng",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/R5H0IJfd3tI"
+                "https://www.youtube-nocookie.com/embed/0rqA5vV_JUw"
             ],
             "language": "vie",
             "country": "vn",
@@ -200,7 +222,7 @@
             "name": "DGV",
             "iptv_urls": [],
             "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/2QbeuBMAhXM"
+                "https://www.youtube-nocookie.com/embed/r2RaVnQLDOk"
             ],
             "language": "vie",
             "country": "vn",
