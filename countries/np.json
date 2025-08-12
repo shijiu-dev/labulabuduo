@@ -1,10 +1,10 @@
 {
     "general": [
         {
-            "nanoid": "GidYAgXI85sI6d",
-            "name": "Capital TV",
+            "nanoid": "1arJwZ5hCANmS7",
+            "name": "Indigenous Television",
             "iptv_urls": [
-                "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8"
+                "https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "nep",
@@ -12,10 +12,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "1arJwZ5hCANmS7",
-            "name": "Indigenous Television",
+            "nanoid": "GidYAgXI85sI6d",
+            "name": "Capital TV",
             "iptv_urls": [
-                "https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8"
+                "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8"
             ],
             "youtube_urls": [],
             "language": "nep",
@@ -31,19 +31,6 @@
                 "https://live.divyadarshantv.com/hls/stream.m3u8"
             ],
             "youtube_urls": [],
-            "language": "nep",
-            "country": "np",
-            "isGeoBlocked": false
-        }
-    ],
-    "news": [
-        {
-            "nanoid": "3hs6v4cxPbP3CG",
-            "name": "News24 Nepal",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/P6imzhfXJyA"
-            ],
             "language": "nep",
             "country": "np",
             "isGeoBlocked": false

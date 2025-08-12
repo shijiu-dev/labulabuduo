@@ -1,16 +1,18 @@
 {
-    "legislative": [
+    "other": [
         {
-            "nanoid": "kBJPIvFNSLMLmy",
-            "name": "Oireachtas TV Committee Room 1",
+            "nanoid": "jE5PruME2i0V9B",
+            "name": "TG4",
             "iptv_urls": [
-                "https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8"
+                "https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8"
             ],
             "youtube_urls": [],
-            "language": "eng",
+            "language": "gle",
             "country": "ie",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "legislative": [
         {
             "nanoid": "GAsLjurRgFyUUw",
             "name": "Oireachtas TV Seanad \u00c9ireann",
@@ -56,10 +58,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "ilLJLqtqjz93Es",
-            "name": "Oireachtas TV Committee Room 3",
+            "nanoid": "kBJPIvFNSLMLmy",
+            "name": "Oireachtas TV Committee Room 1",
             "iptv_urls": [
-                "https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8"
+                "https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
@@ -76,17 +78,15 @@
             "language": "gle",
             "country": "ie",
             "isGeoBlocked": false
-        }
-    ],
-    "other": [
+        },
         {
-            "nanoid": "jE5PruME2i0V9B",
-            "name": "TG4",
+            "nanoid": "ilLJLqtqjz93Es",
+            "name": "Oireachtas TV Committee Room 3",
             "iptv_urls": [
-                "https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8"
+                "https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8"
             ],
             "youtube_urls": [],
-            "language": "gle",
+            "language": "eng",
             "country": "ie",
             "isGeoBlocked": false
         }

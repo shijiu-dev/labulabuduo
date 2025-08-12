@@ -1,95 +1,5 @@
 {
-    "news": [
-        {
-            "nanoid": "B9n020aED6O0Uz",
-            "name": "Jamuna TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/kPYZ202o818"
-            ],
-            "language": "ben",
-            "country": "bd",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "NikPw9VKIQ0CfQ",
-            "name": "Somoy TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/TdwhCOFh9OA"
-            ],
-            "language": "ben",
-            "country": "bd",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "mp7J62VtY0DqAW",
-            "name": "Independent Television",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/ikUP36ZnN2U"
-            ],
-            "language": "ben",
-            "country": "bd",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Lq7ZGbUz74iICx",
-            "name": "Ekattor TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/p6fwv4nMaKk"
-            ],
-            "language": "ben",
-            "country": "bd",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "w8Bp8ozrn2e1YZ",
-            "name": "Desh TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/GDFL6UQ2WbQ"
-            ],
-            "language": "ben",
-            "country": "bd",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "wPKzw9xyYinfk2",
-            "name": "DBC NEWS",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/A7wWbGru15I"
-            ],
-            "language": "ben",
-            "country": "bd",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "FjKVg1Xdb8CtFR",
-            "name": "Channel 24",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/hm0sDNIunYU"
-            ],
-            "language": "ben",
-            "country": "bd",
-            "isGeoBlocked": false
-        }
-    ],
     "general": [
-        {
-            "nanoid": "VNY3CPiX9tfekV",
-            "name": "NTV Live ",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/ufv2PEytQaA"
-            ],
-            "language": "ben",
-            "country": "bd",
-            "isGeoBlocked": false
-        },
         {
             "nanoid": "7AOHjcyPOlQEZK",
             "name": "Boishakhi TV",
@@ -111,19 +21,6 @@
             ],
             "youtube_urls": [
                 "https://www.youtube-nocookie.com/embed/ZxlDeIPUxPA"
-            ],
-            "language": "ben",
-            "country": "bd",
-            "isGeoBlocked": false
-        }
-    ],
-    "business": [
-        {
-            "nanoid": "rMsmNDEeM1gRlB",
-            "name": "Ekhon TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/0-sJAZCFlVI"
             ],
             "language": "ben",
             "country": "bd",

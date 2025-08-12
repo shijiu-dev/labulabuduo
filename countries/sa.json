@@ -1,61 +1,4 @@
 {
-    "religious": [
-        {
-            "nanoid": "dvi5BngvMWtVuo",
-            "name": "Iqraa Quran",
-            "iptv_urls": [
-                "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "sa",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "yleIKDrRKbucGA",
-            "name": "Makkah TV",
-            "iptv_urls": [
-                "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "sa",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "2uHauqHEVPuPaH",
-            "name": "Iqraa Arabic",
-            "iptv_urls": [
-                "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "sa",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "gUNShL4GZ5DwVP",
-            "name": "Al Quran Al Kareem TV",
-            "iptv_urls": [
-                "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "sa",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "TsXIocQtovCVbO",
-            "name": "Al Sunnah Al Nabawiyah TV",
-            "iptv_urls": [
-                "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "sa",
-            "isGeoBlocked": false
-        }
-    ],
     "sports": [
         {
             "nanoid": "d6OP0CI7zhXzkx",
@@ -73,6 +16,20 @@
             "name": "SSC Action Waleed",
             "iptv_urls": [
                 "https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "sa",
+            "isGeoBlocked": false
+        }
+    ],
+    "kids": [
+        {
+            "nanoid": "QHuUkTJnPtT3bd",
+            "name": "Atfal & Mawaheb TV",
+            "iptv_urls": [
+                "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+                "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -170,6 +127,63 @@
             "isGeoBlocked": false
         }
     ],
+    "religious": [
+        {
+            "nanoid": "yleIKDrRKbucGA",
+            "name": "Makkah TV",
+            "iptv_urls": [
+                "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "sa",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "2uHauqHEVPuPaH",
+            "name": "Iqraa Arabic",
+            "iptv_urls": [
+                "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "sa",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "gUNShL4GZ5DwVP",
+            "name": "Al Quran Al Kareem TV",
+            "iptv_urls": [
+                "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "sa",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "TsXIocQtovCVbO",
+            "name": "Al Sunnah Al Nabawiyah TV",
+            "iptv_urls": [
+                "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "sa",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "dvi5BngvMWtVuo",
+            "name": "Iqraa Quran",
+            "iptv_urls": [
+                "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "sa",
+            "isGeoBlocked": false
+        }
+    ],
     "movies": [
         {
             "nanoid": "wfIlZ3MEmLaus1",
@@ -189,17 +203,6 @@
                 "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8"
             ],
             "youtube_urls": [],
-            "language": "ara",
-            "country": "sa",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "wnXEnrj6C2tzO6",
-            "name": "\u0623\u0641\u0644\u0627\u0645 \u062a\u0631\u0643\u064a\u0629 \u0645\u062f\u0628\u0644\u062c\u0629 \u0644\u0644\u0639\u0631\u0628\u064a\u0629 - Turkish Movies",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/fPt_-P9eeg4"
-            ],
             "language": "ara",
             "country": "sa",
             "isGeoBlocked": false
@@ -268,17 +271,6 @@
     ],
     "news": [
         {
-            "nanoid": "gc9Dx83f1hgp7k",
-            "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0625\u0641 \u0625\u0645 Alarabiya FM",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/KbWnawU1Gps"
-            ],
-            "language": "ara",
-            "country": "sa",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "O8knzVaQwPKnWC",
             "name": "Al Arabiya Al Hadath",
             "iptv_urls": [
@@ -298,17 +290,6 @@
             ],
             "youtube_urls": [
                 "https://www.youtube-nocookie.com/embed/jDChXanY4oQ"
-            ],
-            "language": "ara",
-            "country": "sa",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "WPJ93ZbRq4zkq7",
-            "name": "AlHadath: \u0627\u0644\u062d\u062f\u062b",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/zq6ohxTDNZY"
             ],
             "language": "ara",
             "country": "sa",
@@ -346,19 +327,6 @@
                 "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8"
             ],
             "youtube_urls": [],
-            "language": "ara",
-            "country": "sa",
-            "isGeoBlocked": false
-        }
-    ],
-    "series": [
-        {
-            "nanoid": "o7sYxVV5UOCp3h",
-            "name": "Hala Bel3eyal: Shabab Al-Bomb",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/CEQ1-hp4HZM"
-            ],
             "language": "ara",
             "country": "sa",
             "isGeoBlocked": false
@@ -409,34 +377,6 @@
                 "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8"
             ],
             "youtube_urls": [],
-            "language": "ara",
-            "country": "sa",
-            "isGeoBlocked": false
-        }
-    ],
-    "kids": [
-        {
-            "nanoid": "QHuUkTJnPtT3bd",
-            "name": "Atfal & Mawaheb TV",
-            "iptv_urls": [
-                "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
-                "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "sa",
-            "isGeoBlocked": false
-        }
-    ],
-    "animation": [
-        {
-            "nanoid": "Ys1fR7qaVevN2A",
-            "name": "Gumball",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/OjPwj_brqrI",
-                "https://www.youtube-nocookie.com/embed/lZHJjMfp2qU"
-            ],
             "language": "ara",
             "country": "sa",
             "isGeoBlocked": false

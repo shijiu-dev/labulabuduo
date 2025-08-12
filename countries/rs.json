@@ -45,10 +45,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "tGRgOGa9BjpssA",
-            "name": "Narodna TV",
+            "nanoid": "kAfzAJz5Zd66PY",
+            "name": "Muzzik Rock&Roll",
             "iptv_urls": [
-                "https://edge8.pink.rs/narodnatv/index.m3u8"
+                "https://muzzik-live.morescreens.com/mts-1/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "srp",
@@ -56,10 +56,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "kAfzAJz5Zd66PY",
-            "name": "Muzzik Rock&Roll",
+            "nanoid": "tGRgOGa9BjpssA",
+            "name": "Narodna TV",
             "iptv_urls": [
-                "https://muzzik-live.morescreens.com/mts-1/playlist.m3u8"
+                "https://edge8.pink.rs/narodnatv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "srp",
@@ -91,17 +91,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "a52KX3iei4S4BU",
-            "name": "Radio Lola",
-            "iptv_urls": [
-                "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "srp",
-            "country": "rs",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "9igTbA8qhtc7eq",
             "name": "TDI Radio TV",
             "iptv_urls": [
@@ -124,13 +113,13 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "lUMgGLQOr0MAIm",
-            "name": "Muzzik POP STAR",
+            "nanoid": "a52KX3iei4S4BU",
+            "name": "Radio Lola",
             "iptv_urls": [
-                "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8"
+                "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8"
             ],
             "youtube_urls": [],
-            "language": "eng",
+            "language": "srp",
             "country": "rs",
             "isGeoBlocked": false
         },
@@ -197,6 +186,17 @@
             ],
             "youtube_urls": [],
             "language": "srp",
+            "country": "rs",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "lUMgGLQOr0MAIm",
+            "name": "Muzzik POP STAR",
+            "iptv_urls": [
+                "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
             "country": "rs",
             "isGeoBlocked": false
         },

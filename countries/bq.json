@@ -1,17 +1,4 @@
 {
-    "culture": [
-        {
-            "nanoid": "bYTvtLA2rlhnbu",
-            "name": "Bonaire.tv",
-            "iptv_urls": [
-                "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nld",
-            "country": "bq",
-            "isGeoBlocked": false
-        }
-    ],
     "music": [
         {
             "nanoid": "ww7twEESZxWUIN",
@@ -34,6 +21,19 @@
             ],
             "youtube_urls": [],
             "language": "pap",
+            "country": "bq",
+            "isGeoBlocked": false
+        }
+    ],
+    "culture": [
+        {
+            "nanoid": "bYTvtLA2rlhnbu",
+            "name": "Bonaire.tv",
+            "iptv_urls": [
+                "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nld",
             "country": "bq",
             "isGeoBlocked": false
         }

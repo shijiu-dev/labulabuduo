@@ -56,6 +56,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "4lRmmKh0IB2m5u",
+            "name": "TV Campane 1",
+            "iptv_urls": [
+                "https://eu1.servers10.com:8081/8032/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ita",
+            "country": "it",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "Dvtgx9aryU0YG9",
             "name": "TeleRama",
             "iptv_urls": [
@@ -111,10 +122,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "4lRmmKh0IB2m5u",
-            "name": "TV Campane 1",
+            "nanoid": "K8AIJvIPsJ7jPi",
+            "name": "TeleMajg",
             "iptv_urls": [
-                "https://eu1.servers10.com:8081/8032/index.m3u8"
+                "https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ita",
@@ -137,17 +148,6 @@
             "name": "Tele One 16",
             "iptv_urls": [
                 "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ita",
-            "country": "it",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "K8AIJvIPsJ7jPi",
-            "name": "TeleMajg",
-            "iptv_urls": [
-                "https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ita",
@@ -586,17 +586,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "Ra97LkpWJPBaKS",
-            "name": "Reteveneta",
-            "iptv_urls": [
-                "https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ita",
-            "country": "it",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "NeqV7kytqmnOog",
             "name": "Sophia TV Italy",
             "iptv_urls": [
@@ -630,46 +619,13 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "LEHhe8FljTY3bK",
-            "name": "Rakuten TV Asian Cinema Italy",
+            "nanoid": "YfU8ScWMpQTPUo",
+            "name": "Rakuten TV Romance Movies Italy",
             "iptv_urls": [
-                "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8"
+                "https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
-            "country": "it",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "HrRqzdx9vjI9z6",
-            "name": "Radio Zeta TV",
-            "iptv_urls": [
-                "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ita",
-            "country": "it",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Ow01MUb56XjNYI",
-            "name": "Rai 1",
-            "iptv_urls": [
-                "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ita",
-            "country": "it",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "xMWUvV5hTrWsUA",
-            "name": "Rai 1 HD",
-            "iptv_urls": [
-                "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ita",
             "country": "it",
             "isGeoBlocked": false
         },
@@ -740,10 +696,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "NnyzHhJkjsfZ3n",
-            "name": "Rakuten TV Crime Series Italy",
+            "nanoid": "LEHhe8FljTY3bK",
+            "name": "Rakuten TV Asian Cinema Italy",
             "iptv_urls": [
-                "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
+                "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -751,10 +707,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "YfU8ScWMpQTPUo",
-            "name": "Rakuten TV Romance Movies Italy",
+            "nanoid": "xMWUvV5hTrWsUA",
+            "name": "Rai 1 HD",
             "iptv_urls": [
-                "https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
+                "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ita",
+            "country": "it",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "NnyzHhJkjsfZ3n",
+            "name": "Rakuten TV Crime Series Italy",
+            "iptv_urls": [
+                "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -828,10 +795,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "1saY7EvWQOxU7A",
-            "name": "Trentino TV",
+            "nanoid": "Ra97LkpWJPBaKS",
+            "name": "Reteveneta",
             "iptv_urls": [
-                "https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8"
+                "https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ita",
@@ -854,6 +821,17 @@
             "name": "Teletricolore",
             "iptv_urls": [
                 "https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ita",
+            "country": "it",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "1saY7EvWQOxU7A",
+            "name": "Trentino TV",
+            "iptv_urls": [
+                "https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ita",
@@ -942,6 +920,17 @@
             "name": "Yu-Gi-Oh! Italy",
             "iptv_urls": [
                 "https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "it",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "PFsmmkLudzg3Wx",
+            "name": "Radio Brianza TV",
+            "iptv_urls": [
+                "https://57068da1deb21.streamlock.net/radiorbs/radiorbs/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -1114,10 +1103,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "OUsOGjUiOquYxg",
-            "name": "Radio Taormina Sicilia",
+            "nanoid": "Ow01MUb56XjNYI",
+            "name": "Rai 1",
             "iptv_urls": [
-                "https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8"
+                "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ita",
@@ -1125,10 +1114,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "70aquUrXJYO7OT",
-            "name": "Radio Studio Delta TV",
+            "nanoid": "HrRqzdx9vjI9z6",
+            "name": "Radio Zeta TV",
             "iptv_urls": [
-                "https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8"
+                "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8"
             ],
             "youtube_urls": [],
             "language": "ita",
@@ -1224,17 +1213,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "PFsmmkLudzg3Wx",
-            "name": "Radio Brianza TV",
-            "iptv_urls": [
-                "https://57068da1deb21.streamlock.net/radiorbs/radiorbs/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "it",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "8scZkakWn2EWkI",
             "name": "Radio Freccia TV",
             "iptv_urls": [
@@ -1272,6 +1250,28 @@
             "name": "Radio Number One",
             "iptv_urls": [
                 "https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ita",
+            "country": "it",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "70aquUrXJYO7OT",
+            "name": "Radio Studio Delta TV",
+            "iptv_urls": [
+                "https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ita",
+            "country": "it",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "OUsOGjUiOquYxg",
+            "name": "Radio Taormina Sicilia",
+            "iptv_urls": [
+                "https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ita",
@@ -1378,28 +1378,6 @@
                 "https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8"
             ],
             "youtube_urls": [],
-            "language": "ita",
-            "country": "it",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "7TX9VjMY1i891b",
-            "name": "QSVS: Top Calcio 24",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/Nu2JGd0TJaM"
-            ],
-            "language": "ita",
-            "country": "it",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "RFeb11iCYGMUEw",
-            "name": "ItalianFishingTV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/S18k8T6tJe0"
-            ],
             "language": "ita",
             "country": "it",
             "isGeoBlocked": false
@@ -1576,17 +1554,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "IB19NO8mheWDOa",
-            "name": "QSVS: Milanow",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/agoHYEYADlM"
-            ],
-            "language": "ita",
-            "country": "it",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "MuWQIWfTHI6gY7",
             "name": "LaC News 24",
             "iptv_urls": [
@@ -1622,17 +1589,6 @@
     ],
     "religious": [
         {
-            "nanoid": "3gcHSvUcu5lNpv",
-            "name": "Telepace Trento",
-            "iptv_urls": [
-                "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ita",
-            "country": "it",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "Dl9U0IgvARdklB",
             "name": "TeleSanDomenico",
             "iptv_urls": [
@@ -1644,10 +1600,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "flIQS0UDvNr4lw",
-            "name": "Telepace 4",
+            "nanoid": "3gcHSvUcu5lNpv",
+            "name": "Telepace Trento",
             "iptv_urls": [
-                "https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8"
+                "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ita",
@@ -1681,6 +1637,17 @@
             "name": "Telepace 3",
             "iptv_urls": [
                 "https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ita",
+            "country": "it",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "flIQS0UDvNr4lw",
+            "name": "Telepace 4",
+            "iptv_urls": [
+                "https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ita",
@@ -1892,19 +1859,6 @@
             "isGeoBlocked": false
         }
     ],
-    "outdoor": [
-        {
-            "nanoid": "R8E994mqmmDshs",
-            "name": "Italian Fishing TV",
-            "iptv_urls": [
-                "https://fms.premio.link/fishingtv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ita",
-            "country": "it",
-            "isGeoBlocked": false
-        }
-    ],
     "education": [
         {
             "nanoid": "HQpbprNXlsncEg",
@@ -1953,6 +1907,19 @@
             ],
             "youtube_urls": [],
             "language": "deu",
+            "country": "it",
+            "isGeoBlocked": false
+        }
+    ],
+    "outdoor": [
+        {
+            "nanoid": "R8E994mqmmDshs",
+            "name": "Italian Fishing TV",
+            "iptv_urls": [
+                "https://fms.premio.link/fishingtv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ita",
             "country": "it",
             "isGeoBlocked": false
         }

@@ -47,19 +47,6 @@
             "isGeoBlocked": false
         }
     ],
-    "news": [
-        {
-            "nanoid": "MCEE1okRjYPAEv",
-            "name": "Baku TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/9ADRcu32LO0"
-            ],
-            "language": "aze",
-            "country": "az",
-            "isGeoBlocked": false
-        }
-    ],
     "culture": [
         {
             "nanoid": "ie6Cl28U3aDpAI",

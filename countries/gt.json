@@ -45,32 +45,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "UNee5z01Xc67gg",
-            "name": "A+ Guate",
+            "nanoid": "tkEITU2bEZ7qMi",
+            "name": "Canal 13 Esquipulas",
             "iptv_urls": [
-                "https://ch2-tva.duin.dev/hls/stream.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "NMdDWbGZ95HQVb",
-            "name": "Azteca Guate",
-            "iptv_urls": [
-                "https://ch1-tva.duin.dev/hls/stream.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "N4gLQ8UnMpP3sJ",
-            "name": "Canal 6 Panadish",
-            "iptv_urls": [
-                "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8"
+                "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -89,10 +67,32 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "tkEITU2bEZ7qMi",
-            "name": "Canal 13 Esquipulas",
+            "nanoid": "N4gLQ8UnMpP3sJ",
+            "name": "Canal 6 Panadish",
             "iptv_urls": [
-                "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8"
+                "https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "NMdDWbGZ95HQVb",
+            "name": "Azteca Guate",
+            "iptv_urls": [
+                "https://ch1-tva.duin.dev/hls/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "UNee5z01Xc67gg",
+            "name": "A+ Guate",
+            "iptv_urls": [
+                "https://ch2-tva.duin.dev/hls/stream.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -137,17 +137,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "2LfjTVfmckF8U9",
-            "name": "Rhema TV",
-            "iptv_urls": [
-                "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "gt",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "c3BqnYa8hxJ1bn",
             "name": "Peniel TV Biblia Abierta",
             "iptv_urls": [
@@ -159,10 +148,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "tp4aSE2XbjzMxZ",
-            "name": "Amigos TV Chiquimula",
+            "nanoid": "2LfjTVfmckF8U9",
+            "name": "Rhema TV",
             "iptv_urls": [
-                "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8"
+                "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "gt",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "unnPmpnUmUCfi4",
+            "name": "Esp\u00edritu Santo Y Fuego TV",
+            "iptv_urls": [
+                "https://inliveserver.com:1936/8392/8392/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -181,10 +181,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "unnPmpnUmUCfi4",
-            "name": "Esp\u00edritu Santo Y Fuego TV",
+            "nanoid": "tp4aSE2XbjzMxZ",
+            "name": "Amigos TV Chiquimula",
             "iptv_urls": [
-                "https://inliveserver.com:1936/8392/8392/playlist.m3u8"
+                "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -242,12 +242,12 @@
             "isGeoBlocked": false
         }
     ],
-    "movies": [
+    "entertainment": [
         {
-            "nanoid": "qS9h25t8tf42wr",
-            "name": "Aurora Media Films",
+            "nanoid": "yE5nUo5bAO8SwG",
+            "name": "Maxivisi\u00f3n TV",
             "iptv_urls": [
-                "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
+                "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -255,12 +255,12 @@
             "isGeoBlocked": false
         }
     ],
-    "entertainment": [
+    "movies": [
         {
-            "nanoid": "yE5nUo5bAO8SwG",
-            "name": "Maxivisi\u00f3n TV",
+            "nanoid": "qS9h25t8tf42wr",
+            "name": "Aurora Media Films",
             "iptv_urls": [
-                "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8"
+                "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",

@@ -1,12 +1,12 @@
 {
     "news": [
         {
-            "nanoid": "gy35vPrdR2k7jM",
-            "name": "Euronews Albania",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/DP9NqwoYSgM"
+            "nanoid": "pGI92O7SX6ZwCX",
+            "name": "CNA",
+            "iptv_urls": [
+                "https://live1.mediadesk.al/cnatvlive.m3u8"
             ],
+            "youtube_urls": [],
             "language": "sqi",
             "country": "al",
             "isGeoBlocked": false
@@ -16,6 +16,17 @@
             "name": "Syri",
             "iptv_urls": [
                 "https://stream.syritv.al/SyriTV/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "sqi",
+            "country": "al",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "f5oJIKRS4ieTB5",
+            "name": "Report TV",
+            "iptv_urls": [
+                "https://deb10stream.duckdns.org/hls/stream.m3u8"
             ],
             "youtube_urls": [],
             "language": "sqi",
@@ -38,28 +49,6 @@
             "name": "News 24",
             "iptv_urls": [
                 "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "sqi",
-            "country": "al",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "f5oJIKRS4ieTB5",
-            "name": "Report TV",
-            "iptv_urls": [
-                "https://deb10stream.duckdns.org/hls/stream.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "sqi",
-            "country": "al",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "pGI92O7SX6ZwCX",
-            "name": "CNA",
-            "iptv_urls": [
-                "https://live1.mediadesk.al/cnatvlive.m3u8"
             ],
             "youtube_urls": [],
             "language": "sqi",

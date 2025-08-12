@@ -1,10 +1,10 @@
 {
-    "culture": [
+    "other": [
         {
-            "nanoid": "RiifWdXjWLsqP4",
-            "name": "ORF III HD",
+            "nanoid": "5xY9cw7ypbOud1",
+            "name": "R9",
             "iptv_urls": [
-                "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
+                "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -12,12 +12,91 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "xO850u0sWlzEEk",
-            "name": "Salzburg AG",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/QBuxT1vaSvg"
+            "nanoid": "YQPekJKCEusA1c",
+            "name": "Tirol TV",
+            "iptv_urls": [
+                "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8"
             ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "at",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "tkuZRX9Vv5gpW6",
+            "name": "TV 1 Ober\u00f6sterreich",
+            "iptv_urls": [
+                "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "at",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "poBLTECPZ1p4X6",
+            "name": "W24",
+            "iptv_urls": [
+                "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "at",
+            "isGeoBlocked": false
+        }
+    ],
+    "general": [
+        {
+            "nanoid": "JLuJmYb9qBaDM3",
+            "name": "L\u00e4ndle TV",
+            "iptv_urls": [
+                "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "at",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "FprwnAkCKvi17W",
+            "name": "Steiermark TV",
+            "iptv_urls": [
+                "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "at",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "dHIKj0PT3rIpW8",
+            "name": "Stimmungsgarten TV",
+            "iptv_urls": [
+                "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "at",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "TIO4oK5UynDpK7",
+            "name": "FS1 Salzburg",
+            "iptv_urls": [
+                "https://stream.fs1.tv/hls/webstream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "at",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "TPLMQv1khtn1Qo",
+            "name": "Okto TV",
+            "iptv_urls": [
+                "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8"
+            ],
+            "youtube_urls": [],
             "language": "deu",
             "country": "at",
             "isGeoBlocked": false
@@ -47,74 +126,6 @@
             "language": "deu",
             "country": "at",
             "isGeoBlocked": true
-        }
-    ],
-    "general": [
-        {
-            "nanoid": "FprwnAkCKvi17W",
-            "name": "Steiermark TV",
-            "iptv_urls": [
-                "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "at",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "dHIKj0PT3rIpW8",
-            "name": "Stimmungsgarten TV",
-            "iptv_urls": [
-                "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "at",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "TPLMQv1khtn1Qo",
-            "name": "Okto TV",
-            "iptv_urls": [
-                "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "at",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "TIO4oK5UynDpK7",
-            "name": "FS1 Salzburg",
-            "iptv_urls": [
-                "https://stream.fs1.tv/hls/webstream.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "at",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "KfXvvS2DuTflFJ",
-            "name": "Gemeinde TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/5PQflZZWokI"
-            ],
-            "language": "deu",
-            "country": "at",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "JLuJmYb9qBaDM3",
-            "name": "L\u00e4ndle TV",
-            "iptv_urls": [
-                "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "at",
-            "isGeoBlocked": false
         }
     ],
     "outdoor": [
@@ -152,95 +163,23 @@
             "isGeoBlocked": false
         }
     ],
-    "other": [
-        {
-            "nanoid": "YQPekJKCEusA1c",
-            "name": "Tirol TV",
-            "iptv_urls": [
-                "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "at",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "tkuZRX9Vv5gpW6",
-            "name": "TV 1 Ober\u00f6sterreich",
-            "iptv_urls": [
-                "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "at",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "poBLTECPZ1p4X6",
-            "name": "W24",
-            "iptv_urls": [
-                "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "at",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "5xY9cw7ypbOud1",
-            "name": "R9",
-            "iptv_urls": [
-                "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "at",
-            "isGeoBlocked": false
-        }
-    ],
-    "weather": [
-        {
-            "nanoid": "EHhc90wawtgTuv",
-            "name": "Wetter-Panorama",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/NIuO6hrFTrg"
-            ],
-            "language": "deu",
-            "country": "at",
-            "isGeoBlocked": false
-        }
-    ],
-    "news": [
-        {
-            "nanoid": "1VnHK2mZ0MLj12",
-            "name": "oe24 TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/uywqlIcPzi0"
-            ],
-            "language": "deu",
-            "country": "at",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "CKfg0b9vG2JaE5",
-            "name": "Kronen Zeitung",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/InpduzWL218"
-            ],
-            "language": "deu",
-            "country": "at",
-            "isGeoBlocked": false
-        }
-    ],
     "music": [
         {
             "nanoid": "TQZrrVdCDAg8if",
             "name": "Antenne Steiermark",
             "iptv_urls": [
                 "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
+            "country": "at",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "hWjMAZLy3MK2aA",
+            "name": "Antenne Kaernten",
+            "iptv_urls": [
+                "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -268,12 +207,14 @@
             "language": "deu",
             "country": "at",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "culture": [
         {
-            "nanoid": "hWjMAZLy3MK2aA",
-            "name": "Antenne Kaernten",
+            "nanoid": "RiifWdXjWLsqP4",
+            "name": "ORF III HD",
             "iptv_urls": [
-                "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8"
+                "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -320,10 +261,10 @@
     ],
     "religious": [
         {
-            "nanoid": "5tTy78tgvm7wa1",
-            "name": "KIT-TV",
+            "nanoid": "d2Um5HC82pjJ2o",
+            "name": "K-TV",
             "iptv_urls": [
-                "https://everest.pa-hosting.de:3591/live/joseflive.m3u8"
+                "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",
@@ -331,10 +272,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "d2Um5HC82pjJ2o",
-            "name": "K-TV",
+            "nanoid": "5tTy78tgvm7wa1",
+            "name": "KIT-TV",
             "iptv_urls": [
-                "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8"
+                "https://everest.pa-hosting.de:3591/live/joseflive.m3u8"
             ],
             "youtube_urls": [],
             "language": "deu",

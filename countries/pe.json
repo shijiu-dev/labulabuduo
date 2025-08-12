@@ -1,120 +1,32 @@
 {
     "general": [
         {
-            "nanoid": "mi7Zl9xYkTcqpw",
-            "name": "Nativa TV Satipo",
-            "iptv_urls": [
-                "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "waRvUxbKqXuJg8",
-            "name": "Nativa",
-            "iptv_urls": [
-                "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "JEOHsH5ZsjmOK3",
-            "name": "Milenial TV",
-            "iptv_urls": [
-                "https://www.milenial.news/salida/milenial.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "qm7kjjw4XjKxtz",
-            "name": "Mega TV Jaen",
-            "iptv_urls": [
-                "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "VkrANeBrcfbirZ",
-            "name": "JN19 TV2",
-            "iptv_urls": [
-                "https://servilive.com:3224/live/jn19tv2live.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "8VadQ9bvVXyzrj",
-            "name": "Intuitiva TV",
-            "iptv_urls": [
-                "https://video2.lhdserver.es/cableperu/live.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Fsgk4BMYBURY2b",
-            "name": "DMJ Cuzco",
-            "iptv_urls": [
-                "https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "nGBdTroCUbAU0I",
-            "name": "CR Televisi\u00f3n Moyobamba",
-            "iptv_urls": [
-                "https://live.obslivestream.com/crtvmux/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "1Tx6FQUGbACDss",
-            "name": "Canal 8 Catacaos",
-            "iptv_urls": [
-                "https://live.obslivestream.com/canal8/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "2OfelL9lkYifhd",
-            "name": "Aut\u00e9ntica Televisi\u00f3n",
-            "iptv_urls": [
-                "https://live.obslivestream.com/autenticatvmux/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "YDwOxMvP9iQiw6",
             "name": "Televisi\u00f3n Tarapoto",
             "iptv_urls": [
                 "https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "FMvg6xgrss4nnA",
+            "name": "Telecolor Yurimaguas",
+            "iptv_urls": [
+                "https://live.obslivestream.com/telecolormux/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "3Wu9MC7OO3N4Ss",
+            "name": "RadioTV Oriente",
+            "iptv_urls": [
+                "https://live.obslivestream.com/tvoriente/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -188,17 +100,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "EXY3gFnP4pv3FX",
-            "name": "ONDA DIGITAL",
-            "iptv_urls": [
-                "https://tv.ondadigital.pe/ondadigital/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "EfKZO2yd4jlLmt",
             "name": "Unitel",
             "iptv_urls": [
@@ -243,17 +144,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "FMvg6xgrss4nnA",
-            "name": "Telecolor Yurimaguas",
-            "iptv_urls": [
-                "https://live.obslivestream.com/telecolormux/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "1HAo4CqmpS0XAl",
             "name": "Primavera 15",
             "iptv_urls": [
@@ -265,34 +155,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "3Wu9MC7OO3N4Ss",
-            "name": "RadioTV Oriente",
+            "nanoid": "2OfelL9lkYifhd",
+            "name": "Aut\u00e9ntica Televisi\u00f3n",
             "iptv_urls": [
-                "https://live.obslivestream.com/tvoriente/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        }
-    ],
-    "other": [
-        {
-            "nanoid": "UDdMtzxSFo4KG2",
-            "name": "MO Channel",
-            "iptv_urls": [
-                "https://cloudvideo.servers10.com:8081/8070/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "A2gBMXMFkuz7d5",
-            "name": "Hechicera TV",
-            "iptv_urls": [
-                "https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8"
+                "https://live.obslivestream.com/autenticatvmux/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -300,10 +166,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "mlTXxUmbTG3Ish",
-            "name": "Controversia TV",
+            "nanoid": "1Tx6FQUGbACDss",
+            "name": "Canal 8 Catacaos",
             "iptv_urls": [
-                "https://live.obslivestream.com/controversiatv/index.m3u8"
+                "https://live.obslivestream.com/canal8/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -311,10 +177,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "fk1iDtmlMQq6pc",
-            "name": "Uranio TV (Yurimaguas)",
+            "nanoid": "nGBdTroCUbAU0I",
+            "name": "CR Televisi\u00f3n Moyobamba",
             "iptv_urls": [
-                "https://live.obslivestream.com/uraniotv/index.m3u8"
+                "https://live.obslivestream.com/crtvmux/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -322,10 +188,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "dpLqGa5wjsNEE1",
-            "name": "Viva TV Yurimaguas",
+            "nanoid": "Fsgk4BMYBURY2b",
+            "name": "DMJ Cuzco",
             "iptv_urls": [
-                "https://live.obslivestream.com/vivatv/index.m3u8"
+                "https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -333,10 +199,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "CKbID5fKpWK9Vb",
-            "name": "Nova TV Star",
+            "nanoid": "8VadQ9bvVXyzrj",
+            "name": "Intuitiva TV",
             "iptv_urls": [
-                "https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8"
+                "https://video2.lhdserver.es/cableperu/live.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -344,10 +210,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "wmJ1QxQIvPF4LM",
-            "name": "Teleselva",
+            "nanoid": "VkrANeBrcfbirZ",
+            "name": "JN19 TV2",
             "iptv_urls": [
-                "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
+                "https://servilive.com:3224/live/jn19tv2live.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -355,10 +221,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "aUVDpCvkJua6sj",
-            "name": "Planeta TV",
+            "nanoid": "EXY3gFnP4pv3FX",
+            "name": "ONDA DIGITAL",
             "iptv_urls": [
-                "https://live.obslivestream.com/planetatv/index.m3u8"
+                "https://tv.ondadigital.pe/ondadigital/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -366,10 +232,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "VYNnHDg4nJ92o6",
-            "name": "Regi\u00f3n TV Callao",
+            "nanoid": "mi7Zl9xYkTcqpw",
+            "name": "Nativa TV Satipo",
             "iptv_urls": [
-                "https://servilive.com:3757/live/regiontvlive.m3u8"
+                "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -377,10 +243,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "WPq32gb81NkkvQ",
-            "name": "RN Televisi\u00f3n",
+            "nanoid": "waRvUxbKqXuJg8",
+            "name": "Nativa",
             "iptv_urls": [
-                "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8"
+                "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -388,10 +254,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "wbr6x2NZ3c23qF",
-            "name": "Se\u00f1al Per\u00fa TV",
+            "nanoid": "JEOHsH5ZsjmOK3",
+            "name": "Milenial TV",
             "iptv_urls": [
-                "https://livestream.perucast.com/hls/stream.m3u8"
+                "https://www.milenial.news/salida/milenial.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -399,21 +265,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "NWQzBG1ASDZW7k",
-            "name": "Sol Televisi\u00f3n",
+            "nanoid": "qm7kjjw4XjKxtz",
+            "name": "Mega TV Jaen",
             "iptv_urls": [
-                "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "q9OTYMujxRUTTC",
-            "name": "Super Canal Yurimaguas",
-            "iptv_urls": [
-                "https://live.obslivestream.com/supercanal/index.m3u8"
+                "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -423,10 +278,10 @@
     ],
     "music": [
         {
-            "nanoid": "AxLy0nB5LvmZiY",
-            "name": "Millenium 109 FM",
+            "nanoid": "xJQ4xI32AUWaCF",
+            "name": "Radio Onda Digital",
             "iptv_urls": [
-                "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8"
+                "https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -434,10 +289,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "ZgK3gN33Rh7QOj",
-            "name": "Miel TV",
+            "nanoid": "lr7Tnc3F5aVgf1",
+            "name": "Radio TV Tendencias",
             "iptv_urls": [
-                "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
+                "https://s1.tvdatta.com:3950/multi_web/play.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -445,10 +300,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "YZWpBn5BgYiilY",
-            "name": "Angienet TV",
+            "nanoid": "vy9HTzZfX7NGXL",
+            "name": "Radio Tropical Tarapoto",
             "iptv_urls": [
-                "https://servilive.com:3624/stream/play.m3u8"
+                "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -489,10 +344,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "xJQ4xI32AUWaCF",
-            "name": "Radio Onda Digital",
+            "nanoid": "YZWpBn5BgYiilY",
+            "name": "Angienet TV",
             "iptv_urls": [
-                "https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8"
+                "https://servilive.com:3624/stream/play.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -500,10 +355,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "vy9HTzZfX7NGXL",
-            "name": "Radio Tropical Tarapoto",
+            "nanoid": "AxLy0nB5LvmZiY",
+            "name": "Millenium 109 FM",
             "iptv_urls": [
-                "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
+                "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -511,10 +366,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "lr7Tnc3F5aVgf1",
-            "name": "Radio TV Tendencias",
+            "nanoid": "ZgK3gN33Rh7QOj",
+            "name": "Miel TV",
             "iptv_urls": [
-                "https://s1.tvdatta.com:3950/multi_web/play.m3u8"
+                "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -522,12 +377,12 @@
             "isGeoBlocked": false
         }
     ],
-    "legislative": [
+    "other": [
         {
-            "nanoid": "30L1cQUKCYPXjg",
-            "name": "JNE TV",
+            "nanoid": "wmJ1QxQIvPF4LM",
+            "name": "Teleselva",
             "iptv_urls": [
-                "https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8"
+                "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -535,23 +390,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "WscC7Swxpk8hjp",
-            "name": "Congreso del Per\u00fa en Vivo",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/jrPou3N8fNA"
-            ],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        }
-    ],
-    "religious": [
-        {
-            "nanoid": "lM6iZ019g4zRqa",
-            "name": "JN19",
+            "nanoid": "q9OTYMujxRUTTC",
+            "name": "Super Canal Yurimaguas",
             "iptv_urls": [
-                "https://servilive.com:3028/live/jntv19live.m3u8"
+                "https://live.obslivestream.com/supercanal/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -559,10 +401,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "SKenE1GgpUv74S",
-            "name": "Bethel TV",
+            "nanoid": "NWQzBG1ASDZW7k",
+            "name": "Sol Televisi\u00f3n",
             "iptv_urls": [
-                "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8"
+                "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -570,23 +412,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "CXQzBhDcjLd9xW",
-            "name": "Unife TV",
+            "nanoid": "wbr6x2NZ3c23qF",
+            "name": "Se\u00f1al Per\u00fa TV",
             "iptv_urls": [
-                "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        }
-    ],
-    "entertainment": [
-        {
-            "nanoid": "8STBORDBYmEtNC",
-            "name": "Impacto Televisi\u00f3n",
-            "iptv_urls": [
-                "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
+                "https://livestream.perucast.com/hls/stream.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -594,10 +423,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "NiV08xfOfwMHaS",
-            "name": "Antares Televisi\u00f3n",
+            "nanoid": "WPq32gb81NkkvQ",
+            "name": "RN Televisi\u00f3n",
             "iptv_urls": [
-                "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
+                "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -605,45 +434,100 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "kNsWM7D3MJH7TB",
-            "name": "Panc TV Peru",
+            "nanoid": "VYNnHDg4nJ92o6",
+            "name": "Regi\u00f3n TV Callao",
             "iptv_urls": [
-                "https://panel.host-live.com:19360/20000/20000.m3u8"
+                "https://servilive.com:3757/live/regiontvlive.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "fk1iDtmlMQq6pc",
+            "name": "Uranio TV (Yurimaguas)",
+            "iptv_urls": [
+                "https://live.obslivestream.com/uraniotv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "dpLqGa5wjsNEE1",
+            "name": "Viva TV Yurimaguas",
+            "iptv_urls": [
+                "https://live.obslivestream.com/vivatv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "mlTXxUmbTG3Ish",
+            "name": "Controversia TV",
+            "iptv_urls": [
+                "https://live.obslivestream.com/controversiatv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "A2gBMXMFkuz7d5",
+            "name": "Hechicera TV",
+            "iptv_urls": [
+                "https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "aUVDpCvkJua6sj",
+            "name": "Planeta TV",
+            "iptv_urls": [
+                "https://live.obslivestream.com/planetatv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "CKbID5fKpWK9Vb",
+            "name": "Nova TV Star",
+            "iptv_urls": [
+                "https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "UDdMtzxSFo4KG2",
+            "name": "MO Channel",
+            "iptv_urls": [
+                "https://cloudvideo.servers10.com:8081/8070/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
             "country": "pe",
             "isGeoBlocked": false
         }
     ],
     "news": [
         {
-            "nanoid": "G0350UiME7kfbT",
-            "name": "Exitosa",
+            "nanoid": "AQVGMaAFvW9hRl",
+            "name": "RSelvaTV",
             "iptv_urls": [
-                "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "XOM9Q1cGWigMXK",
-            "name": "TVLibertad ",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/o4ChU1Jbfeo"
-            ],
-            "language": "spa",
-            "country": "pe",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "VPHGgAR7ht3MIZ",
-            "name": "TV Per\u00fa Noticias",
-            "iptv_urls": [
-                "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
+                "https://live.obslivestream.com/selvatv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -662,10 +546,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "AQVGMaAFvW9hRl",
-            "name": "RSelvaTV",
+            "nanoid": "VPHGgAR7ht3MIZ",
+            "name": "TV Per\u00fa Noticias",
             "iptv_urls": [
-                "https://live.obslivestream.com/selvatv/index.m3u8"
+                "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "G0350UiME7kfbT",
+            "name": "Exitosa",
+            "iptv_urls": [
+                "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -673,12 +568,69 @@
             "isGeoBlocked": false
         }
     ],
-    "family": [
+    "religious": [
         {
-            "nanoid": "1unaTRLy4vlmeI",
-            "name": "Canal IPe",
+            "nanoid": "CXQzBhDcjLd9xW",
+            "name": "Unife TV",
             "iptv_urls": [
-                "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8"
+                "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "SKenE1GgpUv74S",
+            "name": "Bethel TV",
+            "iptv_urls": [
+                "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "lM6iZ019g4zRqa",
+            "name": "JN19",
+            "iptv_urls": [
+                "https://servilive.com:3028/live/jntv19live.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        }
+    ],
+    "entertainment": [
+        {
+            "nanoid": "NiV08xfOfwMHaS",
+            "name": "Antares Televisi\u00f3n",
+            "iptv_urls": [
+                "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "8STBORDBYmEtNC",
+            "name": "Impacto Televisi\u00f3n",
+            "iptv_urls": [
+                "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "kNsWM7D3MJH7TB",
+            "name": "Panc TV Peru",
+            "iptv_urls": [
+                "https://panel.host-live.com:19360/20000/20000.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -699,12 +651,38 @@
             "isGeoBlocked": false
         }
     ],
+    "family": [
+        {
+            "nanoid": "1unaTRLy4vlmeI",
+            "name": "Canal IPe",
+            "iptv_urls": [
+                "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        }
+    ],
     "sports": [
         {
             "nanoid": "GS1iJoWQ7ta8Q1",
             "name": "Ovaci\u00f3n TV",
             "iptv_urls": [
                 "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "pe",
+            "isGeoBlocked": false
+        }
+    ],
+    "legislative": [
+        {
+            "nanoid": "30L1cQUKCYPXjg",
+            "name": "JNE TV",
+            "iptv_urls": [
+                "https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",

@@ -1,17 +1,4 @@
 {
-    "culture": [
-        {
-            "nanoid": "MFBhdF22oHPsQx",
-            "name": "Komala TV",
-            "iptv_urls": [
-                "https://live.tvkomala.com/live/komala/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kur",
-            "country": "se",
-            "isGeoBlocked": false
-        }
-    ],
     "other": [
         {
             "nanoid": "wETjJuUNWWDAGH",
@@ -73,6 +60,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "xr1LfFDuhPVb7E",
+            "name": "Di TV",
+            "iptv_urls": [
+                "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "swe",
+            "country": "se",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "vVfgeuE3MFU5jS",
             "name": "Expressen TV",
             "iptv_urls": [
@@ -82,15 +80,17 @@
             "language": "swe",
             "country": "se",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "culture": [
         {
-            "nanoid": "xr1LfFDuhPVb7E",
-            "name": "Di TV",
+            "nanoid": "MFBhdF22oHPsQx",
+            "name": "Komala TV",
             "iptv_urls": [
-                "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8"
+                "https://live.tvkomala.com/live/komala/playlist.m3u8"
             ],
             "youtube_urls": [],
-            "language": "swe",
+            "language": "kur",
             "country": "se",
             "isGeoBlocked": false
         }

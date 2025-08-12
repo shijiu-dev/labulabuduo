@@ -1,34 +1,12 @@
 {
-    "news": [
+    "movies": [
         {
-            "nanoid": "zI3NybQoMP9Xkx",
-            "name": "Noticias Caracol",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/ZlRZZzKE4W4"
-            ],
-            "language": "spa",
-            "country": "co",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "iEaQZyuCD9tKa4",
-            "name": "Red+",
+            "nanoid": "bedjGFwz8KJzzX",
+            "name": "MCI Television",
             "iptv_urls": [
-                "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
+                "https://video.ejeserver.com/live/mcitelevision.m3u8"
             ],
             "youtube_urls": [],
-            "language": "spa",
-            "country": "co",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "e29jn80x7K7M0D",
-            "name": "CityTv",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/7061sQBO_Pk"
-            ],
             "language": "spa",
             "country": "co",
             "isGeoBlocked": false
@@ -80,18 +58,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "WwkDGrZMJxcaPL",
-            "name": "Canal 8 TV+",
-            "iptv_urls": [
-                "https://movil.ejeserver.com/live/canal8tv.m3u8",
-                "https://video.ejeserver.com/live/canal8tv.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "co",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "6joqepA8rOPlES",
             "name": "Bum Televisi\u00f3n",
             "iptv_urls": [
@@ -108,6 +74,18 @@
             "name": "Canal 2 Alpavisi\u00f3n Neiva",
             "iptv_urls": [
                 "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "co",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "WwkDGrZMJxcaPL",
+            "name": "Canal 8 TV+",
+            "iptv_urls": [
+                "https://movil.ejeserver.com/live/canal8tv.m3u8",
+                "https://video.ejeserver.com/live/canal8tv.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -185,6 +163,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "xEQPATgrEtFIdJ",
+            "name": "Cosmovision",
+            "iptv_urls": [
+                "https://videohls2.cosmovision.tv/hls/sd.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "co",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "z6j8GoKR6XeFrc",
             "name": "Cali TV",
             "iptv_urls": [
@@ -201,17 +190,6 @@
             "iptv_urls": [
                 "https://movil.ejeserver.com/live/nets.m3u8",
                 "https://video.ejeserver.com/live/nets.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "co",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "xEQPATgrEtFIdJ",
-            "name": "Cosmovision",
-            "iptv_urls": [
-                "https://videohls2.cosmovision.tv/hls/sd.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -288,12 +266,12 @@
             "isGeoBlocked": false
         }
     ],
-    "movies": [
+    "news": [
         {
-            "nanoid": "bedjGFwz8KJzzX",
-            "name": "MCI Television",
+            "nanoid": "iEaQZyuCD9tKa4",
+            "name": "Red+",
             "iptv_urls": [
-                "https://video.ejeserver.com/live/mcitelevision.m3u8"
+                "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -355,17 +333,6 @@
                 "https://eu1.servers10.com:8081/8056/index.m3u8"
             ],
             "youtube_urls": [],
-            "language": "spa",
-            "country": "co",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "y6DIrrNamySBRa",
-            "name": "Caracol Televisi\u00f3n",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/NH5TjCJ1vsE"
-            ],
             "language": "spa",
             "country": "co",
             "isGeoBlocked": false

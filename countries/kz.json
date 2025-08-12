@@ -1,17 +1,6 @@
 {
     "general": [
         {
-            "nanoid": "u6Kfd6P0YKGpB4",
-            "name": "Qazaqstan International",
-            "iptv_urls": [
-                "https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "kz",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "APCyUHitJGQfWl",
             "name": "\u041c\u0422\u0420\u041a",
             "iptv_urls": [
@@ -38,6 +27,28 @@
             "name": "Seme\u0131",
             "iptv_urls": [
                 "https://stream.kaztrk.kz/regional/semeytv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kaz",
+            "country": "kz",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "u6Kfd6P0YKGpB4",
+            "name": "Qazaqstan International",
+            "iptv_urls": [
+                "https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "kz",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "aqLKQuTpAPT4ID",
+            "name": "Jambyl",
+            "iptv_urls": [
+                "https://stream.kaztrk.kz/regional/taraztv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "kaz",
@@ -104,41 +115,6 @@
             "name": "Ertis",
             "iptv_urls": [
                 "https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kaz",
-            "country": "kz",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "aqLKQuTpAPT4ID",
-            "name": "Jambyl",
-            "iptv_urls": [
-                "https://stream.kaztrk.kz/regional/taraztv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kaz",
-            "country": "kz",
-            "isGeoBlocked": false
-        }
-    ],
-    "news": [
-        {
-            "nanoid": "if2kwrLRFc4oRC",
-            "name": "\u0422\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b 24kz",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/KetN4zYDbs0"
-            ],
-            "language": "rus",
-            "country": "kz",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "JN8uOWZZnBWa2O",
-            "name": "24KZ",
-            "iptv_urls": [
-                "https://tvcdn01.oktv.kz/tv/24kz/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "kaz",
@@ -227,6 +203,32 @@
             "isGeoBlocked": false
         }
     ],
+    "music": [
+        {
+            "nanoid": "WoQEf6zQAxKfCA",
+            "name": "MuzzOne",
+            "iptv_urls": [
+                "https://hls.live.31kz.adapto.kz/muzzone/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kaz",
+            "country": "kz",
+            "isGeoBlocked": false
+        }
+    ],
+    "news": [
+        {
+            "nanoid": "JN8uOWZZnBWa2O",
+            "name": "24KZ",
+            "iptv_urls": [
+                "https://tvcdn01.oktv.kz/tv/24kz/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kaz",
+            "country": "kz",
+            "isGeoBlocked": false
+        }
+    ],
     "culture": [
         {
             "nanoid": "SUz6ZlewrjG9Ml",
@@ -246,19 +248,6 @@
             "name": "Balapan TV",
             "iptv_urls": [
                 "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kaz",
-            "country": "kz",
-            "isGeoBlocked": false
-        }
-    ],
-    "music": [
-        {
-            "nanoid": "WoQEf6zQAxKfCA",
-            "name": "MuzzOne",
-            "iptv_urls": [
-                "https://hls.live.31kz.adapto.kz/muzzone/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "kaz",

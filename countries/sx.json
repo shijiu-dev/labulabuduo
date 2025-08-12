@@ -1,13 +1,13 @@
 {
-    "religious": [
+    "music": [
         {
-            "nanoid": "2rNqvS3cyFL1gx",
-            "name": "TVCARiB Gospel",
+            "nanoid": "aN8uGsIctN5GGv",
+            "name": "98.1 Pearl FM",
             "iptv_urls": [
-                "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8"
+                "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8"
             ],
             "youtube_urls": [],
-            "language": "fra",
+            "language": "eng",
             "country": "sx",
             "isGeoBlocked": false
         }
@@ -73,6 +73,19 @@
             "isGeoBlocked": false
         }
     ],
+    "religious": [
+        {
+            "nanoid": "2rNqvS3cyFL1gx",
+            "name": "TVCARiB Gospel",
+            "iptv_urls": [
+                "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fra",
+            "country": "sx",
+            "isGeoBlocked": false
+        }
+    ],
     "movies": [
         {
             "nanoid": "q642f1lR53cD10",
@@ -92,19 +105,6 @@
             "name": "SXM TV Broadcast",
             "iptv_urls": [
                 "https://5dcabf026b188.streamlock.net/Theodore/livestream/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "sx",
-            "isGeoBlocked": false
-        }
-    ],
-    "music": [
-        {
-            "nanoid": "aN8uGsIctN5GGv",
-            "name": "98.1 Pearl FM",
-            "iptv_urls": [
-                "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",

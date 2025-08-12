@@ -1,4 +1,28 @@
 {
+    "other": [
+        {
+            "nanoid": "f3d5bwXA32dvOT",
+            "name": "Rakuten Fam\u00edlia",
+            "iptv_urls": [
+                "https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "pt",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Fv8cd5HoZ9hOmr",
+            "name": "Rakuten Document\u00e1rios",
+            "iptv_urls": [
+                "https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "pt",
+            "isGeoBlocked": false
+        }
+    ],
     "music": [
         {
             "nanoid": "PUdpiv6E36htAt",
@@ -91,10 +115,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "xjxSZKwVluReVC",
-            "name": "Porto Canal",
+            "nanoid": "2BcOyELn5Fzp9Z",
+            "name": "R\u00e1dio Sines",
             "iptv_urls": [
-                "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8"
+                "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "por",
@@ -102,10 +126,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "2BcOyELn5Fzp9Z",
-            "name": "R\u00e1dio Sines",
+            "nanoid": "xjxSZKwVluReVC",
+            "name": "Porto Canal",
             "iptv_urls": [
-                "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8"
+                "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "por",
@@ -205,17 +229,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "YoDeMa770rI1x3",
-            "name": "Man\u00e1 Igreja Online",
-            "iptv_urls": [
-                "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "por",
-            "country": "pt",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "Mi17BkbSFMtULi",
             "name": "Kuriakos Kids",
             "iptv_urls": [
@@ -282,6 +295,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "YoDeMa770rI1x3",
+            "name": "Man\u00e1 Igreja Online",
+            "iptv_urls": [
+                "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "por",
+            "country": "pt",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "T0peL8PwNvsJdS",
             "name": "Man\u00e1 Tserkov' Onlayn",
             "iptv_urls": [
@@ -319,26 +343,15 @@
             "isGeoBlocked": false
         }
     ],
-    "other": [
+    "legislative": [
         {
-            "nanoid": "Fv8cd5HoZ9hOmr",
-            "name": "Rakuten Document\u00e1rios",
+            "nanoid": "MYnHsDG9stKwV8",
+            "name": "ARTV Canal Parlamento",
             "iptv_urls": [
-                "https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8"
+                "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
             ],
             "youtube_urls": [],
-            "language": "",
-            "country": "pt",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "f3d5bwXA32dvOT",
-            "name": "Rakuten Fam\u00edlia",
-            "iptv_urls": [
-                "https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
+            "language": "por",
             "country": "pt",
             "isGeoBlocked": false
         }
@@ -349,19 +362,6 @@
             "name": "Kuriakos Cine",
             "iptv_urls": [
                 "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "por",
-            "country": "pt",
-            "isGeoBlocked": false
-        }
-    ],
-    "legislative": [
-        {
-            "nanoid": "MYnHsDG9stKwV8",
-            "name": "ARTV Canal Parlamento",
-            "iptv_urls": [
-                "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "por",

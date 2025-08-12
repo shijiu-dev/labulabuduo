@@ -1,10 +1,10 @@
 {
-    "general": [
+    "religious": [
         {
-            "nanoid": "WQ6unWGtm0BnT8",
-            "name": "TV Zimbo",
+            "nanoid": "H430kryFrZO9kW",
+            "name": "KK TV Angola",
             "iptv_urls": [
-                "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8"
+                "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "por",
@@ -25,12 +25,12 @@
             "isGeoBlocked": false
         }
     ],
-    "religious": [
+    "general": [
         {
-            "nanoid": "H430kryFrZO9kW",
-            "name": "KK TV Angola",
+            "nanoid": "WQ6unWGtm0BnT8",
+            "name": "TV Zimbo",
             "iptv_urls": [
-                "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"
+                "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8"
             ],
             "youtube_urls": [],
             "language": "por",

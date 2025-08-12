@@ -1,72 +1,4 @@
 {
-    "entertainment": [
-        {
-            "nanoid": "tFwxoGZUaupUsk",
-            "name": "\u5927\u611b\u96fb\u8996 Tzu Chi DaAiVideo 1",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/MIqUplvSRWA"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "VT6fjKpUiLVxFX",
-            "name": "\u4e2d\u8996\u7d93\u5178\u7d9c\u85dd",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/ADDSmXoPDY8"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "CEHeF5qtkecJTJ",
-            "name": "\u98e2\u9913\u904a\u6232 Hunger Games",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/lpunQRv0QvY"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "EVc2GaUKCkDuYp",
-            "name": "\u5927\u611b\u96fb\u8996 Tzu Chi DaAiVideo 2",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/DTNkEm6jaqQ"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "ebLo9KL8mzuF4O",
-            "name": "\u5929\u624d\u885d\u885d\u885d",
-            "iptv_urls": [
-                "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "cmn",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "T7xp99Cz7KTH0J",
-            "name": "Hot Door Night \u7d9c\u85dd\u5927\u71b1\u9580",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/GqMU4MgkvVc"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        }
-    ],
     "religious": [
         {
             "nanoid": "zQNk8smIwQJMmv",
@@ -80,21 +12,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "0YVHxDTXA7CGGH",
-            "name": "GOOD TV CH2 \u771f\u7406\u53f0",
+            "nanoid": "fYJAPR9lP0wgId",
+            "name": "Beautiful Life TV",
             "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech2.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Ij10cHMBBd4XeY",
-            "name": "GOOD TV CH1 \u7d9c\u5408\u53f0",
-            "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech1.m3u8"
+                "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "zho",
@@ -113,10 +34,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "fYJAPR9lP0wgId",
-            "name": "Beautiful Life TV",
+            "nanoid": "Ij10cHMBBd4XeY",
+            "name": "GOOD TV CH1 \u7d9c\u5408\u53f0",
             "iptv_urls": [
-                "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
+                "https://live.streamingfast.net/osmflivech1.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "zho",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "0YVHxDTXA7CGGH",
+            "name": "GOOD TV CH2 \u771f\u7406\u53f0",
+            "iptv_urls": [
+                "https://live.streamingfast.net/osmflivech2.m3u8"
             ],
             "youtube_urls": [],
             "language": "zho",
@@ -125,17 +57,6 @@
         }
     ],
     "news": [
-        {
-            "nanoid": "TQpaFG24t16iNX",
-            "name": "\u4e2d\u5929\u96fb\u8996",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/vr3XyVCR4T0"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
         {
             "nanoid": "MW80lEQ3Zwtft4",
             "name": "\u4e2d\u5929\u65b0\u805e\u53f0",
@@ -148,235 +69,12 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "T6yHsgKfVC9bM2",
-            "name": "\u4e09\u7acbLIVE\u65b0\u805e (SET Live NEWS)",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/MV9mI0GChwo"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "j7NCdwXwRiub6P",
-            "name": "TVBS NEWS",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/m_dhMSvUCIc",
-                "https://www.youtube-nocookie.com/embed/2mCSYvcfhtc"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "2QCf6LFq6vOFj0",
-            "name": "TaiwanPlus",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/XH5SyDW29ys"
-            ],
-            "language": "eng",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "8pEZrzkEvqMiL8",
-            "name": "Taiwan SETNEWS",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/hGJkDZDchYI"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "GSAcFVtp1zzC1v",
-            "name": "Taiwan EBS News",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/E0zhe2gkXBs"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "xU2wEIohlhHyJP",
-            "name": "PTS News \u516c\u8996\u65b0\u805e\u7db2",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/quwqlazU-c8"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "KJdw4NAbdUQOgq",
-            "name": "\u4e09\u7acbiNEWS",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/pF507BLtbqU"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "1l0sv6HrCpuIL7",
-            "name": "\u93e1\u65b0\u805e",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/5n0y6b0Q25o"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "UxZcPY7znRO9f7",
-            "name": "\u6c11\u8996\u65b0\u805e\u7db2 Formosa TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/ylYJSBUgaMA"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "XqsaJsuEA6fqrB",
-            "name": "\u6771\u68ee\u65b0\u805e CH51",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/V1p33hqPrUk"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "xjMtwiJJliTsw0",
-            "name": "\u65b0\u5510\u4eba\u4e9e\u592a\u96fb\u8996\u53f0NTDAPTV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/hR8_rrE0VyY"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "vvHxH5PpOcQyf3",
-            "name": "GlobalNews TV: Taiwan News",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/w87VGpgd90U"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "BIpEJXir2d0hwh",
-            "name": "GlobalNews TV: Taiwan and International News",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/6IquAgfvYmc"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "pY4KeJg8q2gmE7",
-            "name": "GlobalNews TV: International News",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/Ej3LQM_lTEw"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "D4PGTuAkvHKzKK",
             "name": "Global News",
             "iptv_urls": [
                 "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8"
             ],
             "youtube_urls": [],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "W8l6SeW7D2XJbF",
-            "name": "CTV News \u53f0\u7063\u4e2d\u8996",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/TCnaIE_SAtM"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Cj9jI4Ty58FAjy",
-            "name": "CTV News \u4e2d\u8996\u65b0\u805e",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/AGdxQWYSrI8"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "hNwc6ncr6s8reS",
-            "name": "CTI+ | \u4e2d\u59292\u53f0",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/DM_PEM8GrIg"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "q3MsYc4TWhyWHY",
-            "name": "57ETFN",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/AEBeWMM1atA"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        }
-    ],
-    "show": [
-        {
-            "nanoid": "WOOG7kv9UAf8gJ",
-            "name": "ViVa TV: \u7f8e\u597d\u8cfc\u72692\u53f0\u7dda\u4e0a\u770b",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/lEXITHxcagI"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "ylsl7nMp3aqQ8H",
-            "name": "ViVa TV: \u7f8e\u597d\u8cfc\u72691\u53f0\u7dda\u4e0a\u770b",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/7IyxOiGMLgw"
-            ],
             "language": "zho",
             "country": "tw",
             "isGeoBlocked": false
@@ -403,215 +101,6 @@
             ],
             "youtube_urls": [],
             "language": "eng",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "92gdyMIzlEJ8qS",
-            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u5916\u4ea4\u53ca\u570b\u9632\u59d4\u54e1\u6703",
-            "iptv_urls": [
-                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "ybNxty6cy6TQCN",
-            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u9662\u6703",
-            "iptv_urls": [
-                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "N8hkgkz2cWI2fG",
-            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u8ca1\u653f\u59d4\u54e1\u6703",
-            "iptv_urls": [
-                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "TsbpJ9LSPPFmD7",
-            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u7d93\u6fdf\u59d4\u54e1\u6703",
-            "iptv_urls": [
-                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "69wAB91uuuUiDe",
-            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u793e\u6703\u798f\u5229\u53ca\u885b\u751f\u74b0\u5883\u59d4\u54e1\u6703",
-            "iptv_urls": [
-                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "rRk1sHY4upUSqZ",
-            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u671d\u91ce\u5354\u5546",
-            "iptv_urls": [
-                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "t0HfB9k6G55akZ",
-            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u6559\u80b2\u53ca\u6587\u5316\u59d4\u54e1\u6703",
-            "iptv_urls": [
-                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "VLtgLKGGP6GI6i",
-            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u53f8\u6cd5\u53ca\u6cd5\u5236\u59d4\u54e1\u6703",
-            "iptv_urls": [
-                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "j3trFgZU9R4n7Z",
-            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u5167\u653f\u59d4\u54e1\u6703",
-            "iptv_urls": [
-                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "QeuISdXacTsHR3",
-            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u4ea4\u901a\u59d4\u54e1\u6703",
-            "iptv_urls": [
-                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "BILLNoAHHHRUjJ",
-            "name": "GOOD TV CH15 \u771f\u60c5\u4e4b\u591c",
-            "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech15.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "0GlqyUs1ECuc7P",
-            "name": "GOOD TV CH14 \u771f\u60c5\u90e8\u843d\u683c",
-            "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech14.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "sZFCbeVO8b73mu",
-            "name": "GOOD TV CH12 \u7dad\u4ed6\u547d\u65bd",
-            "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech12.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "vlgRIUb1JQsuvU",
-            "name": "GOOD TV CH9 \u611b+\u597d\u91ab\u751f \u77ed\u7248",
-            "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech9.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "d0nq2JTvbAGCWw",
-            "name": "GOOD TV CH7 \u79b1\u544a\u5927\u8ecd \u4fe1\u606f",
-            "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech7.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "406cZmdR5ifvCr",
-            "name": "GOOD TV CH6 \u89aa\u8fd1\u795e \u8a69\u6b4c\u97f3\u6a02",
-            "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech6.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "XbYM2h3OZ5DJU9",
-            "name": "GOOD TV CH5 \u5171\u4eab\u89c0\u9ede \u77ed\u7248",
-            "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech5.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "YBeAL6fMHkXTzg",
-            "name": "GOOD TV CH3 \u771f\u60c5\u90e8\u843d\u683c \u77ed\u7248",
-            "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech3.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "SprHkYNNn2XMeF",
-            "name": "GOOD TV CH17 \u5927\u885b\u9b91\u68ee",
-            "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech17.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
             "country": "tw",
             "isGeoBlocked": false
         },
@@ -693,10 +182,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "UhUuoJKxwNuOSF",
-            "name": "GOOD TV CH30 \u5929\u5802\u656c\u62dc",
+            "nanoid": "QeuISdXacTsHR3",
+            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u4ea4\u901a\u59d4\u54e1\u6703",
             "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech30.m3u8"
+                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -704,10 +193,98 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "oItOhMIGM4deT9",
-            "name": "GOOD TV CH28 \u73fe\u4ee3\u8a69\u6b4c",
+            "nanoid": "j3trFgZU9R4n7Z",
+            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u5167\u653f\u59d4\u54e1\u6703",
             "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech28.m3u8"
+                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "VLtgLKGGP6GI6i",
+            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u53f8\u6cd5\u53ca\u6cd5\u5236\u59d4\u54e1\u6703",
+            "iptv_urls": [
+                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "92gdyMIzlEJ8qS",
+            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u5916\u4ea4\u53ca\u570b\u9632\u59d4\u54e1\u6703",
+            "iptv_urls": [
+                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "t0HfB9k6G55akZ",
+            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u6559\u80b2\u53ca\u6587\u5316\u59d4\u54e1\u6703",
+            "iptv_urls": [
+                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "rRk1sHY4upUSqZ",
+            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u671d\u91ce\u5354\u5546",
+            "iptv_urls": [
+                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "69wAB91uuuUiDe",
+            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u793e\u6703\u798f\u5229\u53ca\u885b\u751f\u74b0\u5883\u59d4\u54e1\u6703",
+            "iptv_urls": [
+                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "TsbpJ9LSPPFmD7",
+            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u7d93\u6fdf\u59d4\u54e1\u6703",
+            "iptv_urls": [
+                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "N8hkgkz2cWI2fG",
+            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u8ca1\u653f\u59d4\u54e1\u6703",
+            "iptv_urls": [
+                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "ybNxty6cy6TQCN",
+            "name": "\u7acb\u6cd5\u9662IVOD\u76f4\u64ad\u9662\u6703",
+            "iptv_urls": [
+                "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -726,10 +303,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "tWzEJzi0qqKk4N",
-            "name": "GOOD TV CH16 \u8449\u5149\u660e",
+            "nanoid": "UhUuoJKxwNuOSF",
+            "name": "GOOD TV CH30 \u5929\u5802\u656c\u62dc",
             "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech16.m3u8"
+                "https://live.streamingfast.net/osmflivech30.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -737,10 +314,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "MwZWGWVpec0nt1",
-            "name": "GOOD TV CH18 \u570b\u969b\u8b1b\u54e1",
+            "nanoid": "YBeAL6fMHkXTzg",
+            "name": "GOOD TV CH3 \u771f\u60c5\u90e8\u843d\u683c \u77ed\u7248",
             "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech18.m3u8"
+                "https://live.streamingfast.net/osmflivech3.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -748,10 +325,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "pUstu0dlK5SmLe",
-            "name": "GOOD TV CH20 \u6069\u5178\u6642\u5206",
+            "nanoid": "XbYM2h3OZ5DJU9",
+            "name": "GOOD TV CH5 \u5171\u4eab\u89c0\u9ede \u77ed\u7248",
             "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech20.m3u8"
+                "https://live.streamingfast.net/osmflivech5.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -759,10 +336,65 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "KQvLeOGvKkSgCu",
-            "name": "GOOD TV CH21 \u83ef\u8a9e\u8b1b\u54e1",
+            "nanoid": "406cZmdR5ifvCr",
+            "name": "GOOD TV CH6 \u89aa\u8fd1\u795e \u8a69\u6b4c\u97f3\u6a02",
             "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech21.m3u8"
+                "https://live.streamingfast.net/osmflivech6.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "d0nq2JTvbAGCWw",
+            "name": "GOOD TV CH7 \u79b1\u544a\u5927\u8ecd \u4fe1\u606f",
+            "iptv_urls": [
+                "https://live.streamingfast.net/osmflivech7.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "vlgRIUb1JQsuvU",
+            "name": "GOOD TV CH9 \u611b+\u597d\u91ab\u751f \u77ed\u7248",
+            "iptv_urls": [
+                "https://live.streamingfast.net/osmflivech9.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "0GlqyUs1ECuc7P",
+            "name": "GOOD TV CH14 \u771f\u60c5\u90e8\u843d\u683c",
+            "iptv_urls": [
+                "https://live.streamingfast.net/osmflivech14.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "oItOhMIGM4deT9",
+            "name": "GOOD TV CH28 \u73fe\u4ee3\u8a69\u6b4c",
+            "iptv_urls": [
+                "https://live.streamingfast.net/osmflivech28.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "ZSZaXBfLtPhkBf",
+            "name": "GOOD TV CH27 \u7a7a\u4e2d\u8056\u7d93\u5b78\u9662",
+            "iptv_urls": [
+                "https://live.streamingfast.net/osmflivech27.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -781,10 +413,76 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "ZSZaXBfLtPhkBf",
-            "name": "GOOD TV CH27 \u7a7a\u4e2d\u8056\u7d93\u5b78\u9662",
+            "nanoid": "KQvLeOGvKkSgCu",
+            "name": "GOOD TV CH21 \u83ef\u8a9e\u8b1b\u54e1",
             "iptv_urls": [
-                "https://live.streamingfast.net/osmflivech27.m3u8"
+                "https://live.streamingfast.net/osmflivech21.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "pUstu0dlK5SmLe",
+            "name": "GOOD TV CH20 \u6069\u5178\u6642\u5206",
+            "iptv_urls": [
+                "https://live.streamingfast.net/osmflivech20.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "MwZWGWVpec0nt1",
+            "name": "GOOD TV CH18 \u570b\u969b\u8b1b\u54e1",
+            "iptv_urls": [
+                "https://live.streamingfast.net/osmflivech18.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "SprHkYNNn2XMeF",
+            "name": "GOOD TV CH17 \u5927\u885b\u9b91\u68ee",
+            "iptv_urls": [
+                "https://live.streamingfast.net/osmflivech17.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "tWzEJzi0qqKk4N",
+            "name": "GOOD TV CH16 \u8449\u5149\u660e",
+            "iptv_urls": [
+                "https://live.streamingfast.net/osmflivech16.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "BILLNoAHHHRUjJ",
+            "name": "GOOD TV CH15 \u771f\u60c5\u4e4b\u591c",
+            "iptv_urls": [
+                "https://live.streamingfast.net/osmflivech15.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "tw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "sZFCbeVO8b73mu",
+            "name": "GOOD TV CH12 \u7dad\u4ed6\u547d\u65bd",
+            "iptv_urls": [
+                "https://live.streamingfast.net/osmflivech12.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -792,29 +490,20 @@
             "isGeoBlocked": false
         }
     ],
+    "entertainment": [
+        {
+            "nanoid": "ebLo9KL8mzuF4O",
+            "name": "\u5929\u624d\u885d\u885d\u885d",
+            "iptv_urls": [
+                "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "cmn",
+            "country": "tw",
+            "isGeoBlocked": false
+        }
+    ],
     "shop": [
-        {
-            "nanoid": "9hLyxjNnuvyahG",
-            "name": "momo\u8cfc\u7269\u4e8c\u53f0 CH35",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/xbNWkUyxQGM"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "zp392zIs8jMyat",
-            "name": "momo\u8cfc\u7269\u4e00\u53f0 CH48",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/_pZQ1Lk0xMA"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
         {
             "nanoid": "HZkqDitQwqQ0R5",
             "name": "\u6771\u68ee\u8cfc\u726960",
@@ -823,65 +512,6 @@
             ],
             "youtube_urls": [],
             "language": "cmn",
-            "country": "tw",
-            "isGeoBlocked": false
-        }
-    ],
-    "kids": [
-        {
-            "nanoid": "Yhjx0lwE1nMiI4",
-            "name": "momokids\u89aa\u5b50\u53f0: \u6b61\u6a02\u6b4c\u66f2",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/f6F2Tftty9I"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "rjzVsnW4PHv8GX",
-            "name": "momokids\u89aa\u5b50\u53f0: 2",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/uNgRQROgp_M"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "QCmvdu32Qo7gos",
-            "name": "momokids\u89aa\u5b50\u53f0: 1",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/5XZsghzhzI8"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        }
-    ],
-    "travel": [
-        {
-            "nanoid": "llFPiUxpykzPFc",
-            "name": "\u5927\u9678\u5c0b\u5947",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/cOEt7MN95qo"
-            ],
-            "language": "zho",
-            "country": "tw",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "TflaR58RC4Wc71",
-            "name": "MIT\u53f0\u7063\u8a8c",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/zt9tSbiw4sg"
-            ],
-            "language": "zho",
             "country": "tw",
             "isGeoBlocked": false
         }

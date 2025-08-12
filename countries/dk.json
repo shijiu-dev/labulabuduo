@@ -10,17 +10,6 @@
             "language": "dan",
             "country": "dk",
             "isGeoBlocked": false
-        },
-        {
-            "nanoid": "MHC3rqs2EaQPud",
-            "name": "DanmarkC TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/Cxqjjc9N0lA"
-            ],
-            "language": "dan",
-            "country": "dk",
-            "isGeoBlocked": false
         }
     ],
     "other": [

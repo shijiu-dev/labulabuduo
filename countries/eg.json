@@ -1,29 +1,5 @@
 {
-    "lifestyle": [
-        {
-            "nanoid": "jZw9YHBZUmekhk",
-            "name": "CBC Sofra",
-            "iptv_urls": [
-                "https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "eg",
-            "isGeoBlocked": false
-        }
-    ],
     "religious": [
-        {
-            "nanoid": "9PE4R6NdLx4OF9",
-            "name": "Huda TV",
-            "iptv_urls": [
-                "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "eg",
-            "isGeoBlocked": false
-        },
         {
             "nanoid": "cldgrOT0slw0oJ",
             "name": "Coptic TV",
@@ -36,21 +12,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "7QNwjfAH3tZtOn",
-            "name": "Koogi TV",
+            "nanoid": "9PE4R6NdLx4OF9",
+            "name": "Huda TV",
             "iptv_urls": [
-                "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
+                "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
             ],
             "youtube_urls": [],
-            "language": "ara",
+            "language": "eng",
             "country": "eg",
             "isGeoBlocked": false
         },
         {
-            "nanoid": "hmJBHkCQQky6u9",
-            "name": "Aghapy TV",
+            "nanoid": "7QNwjfAH3tZtOn",
+            "name": "Koogi TV",
             "iptv_urls": [
-                "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8"
+                "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -67,9 +43,31 @@
             "language": "ara",
             "country": "eg",
             "isGeoBlocked": false
+        },
+        {
+            "nanoid": "hmJBHkCQQky6u9",
+            "name": "Aghapy TV",
+            "iptv_urls": [
+                "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "eg",
+            "isGeoBlocked": false
         }
     ],
     "general": [
+        {
+            "nanoid": "04YQOwGjlPDoED",
+            "name": "CBC",
+            "iptv_urls": [
+                "https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "eg",
+            "isGeoBlocked": false
+        },
         {
             "nanoid": "N99s1RnYZrTIDH",
             "name": "DMC",
@@ -126,21 +124,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "3MzmJAwHYLPibN",
-            "name": "Al Kahera Wal Nas",
+            "nanoid": "aXet9f4XwEHwEE",
+            "name": "Alhayat TV",
             "iptv_urls": [
-                "https://live20.bozztv.com/gin-36bay3/ga-alkahera/tracks-v1a1/mono.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "eg",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "dGr0ssQIHQJ76n",
-            "name": "Al Masriyah",
-            "iptv_urls": [
-                "https://fl1002.bozztv.com/ga-almasriya/index.m3u8"
+                "https://fl1002.bozztv.com/ga-alhayah/tracks-v1a1/mono.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -159,10 +146,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "aXet9f4XwEHwEE",
-            "name": "Alhayat TV",
+            "nanoid": "dGr0ssQIHQJ76n",
+            "name": "Al Masriyah",
             "iptv_urls": [
-                "https://fl1002.bozztv.com/ga-alhayah/tracks-v1a1/mono.m3u8"
+                "https://fl1002.bozztv.com/ga-almasriya/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -170,10 +157,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "04YQOwGjlPDoED",
-            "name": "CBC",
+            "nanoid": "3MzmJAwHYLPibN",
+            "name": "Al Kahera Wal Nas",
             "iptv_urls": [
-                "https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8"
+                "https://live20.bozztv.com/gin-36bay3/ga-alkahera/tracks-v1a1/mono.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -205,10 +192,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "duPMBZPaUyeW5e",
-            "name": "Al-Nahar Drama",
+            "nanoid": "zoD3keVMWTtYmW",
+            "name": "CBC Drama",
             "iptv_urls": [
-                "https://fl1002.bozztv.com/ga-alnahardrama/index.m3u8"
+                "https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -227,10 +214,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "zoD3keVMWTtYmW",
-            "name": "CBC Drama",
+            "nanoid": "duPMBZPaUyeW5e",
+            "name": "Al-Nahar Drama",
             "iptv_urls": [
-                "https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8"
+                "https://fl1002.bozztv.com/ga-alnahardrama/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -264,17 +251,6 @@
     ],
     "news": [
         {
-            "nanoid": "ocf60Z4awZQ5ZB",
-            "name": "eXtra news",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/rRJvEEu5v-g"
-            ],
-            "language": "ara",
-            "country": "eg",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "0sOxte21XG29rV",
             "name": "On E",
             "iptv_urls": [
@@ -295,27 +271,16 @@
             "language": "ara",
             "country": "eg",
             "isGeoBlocked": false
-        },
-        {
-            "nanoid": "WErO3slydR02br",
-            "name": "Alghad TV: \u0642\u0646\u0627\u0629 \u0627\u0644\u063a\u062f",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/BpcESs5YRDo"
-            ],
-            "language": "ara",
-            "country": "eg",
-            "isGeoBlocked": false
         }
     ],
-    "entertainment": [
+    "lifestyle": [
         {
-            "nanoid": "aAl4vb2m3u5Edc",
-            "name": "AlKahera WalNas 2",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/_IHIE7E2HjM"
+            "nanoid": "jZw9YHBZUmekhk",
+            "name": "CBC Sofra",
+            "iptv_urls": [
+                "https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8"
             ],
+            "youtube_urls": [],
             "language": "ara",
             "country": "eg",
             "isGeoBlocked": false

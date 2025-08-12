@@ -25,17 +25,6 @@
     ],
     "entertainment": [
         {
-            "nanoid": "gZcCQ1fgg0Mbfg",
-            "name": "Ahupa Visual Radio",
-            "iptv_urls": [
-                "https://tv.btnrwanda.com:3349/live/ahupalive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "kin",
-            "country": "rw",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "FXQtm2S6eQXf1s",
             "name": "B+ TV",
             "iptv_urls": [
@@ -43,6 +32,17 @@
             ],
             "youtube_urls": [],
             "language": "eng",
+            "country": "rw",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "gZcCQ1fgg0Mbfg",
+            "name": "Ahupa Visual Radio",
+            "iptv_urls": [
+                "https://tv.btnrwanda.com:3349/live/ahupalive.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "kin",
             "country": "rw",
             "isGeoBlocked": false
         }

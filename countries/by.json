@@ -1,17 +1,4 @@
 {
-    "culture": [
-        {
-            "nanoid": "7IG6c8BLRlAZXA",
-            "name": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c 3",
-            "iptv_urls": [
-                "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "by",
-            "isGeoBlocked": false
-        }
-    ],
     "sports": [
         {
             "nanoid": "yxXfCHd5uHQMJD",
@@ -37,7 +24,42 @@
             "isGeoBlocked": false
         }
     ],
+    "general": [
+        {
+            "nanoid": "tMbsI4ezeoctSl",
+            "name": "\u0421\u0422\u0411",
+            "iptv_urls": [
+                "https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "by",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "3JXXlLC1vPc63n",
+            "name": "\u041e\u041d\u0422",
+            "iptv_urls": [
+                "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
+            "country": "by",
+            "isGeoBlocked": false
+        }
+    ],
     "news": [
+        {
+            "nanoid": "1lACURA3RDW6jo",
+            "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439",
+            "iptv_urls": [
+                "https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "bel",
+            "country": "by",
+            "isGeoBlocked": false
+        },
         {
             "nanoid": "EkG0p6WwUwsunU",
             "name": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c 24",
@@ -49,47 +71,14 @@
             "language": "rus",
             "country": "by",
             "isGeoBlocked": false
-        },
-        {
-            "nanoid": "e1Kg7iPhVSl1dS",
-            "name": "\u0411\u0415\u041b\u0421\u0410\u0422 NEWS",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/YA9ukP4k_Fk"
-            ],
-            "language": "bel",
-            "country": "by",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "1lACURA3RDW6jo",
-            "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439",
-            "iptv_urls": [
-                "https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "bel",
-            "country": "by",
-            "isGeoBlocked": false
         }
     ],
-    "general": [
+    "culture": [
         {
-            "nanoid": "3JXXlLC1vPc63n",
-            "name": "\u041e\u041d\u0422",
+            "nanoid": "7IG6c8BLRlAZXA",
+            "name": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c 3",
             "iptv_urls": [
-                "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "by",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "tMbsI4ezeoctSl",
-            "name": "\u0421\u0422\u0411",
-            "iptv_urls": [
-                "https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8"
+                "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "rus",

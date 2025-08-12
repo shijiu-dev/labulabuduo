@@ -12,10 +12,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "1fyxJbeOBe9SyI",
-            "name": "Eden TV",
+            "nanoid": "wl2lwPjKKxNRiK",
+            "name": "ORTB TV",
             "iptv_urls": [
-                "https://rtmp.edentv.bj/hls/stream.m3u8"
+                "https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "fra",
@@ -23,10 +23,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "wl2lwPjKKxNRiK",
-            "name": "ORTB TV",
+            "nanoid": "1fyxJbeOBe9SyI",
+            "name": "Eden TV",
             "iptv_urls": [
-                "https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8"
+                "https://rtmp.edentv.bj/hls/stream.m3u8"
             ],
             "youtube_urls": [],
             "language": "fra",
@@ -47,12 +47,12 @@
             "isGeoBlocked": false
         }
     ],
-    "business": [
+    "sports": [
         {
-            "nanoid": "9DN7gLNDS2Rbj2",
-            "name": "Le Nouveau Manager TV",
+            "nanoid": "EgspbzPRaIJYXi",
+            "name": "ADO TV",
             "iptv_urls": [
-                "https://lnmlive.com/hls/stream.m3u8"
+                "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "fra",
@@ -60,12 +60,12 @@
             "isGeoBlocked": false
         }
     ],
-    "sports": [
+    "business": [
         {
-            "nanoid": "EgspbzPRaIJYXi",
-            "name": "ADO TV",
+            "nanoid": "9DN7gLNDS2Rbj2",
+            "name": "Le Nouveau Manager TV",
             "iptv_urls": [
-                "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
+                "https://lnmlive.com/hls/stream.m3u8"
             ],
             "youtube_urls": [],
             "language": "fra",

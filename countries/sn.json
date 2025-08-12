@@ -12,17 +12,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "ZPk3uBpYzL7r88",
-            "name": "Al Khadimiyyah TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/Lo1IYFT1Kjk"
-            ],
-            "language": "fra",
-            "country": "sn",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "fdl8JD06lrql2h",
             "name": "Chabiba TV",
             "iptv_urls": [

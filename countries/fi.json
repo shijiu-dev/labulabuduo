@@ -67,21 +67,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "Wd5LQK7QYkvnE1",
-            "name": "5-Minute Craft",
+            "nanoid": "Ll5s2H0UCXnUdm",
+            "name": "InTravel",
             "iptv_urls": [
-                "https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "fi",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "ZsOJRyJmqi98FC",
-            "name": "BBC Top Gear Finland",
-            "iptv_urls": [
-                "https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8"
+                "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -100,10 +89,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "Ll5s2H0UCXnUdm",
-            "name": "InTravel",
+            "nanoid": "ZsOJRyJmqi98FC",
+            "name": "BBC Top Gear Finland",
             "iptv_urls": [
-                "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8"
+                "https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "fi",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Wd5LQK7QYkvnE1",
+            "name": "5-Minute Craft",
+            "iptv_urls": [
+                "https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "",
@@ -196,17 +196,6 @@
     ],
     "music": [
         {
-            "nanoid": "DSxOBANqbGCYcT",
-            "name": "Navahang TV",
-            "iptv_urls": [
-                "https://hls.navahang.live/hls/stream.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fas",
-            "country": "fi",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "f8OcMZj8nk12cd",
             "name": "JRTV J\u00e4rviradio",
             "iptv_urls": [
@@ -214,6 +203,17 @@
             ],
             "youtube_urls": [],
             "language": "fin",
+            "country": "fi",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "DSxOBANqbGCYcT",
+            "name": "Navahang TV",
+            "iptv_urls": [
+                "https://hls.navahang.live/hls/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fas",
             "country": "fi",
             "isGeoBlocked": false
         }

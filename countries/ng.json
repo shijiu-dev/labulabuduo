@@ -1,10 +1,10 @@
 {
-    "news": [
+    "religious": [
         {
-            "nanoid": "HUxeirBEJ9XVlF",
-            "name": "News Central",
+            "nanoid": "roS6e38nLtSy8d",
+            "name": "Whole Word TV",
             "iptv_urls": [
-                "https://wf.newscentral.ng:8443/hls/stream.m3u8"
+                "https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
@@ -12,89 +12,55 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "DGyLo10RdXeXNy",
-            "name": "News Central TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/D-rGtZqvUVA"
-            ],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "mQsEQa26uw8XEM",
-            "name": "TrustTV News",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/p7UUGSozdzI"
-            ],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Iz3l4KLYDLXwEs",
-            "name": "TVC News",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/Mv14aabg4mA"
-            ],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "lU3vhIeIZy1ObI",
-            "name": "TVC News Nigeria",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/N0gITrmcCMQ"
-            ],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "MP4bBMx7wAtF5b",
-            "name": "Arise News",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/srJg6ZIPmvU"
-            ],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "sGnhPtaEIv2fu6",
-            "name": "Channels Television",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/W8nThq62Vb4"
-            ],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "NhRq8cgQqJKIzv",
-            "name": "Galaxy TV",
+            "nanoid": "IA6T00JQRjMEuI",
+            "name": "Dunamis TV",
             "iptv_urls": [
-                "https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8"
+                "https://atechgroupuk.site/DTV.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
             "country": "ng",
             "isGeoBlocked": false
-        }
-    ],
-    "culture": [
+        },
         {
-            "nanoid": "SYkeshgW48vaJo",
-            "name": "Qausain TV",
+            "nanoid": "2lSQKgNTcLT9IY",
+            "name": "LoveworldSAT",
             "iptv_urls": [
-                "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
+                "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8",
+                "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "ng",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "8pEfgic6D8bCYA",
+            "name": "LoveWorld Persia",
+            "iptv_urls": [
+                "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fas",
+            "country": "ng",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "YSG1ZKKDkWTBCC",
+            "name": "LoveWorld Arabic",
+            "iptv_urls": [
+                "https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "ng",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "2vWBpFoLohlc8z",
+            "name": "APTIM TV",
+            "iptv_urls": [
+                "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_222c2dc0b69f11ee8c3c99218c8c67c4/index.fmp4.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
@@ -104,10 +70,10 @@
     ],
     "other": [
         {
-            "nanoid": "DonGeI2QCkbMfe",
-            "name": "Quest TV",
+            "nanoid": "Y3iniHuYhBuCQD",
+            "name": "Wap TV",
             "iptv_urls": [
-                "https://media2.streambrothers.com:19360/8028/8028.m3u8"
+                "https://newproxy3.vidivu.tv/waptv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
@@ -115,10 +81,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "Y3iniHuYhBuCQD",
-            "name": "Wap TV",
+            "nanoid": "DonGeI2QCkbMfe",
+            "name": "Quest TV",
             "iptv_urls": [
-                "https://newproxy3.vidivu.tv/waptv/index.m3u8"
+                "https://media2.streambrothers.com:19360/8028/8028.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
@@ -139,12 +105,25 @@
             "isGeoBlocked": false
         }
     ],
-    "religious": [
+    "culture": [
         {
-            "nanoid": "roS6e38nLtSy8d",
-            "name": "Whole Word TV",
+            "nanoid": "SYkeshgW48vaJo",
+            "name": "Qausain TV",
             "iptv_urls": [
-                "https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8"
+                "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "ng",
+            "isGeoBlocked": false
+        }
+    ],
+    "news": [
+        {
+            "nanoid": "HUxeirBEJ9XVlF",
+            "name": "News Central",
+            "iptv_urls": [
+                "https://wf.newscentral.ng:8443/hls/stream.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
@@ -152,58 +131,26 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "2lSQKgNTcLT9IY",
-            "name": "LoveworldSAT",
+            "nanoid": "NhRq8cgQqJKIzv",
+            "name": "Galaxy TV",
             "iptv_urls": [
-                "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8",
-                "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8"
+                "https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
             "country": "ng",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "entertainment": [
         {
-            "nanoid": "2vWBpFoLohlc8z",
-            "name": "APTIM TV",
+            "nanoid": "jsFrBbDFba8Hpn",
+            "name": "Kingsview TV",
             "iptv_urls": [
-                "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_222c2dc0b69f11ee8c3c99218c8c67c4/index.fmp4.m3u8"
+                "https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "IA6T00JQRjMEuI",
-            "name": "Dunamis TV",
-            "iptv_urls": [
-                "https://atechgroupuk.site/DTV.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "YSG1ZKKDkWTBCC",
-            "name": "LoveWorld Arabic",
-            "iptv_urls": [
-                "https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "ng",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "8pEfgic6D8bCYA",
-            "name": "LoveWorld Persia",
-            "iptv_urls": [
-                "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fas",
             "country": "ng",
             "isGeoBlocked": false
         }
@@ -227,19 +174,6 @@
             "name": "AfroSport Nigeria",
             "iptv_urls": [
                 "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "ng",
-            "isGeoBlocked": false
-        }
-    ],
-    "entertainment": [
-        {
-            "nanoid": "jsFrBbDFba8Hpn",
-            "name": "Kingsview TV",
-            "iptv_urls": [
-                "https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",

@@ -1,10 +1,10 @@
 {
     "general": [
         {
-            "nanoid": "NDEl1l17WGFGfJ",
-            "name": "1TV",
+            "nanoid": "GdNlQ3ZHyYTh1H",
+            "name": "RTA",
             "iptv_urls": [
-                "https://live20.bozztv.com/dvrfl05/gin-1tvafg/index.m3u8"
+                "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "prd",
@@ -12,10 +12,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "mHBW6LlMDv1YFs",
-            "name": "Zhwandoon TV",
+            "nanoid": "KccKcJcNrEB4Yn",
+            "name": "Sharq Radio TV",
             "iptv_urls": [
-                "https://live20.bozztv.com/dvrfl05/gin-zhwandoon/index.m3u8"
+                "https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "pus",
@@ -34,24 +34,13 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "KccKcJcNrEB4Yn",
-            "name": "Sharq Radio TV",
+            "nanoid": "mHBW6LlMDv1YFs",
+            "name": "Zhwandoon TV",
             "iptv_urls": [
-                "https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8"
+                "https://live20.bozztv.com/dvrfl05/gin-zhwandoon/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "pus",
-            "country": "af",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "GdNlQ3ZHyYTh1H",
-            "name": "RTA",
-            "iptv_urls": [
-                "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "prd",
             "country": "af",
             "isGeoBlocked": false
         },
@@ -87,17 +76,28 @@
             "language": "prd",
             "country": "af",
             "isGeoBlocked": false
+        },
+        {
+            "nanoid": "NDEl1l17WGFGfJ",
+            "name": "1TV",
+            "iptv_urls": [
+                "https://live20.bozztv.com/dvrfl05/gin-1tvafg/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "prd",
+            "country": "af",
+            "isGeoBlocked": false
         }
     ],
     "other": [
         {
-            "nanoid": "aEHBVjoRvzZifo",
-            "name": "Tamadon TV",
+            "nanoid": "njkLUy00W4W4SZ",
+            "name": "RTA Education",
             "iptv_urls": [
-                "https://hls.tamadon.live/hls/stream.m3u8"
+                "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8"
             ],
             "youtube_urls": [],
-            "language": "prd",
+            "language": "pus",
             "country": "af",
             "isGeoBlocked": false
         },
@@ -113,13 +113,13 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "njkLUy00W4W4SZ",
-            "name": "RTA Education",
+            "nanoid": "aEHBVjoRvzZifo",
+            "name": "Tamadon TV",
             "iptv_urls": [
-                "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8"
+                "https://hls.tamadon.live/hls/stream.m3u8"
             ],
             "youtube_urls": [],
-            "language": "pus",
+            "language": "prd",
             "country": "af",
             "isGeoBlocked": false
         },
@@ -146,6 +146,19 @@
             "isGeoBlocked": false
         }
     ],
+    "sports": [
+        {
+            "nanoid": "vfExfpKOcJ4kwS",
+            "name": "RTA Sport",
+            "iptv_urls": [
+                "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "pus",
+            "country": "af",
+            "isGeoBlocked": false
+        }
+    ],
     "entertainment": [
         {
             "nanoid": "sZwFjK8uOPwgBp",
@@ -159,12 +172,12 @@
             "isGeoBlocked": false
         }
     ],
-    "sports": [
+    "religious": [
         {
-            "nanoid": "vfExfpKOcJ4kwS",
-            "name": "RTA Sport",
+            "nanoid": "kbdcUcRfw9YLk1",
+            "name": "Eslah TV",
             "iptv_urls": [
-                "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8"
+                "https://eslahtvhls.wns.live/hls/stream.m3u8"
             ],
             "youtube_urls": [],
             "language": "pus",
@@ -189,19 +202,6 @@
             "name": "AMC",
             "iptv_urls": [
                 "https://amchls.wns.live/hls/stream.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "pus",
-            "country": "af",
-            "isGeoBlocked": false
-        }
-    ],
-    "religious": [
-        {
-            "nanoid": "kbdcUcRfw9YLk1",
-            "name": "Eslah TV",
-            "iptv_urls": [
-                "https://eslahtvhls.wns.live/hls/stream.m3u8"
             ],
             "youtube_urls": [],
             "language": "pus",

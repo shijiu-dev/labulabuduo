@@ -1,41 +1,4 @@
 {
-    "news": [
-        {
-            "nanoid": "4hISVyUvSKd79p",
-            "name": "Norte Informativo TV",
-            "iptv_urls": [
-                "https://videohd.live:19360/8076/8076.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cr",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "fNzNQyxrdQA2dG",
-            "name": "Multimedios Costa Rica",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/49echV8mXyQ"
-            ],
-            "language": "spa",
-            "country": "cr",
-            "isGeoBlocked": false
-        }
-    ],
-    "sports": [
-        {
-            "nanoid": "KSc2NtlozO0Aw7",
-            "name": "Radio Turrialba TV Sports",
-            "iptv_urls": [
-                "https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cr",
-            "isGeoBlocked": false
-        }
-    ],
     "general": [
         {
             "nanoid": "RYVkiPv8DNw6UC",
@@ -93,10 +56,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "K2jiXD7UiZELMV",
-            "name": "Nicoya TV",
+            "nanoid": "H8TtlIKgrW2bwo",
+            "name": "Antena Seis TV",
             "iptv_urls": [
-                "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8"
+                "https://video1.azulstream.com:8081/antenaseistv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -104,10 +67,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "H8TtlIKgrW2bwo",
-            "name": "Antena Seis TV",
+            "nanoid": "K2jiXD7UiZELMV",
+            "name": "Nicoya TV",
             "iptv_urls": [
-                "https://video1.azulstream.com:8081/antenaseistv/index.m3u8"
+                "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -175,6 +138,19 @@
             "name": "Los Santos TV",
             "iptv_urls": [
                 "https://lstv.duckdns.org:449/hls/lstv.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cr",
+            "isGeoBlocked": false
+        }
+    ],
+    "sports": [
+        {
+            "nanoid": "KSc2NtlozO0Aw7",
+            "name": "Radio Turrialba TV Sports",
+            "iptv_urls": [
+                "https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -308,6 +284,41 @@
             "isGeoBlocked": false
         }
     ],
+    "entertainment": [
+        {
+            "nanoid": "0dNDSI0p6Xtcvm",
+            "name": "TeleMas",
+            "iptv_urls": [
+                "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cr",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "fp34BcAXOlbIfX",
+            "name": "\u00a1OPA! (1080i)",
+            "iptv_urls": [
+                "https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cr",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "bK2TlT0v8UWAuh",
+            "name": "Colosal TV",
+            "iptv_urls": [
+                "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cr",
+            "isGeoBlocked": false
+        }
+    ],
     "other": [
         {
             "nanoid": "aeI6TVNDKNvZiP",
@@ -343,34 +354,12 @@
             "isGeoBlocked": false
         }
     ],
-    "entertainment": [
+    "news": [
         {
-            "nanoid": "0dNDSI0p6Xtcvm",
-            "name": "TeleMas",
+            "nanoid": "4hISVyUvSKd79p",
+            "name": "Norte Informativo TV",
             "iptv_urls": [
-                "https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cr",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "bK2TlT0v8UWAuh",
-            "name": "Colosal TV",
-            "iptv_urls": [
-                "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cr",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "fp34BcAXOlbIfX",
-            "name": "\u00a1OPA! (1080i)",
-            "iptv_urls": [
-                "https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/playlist.m3u8"
+                "https://videohd.live:19360/8076/8076.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",

@@ -1,10 +1,10 @@
 {
-    "religious": [
+    "general": [
         {
-            "nanoid": "tJa1zHfUu6eux2",
-            "name": "Reforma TV",
+            "nanoid": "sB2nccFi22vLUq",
+            "name": "TNO Radio",
             "iptv_urls": [
-                "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
+                "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -12,18 +12,16 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "4OE4ZIp6ZfzmtV",
-            "name": "Audaz TV",
+            "nanoid": "1b6pwDCZHXANgu",
+            "name": "PortuTV",
             "iptv_urls": [
-                "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8"
+                "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
             "country": "ve",
             "isGeoBlocked": false
-        }
-    ],
-    "general": [
+        },
         {
             "nanoid": "8UCD3Qx8hCNOEd",
             "name": "Siembra TV",
@@ -92,17 +90,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "sB2nccFi22vLUq",
-            "name": "TNO Radio",
-            "iptv_urls": [
-                "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ve",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "iQsTa6Z2cWc5Ch",
             "name": "Torococo TV",
             "iptv_urls": [
@@ -140,17 +127,6 @@
             "name": "TV FANB",
             "iptv_urls": [
                 "https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ve",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "y7GSsbtupMtLRG",
-            "name": "Canal Nubeh TV",
-            "iptv_urls": [
-                "https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -203,32 +179,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "1b6pwDCZHXANgu",
-            "name": "PortuTV",
-            "iptv_urls": [
-                "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ve",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "YQGNpYUE3gQTO4",
-            "name": "PromarTV",
-            "iptv_urls": [
-                "https://vcp.myplaytv.com/promar/promar/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ve",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "L2ckl8qUgIXBH9",
             "name": "Anzo\u00e1tegui TV",
             "iptv_urls": [
                 "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ve",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "y7GSsbtupMtLRG",
+            "name": "Canal Nubeh TV",
+            "iptv_urls": [
+                "https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -284,6 +249,41 @@
             "name": "Onza TV",
             "iptv_urls": [
                 "https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ve",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "YQGNpYUE3gQTO4",
+            "name": "PromarTV",
+            "iptv_urls": [
+                "https://vcp.myplaytv.com/promar/promar/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ve",
+            "isGeoBlocked": false
+        }
+    ],
+    "religious": [
+        {
+            "nanoid": "tJa1zHfUu6eux2",
+            "name": "Reforma TV",
+            "iptv_urls": [
+                "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ve",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "4OE4ZIp6ZfzmtV",
+            "name": "Audaz TV",
+            "iptv_urls": [
+                "https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -350,12 +350,36 @@
             "isGeoBlocked": false
         }
     ],
+    "lifestyle": [
+        {
+            "nanoid": "dJh7EB1lQFwOCd",
+            "name": "Plous TV",
+            "iptv_urls": [
+                "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ve",
+            "isGeoBlocked": false
+        }
+    ],
     "entertainment": [
         {
             "nanoid": "t2xHdunHhK2Qqc",
             "name": "Aguacate TV",
             "iptv_urls": [
                 "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "ve",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "c9vagOs8X6vg6Q",
+            "name": "Guaro TV",
+            "iptv_urls": [
+                "https://streamtv.intervenhosting.net:3592/stream/play.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -378,17 +402,6 @@
             "name": "M\u00e1s Talk",
             "iptv_urls": [
                 "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "ve",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "c9vagOs8X6vg6Q",
-            "name": "Guaro TV",
-            "iptv_urls": [
-                "https://streamtv.intervenhosting.net:3592/stream/play.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -418,19 +431,6 @@
             ],
             "youtube_urls": [],
             "language": "",
-            "country": "ve",
-            "isGeoBlocked": false
-        }
-    ],
-    "lifestyle": [
-        {
-            "nanoid": "dJh7EB1lQFwOCd",
-            "name": "Plous TV",
-            "iptv_urls": [
-                "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
             "country": "ve",
             "isGeoBlocked": false
         }

@@ -23,65 +23,6 @@
             "isGeoBlocked": false
         }
     ],
-    "music": [
-        {
-            "nanoid": "aLRI25BZ5Nmrta",
-            "name": "SuriaTV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/kdUFfwM_KS0"
-            ],
-            "language": "msa",
-            "country": "my",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "ZOTkMMGUEIitr9",
-            "name": "Molek TV",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/mIaYkjKTfXI"
-            ],
-            "language": "msa",
-            "country": "my",
-            "isGeoBlocked": false
-        }
-    ],
-    "movies": [
-        {
-            "nanoid": "6eFuOUCYQJygt5",
-            "name": "Dunia Sinema",
-            "iptv_urls": [
-                "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "msa",
-            "country": "my",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "xJcplFZvvoAwWP",
-            "name": "Maah TV",
-            "iptv_urls": [
-                "https://hls.maahtv.live/hls/stream.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fas",
-            "country": "my",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Ip5GJ74gCc0WVs",
-            "name": "Astro Box Office Thangathirai",
-            "iptv_urls": [
-                "https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "msa",
-            "country": "my",
-            "isGeoBlocked": false
-        }
-    ],
     "legislative": [
         {
             "nanoid": "b9eQGrQfCzFYHL",
@@ -140,6 +81,41 @@
             "youtube_urls": [
                 "https://www.youtube-nocookie.com/embed/mkVyNaGee8A"
             ],
+            "language": "msa",
+            "country": "my",
+            "isGeoBlocked": false
+        }
+    ],
+    "movies": [
+        {
+            "nanoid": "xJcplFZvvoAwWP",
+            "name": "Maah TV",
+            "iptv_urls": [
+                "https://hls.maahtv.live/hls/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fas",
+            "country": "my",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "6eFuOUCYQJygt5",
+            "name": "Dunia Sinema",
+            "iptv_urls": [
+                "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "msa",
+            "country": "my",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Ip5GJ74gCc0WVs",
+            "name": "Astro Box Office Thangathirai",
+            "iptv_urls": [
+                "https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8"
+            ],
+            "youtube_urls": [],
             "language": "msa",
             "country": "my",
             "isGeoBlocked": false

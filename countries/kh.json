@@ -1,4 +1,17 @@
 {
+    "entertainment": [
+        {
+            "nanoid": "Qpem3hrPjq4VqQ",
+            "name": "My TV",
+            "iptv_urls": [
+                "https://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "khm",
+            "country": "kh",
+            "isGeoBlocked": false
+        }
+    ],
     "education": [
         {
             "nanoid": "JliijnACP4jH0u",
@@ -16,52 +29,6 @@
             "name": "TVK 2",
             "iptv_urls": [
                 "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "khm",
-            "country": "kh",
-            "isGeoBlocked": false
-        }
-    ],
-    "news": [
-        {
-            "nanoid": "6E7iTwjCqI3s7i",
-            "name": "BTV News",
-            "iptv_urls": [
-                "https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "khm",
-            "country": "kh",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "KFIFBJTv8WwBLR",
-            "name": "Fresh News",
-            "iptv_urls": [
-                "https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "khm",
-            "country": "kh",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "sFPfedqXXPJW5f",
-            "name": "EAC News TV",
-            "iptv_urls": [
-                "https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "kh",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "kaw9gAODRE7fwM",
-            "name": "CNC",
-            "iptv_urls": [
-                "https://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "khm",
@@ -93,13 +60,13 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "YIjIVSot1z9UDS",
-            "name": "CTV8 HD",
+            "nanoid": "9v7vzS3xsxjDYS",
+            "name": "Apsara TV11",
             "iptv_urls": [
-                "https://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8"
+                "https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8"
             ],
             "youtube_urls": [],
-            "language": "khm",
+            "language": "fra",
             "country": "kh",
             "isGeoBlocked": false
         },
@@ -115,13 +82,13 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "9v7vzS3xsxjDYS",
-            "name": "Apsara TV11",
+            "nanoid": "YIjIVSot1z9UDS",
+            "name": "CTV8 HD",
             "iptv_urls": [
-                "https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8"
+                "https://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8"
             ],
             "youtube_urls": [],
-            "language": "fra",
+            "language": "khm",
             "country": "kh",
             "isGeoBlocked": false
         }
@@ -194,17 +161,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "g4A3bB8HmwN8Zj",
-            "name": "CTV 9",
-            "iptv_urls": [
-                "https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "khm",
-            "country": "kh",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "YY9NfXqZlAyphj",
             "name": "CTN",
             "iptv_urls": [
@@ -214,14 +170,58 @@
             "language": "khm",
             "country": "kh",
             "isGeoBlocked": false
+        },
+        {
+            "nanoid": "g4A3bB8HmwN8Zj",
+            "name": "CTV 9",
+            "iptv_urls": [
+                "https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "khm",
+            "country": "kh",
+            "isGeoBlocked": false
         }
     ],
-    "entertainment": [
+    "news": [
         {
-            "nanoid": "Qpem3hrPjq4VqQ",
-            "name": "My TV",
+            "nanoid": "6E7iTwjCqI3s7i",
+            "name": "BTV News",
             "iptv_urls": [
-                "https://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8"
+                "https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "khm",
+            "country": "kh",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "kaw9gAODRE7fwM",
+            "name": "CNC",
+            "iptv_urls": [
+                "https://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "khm",
+            "country": "kh",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "sFPfedqXXPJW5f",
+            "name": "EAC News TV",
+            "iptv_urls": [
+                "https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "kh",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "KFIFBJTv8WwBLR",
+            "name": "Fresh News",
+            "iptv_urls": [
+                "https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "khm",

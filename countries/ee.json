@@ -1,17 +1,4 @@
 {
-    "entertainment": [
-        {
-            "nanoid": "tzMdrs8CBQFjjA",
-            "name": "ETV+",
-            "iptv_urls": [
-                "https://sb.err.ee/live/etvpluss.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "rus",
-            "country": "ee",
-            "isGeoBlocked": false
-        }
-    ],
     "other": [
         {
             "nanoid": "KXxablFS9hsUuC",
@@ -47,6 +34,19 @@
             ],
             "youtube_urls": [],
             "language": "est",
+            "country": "ee",
+            "isGeoBlocked": false
+        }
+    ],
+    "entertainment": [
+        {
+            "nanoid": "tzMdrs8CBQFjjA",
+            "name": "ETV+",
+            "iptv_urls": [
+                "https://sb.err.ee/live/etvpluss.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "rus",
             "country": "ee",
             "isGeoBlocked": false
         }
@@ -110,17 +110,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "cfanZ222I0y1eN",
-            "name": "DanceTV Melodic Tech",
-            "iptv_urls": [
-                "https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "ee",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "iJEOwv6A3pLbpA",
             "name": "DanceTV Deep House District",
             "iptv_urls": [
@@ -158,6 +147,17 @@
             "name": "Best of Dance TV",
             "iptv_urls": [
                 "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "ee",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "cfanZ222I0y1eN",
+            "name": "DanceTV Melodic Tech",
+            "iptv_urls": [
+                "https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8"
             ],
             "youtube_urls": [],
             "language": "eng",

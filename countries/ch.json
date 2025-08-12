@@ -1,4 +1,28 @@
 {
+    "music": [
+        {
+            "nanoid": "Xd3CFrHmzj9MdH",
+            "name": "RADIO DISCOunt TV",
+            "iptv_urls": [
+                "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ita",
+            "country": "ch",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "v1yMI7GiExjw2o",
+            "name": "Couleur 3",
+            "iptv_urls": [
+                "https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fra",
+            "country": "ch",
+            "isGeoBlocked": false
+        }
+    ],
     "religious": [
         {
             "nanoid": "EzfREO7iOpkG6H",
@@ -52,30 +76,6 @@
             ],
             "youtube_urls": [],
             "language": "deu",
-            "country": "ch",
-            "isGeoBlocked": false
-        }
-    ],
-    "music": [
-        {
-            "nanoid": "Xd3CFrHmzj9MdH",
-            "name": "RADIO DISCOunt TV",
-            "iptv_urls": [
-                "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ita",
-            "country": "ch",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "v1yMI7GiExjw2o",
-            "name": "Couleur 3",
-            "iptv_urls": [
-                "https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fra",
             "country": "ch",
             "isGeoBlocked": false
         }
@@ -187,17 +187,6 @@
     ],
     "general": [
         {
-            "nanoid": "WbRuzq9zl8hxl0",
-            "name": "TV Rheintal",
-            "iptv_urls": [
-                "https://rtmp-vm.fidion.de/live/tvrt.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
-            "country": "ch",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "0RqtIAyVI7N1Ym",
             "name": "Drita TV",
             "iptv_urls": [
@@ -205,6 +194,17 @@
             ],
             "youtube_urls": [],
             "language": "sqi",
+            "country": "ch",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "WbRuzq9zl8hxl0",
+            "name": "TV Rheintal",
+            "iptv_urls": [
+                "https://rtmp-vm.fidion.de/live/tvrt.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
             "country": "ch",
             "isGeoBlocked": false
         },
@@ -227,6 +227,19 @@
             ],
             "youtube_urls": [],
             "language": "fra",
+            "country": "ch",
+            "isGeoBlocked": false
+        }
+    ],
+    "lifestyle": [
+        {
+            "nanoid": "dL9dqEvKPfjTXy",
+            "name": "QS24.tv",
+            "iptv_urls": [
+                "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "deu",
             "country": "ch",
             "isGeoBlocked": false
         }
@@ -275,19 +288,6 @@
             ],
             "youtube_urls": [],
             "language": "fra",
-            "country": "ch",
-            "isGeoBlocked": false
-        }
-    ],
-    "lifestyle": [
-        {
-            "nanoid": "dL9dqEvKPfjTXy",
-            "name": "QS24.tv",
-            "iptv_urls": [
-                "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "deu",
             "country": "ch",
             "isGeoBlocked": false
         }

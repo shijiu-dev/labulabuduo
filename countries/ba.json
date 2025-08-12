@@ -1,4 +1,21 @@
 {
+    "news": [
+        {
+            "nanoid": "zh9sC18xylYPpf",
+            "name": "Al Jazeera Balkans",
+            "iptv_urls": [
+                "https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8",
+                "https://live-hls-web-ajb-fa.thehlive.com/AJB/index.m3u8",
+                "https://live-hls-web-ajb.getaj.net/AJB/index.m3u8"
+            ],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/y8JcLOL4yiQ"
+            ],
+            "language": "hbs",
+            "country": "ba",
+            "isGeoBlocked": false
+        }
+    ],
     "general": [
         {
             "nanoid": "aDxZ6NMX7FAxtt",
@@ -23,17 +40,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "yLVZgzeSuuMtfC",
-            "name": "NTV IC Kakanj",
-            "iptv_urls": [
-                "https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "bos",
-            "country": "ba",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "akWVtaxPSDAixs",
             "name": "RTV Herceg-Bosne",
             "iptv_urls": [
@@ -41,6 +47,17 @@
             ],
             "youtube_urls": [],
             "language": "hrv",
+            "country": "ba",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "yLVZgzeSuuMtfC",
+            "name": "NTV IC Kakanj",
+            "iptv_urls": [
+                "https://lon.rtsp.me/dEqnY-myGj84bKrieCIPfA/1743271667/hls/3dH3YAD6.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "bos",
             "country": "ba",
             "isGeoBlocked": false
         }
@@ -58,17 +75,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "WcSJpdrhx3iG3n",
-            "name": "RTV Zenica",
-            "iptv_urls": [
-                "https://stream.rtvze.ba/live/123/123.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "bos",
-            "country": "ba",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "cGCfabM57ZrmEH",
             "name": "BN TV",
             "iptv_urls": [
@@ -78,21 +84,15 @@
             "language": "srp",
             "country": "ba",
             "isGeoBlocked": false
-        }
-    ],
-    "news": [
+        },
         {
-            "nanoid": "zh9sC18xylYPpf",
-            "name": "Al Jazeera Balkans",
+            "nanoid": "WcSJpdrhx3iG3n",
+            "name": "RTV Zenica",
             "iptv_urls": [
-                "https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8",
-                "https://live-hls-web-ajb-fa.thehlive.com/AJB/index.m3u8",
-                "https://live-hls-web-ajb.getaj.net/AJB/index.m3u8"
+                "https://stream.rtvze.ba/live/123/123.m3u8"
             ],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/y8JcLOL4yiQ"
-            ],
-            "language": "hbs",
+            "youtube_urls": [],
+            "language": "bos",
             "country": "ba",
             "isGeoBlocked": false
         }

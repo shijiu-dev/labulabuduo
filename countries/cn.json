@@ -12,17 +12,6 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "l2c248PtwB0qu4",
-            "name": "Guangzhou TV",
-            "iptv_urls": [
-                "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "zho",
-            "country": "cn",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "1by9GcHy62iZ4M",
             "name": "QTV-5",
             "iptv_urls": [
@@ -34,12 +23,12 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "oxYQjuprLnH9X5",
-            "name": "CCTV-4\u4e2d\u6587\u56fd\u9645",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/SdzewdkJa-o"
+            "nanoid": "l2c248PtwB0qu4",
+            "name": "Guangzhou TV",
+            "iptv_urls": [
+                "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8"
             ],
+            "youtube_urls": [],
             "language": "zho",
             "country": "cn",
             "isGeoBlocked": false
@@ -56,10 +45,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "v5Etfhhhhl9Em5",
-            "name": "QTV-4",
+            "nanoid": "R2SxqXmMX9bpWJ",
+            "name": "Jiangxi Public & Agriculture Channel",
             "iptv_urls": [
-                "https://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8"
+                "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8"
             ],
             "youtube_urls": [],
             "language": "zho",
@@ -67,10 +56,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "R2SxqXmMX9bpWJ",
-            "name": "Jiangxi Public & Agriculture Channel",
+            "nanoid": "v5Etfhhhhl9Em5",
+            "name": "QTV-4",
             "iptv_urls": [
-                "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8"
+                "https://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8"
             ],
             "youtube_urls": [],
             "language": "zho",
@@ -131,17 +120,6 @@
             ],
             "youtube_urls": [],
             "language": "spa",
-            "country": "cn",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "HWaY4PvApDJTzN",
-            "name": "CGTN Europe",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/_6dRRfnYJws"
-            ],
-            "language": "eng",
             "country": "cn",
             "isGeoBlocked": false
         },
@@ -502,23 +480,45 @@
             "isGeoBlocked": false
         }
     ],
-    "kids": [
+    "lifestyle": [
         {
-            "nanoid": "0REjP55mYk4y0F",
-            "name": "\u5c0f\u732a\u4f69\u5947 \u4e2d\u6587\u5b98\u65b9 - Peppa Pig",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/hXiqjTNLad0"
+            "nanoid": "KVsjP0kIbz2vIV",
+            "name": "QTV-6",
+            "iptv_urls": [
+                "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
             ],
+            "youtube_urls": [],
             "language": "zho",
             "country": "cn",
             "isGeoBlocked": false
         },
         {
-            "nanoid": "LZif3PhiUHUfCZ",
-            "name": "Nei Monggol TV Children Channel",
+            "nanoid": "3kTOhBpgQ0Uh7W",
+            "name": "Jilin City Channel",
             "iptv_urls": [
-                "https://play1-qk.nmtv.cn/live/1686560464515368.m3u8"
+                "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "zho",
+            "country": "cn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "ozrwv5yOFSMLm3",
+            "name": "QTV-2",
+            "iptv_urls": [
+                "https://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "zho",
+            "country": "cn",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "1orkHxhR4QcJm2",
+            "name": "Jilin Lifestyle Channel",
+            "iptv_urls": [
+                "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "zho",
@@ -588,45 +588,12 @@
             "isGeoBlocked": false
         }
     ],
-    "lifestyle": [
+    "entertainment": [
         {
-            "nanoid": "3kTOhBpgQ0Uh7W",
-            "name": "Jilin City Channel",
+            "nanoid": "2hbQO3xj7tnz7m",
+            "name": "Panzihihua Culture Tourism & Life Channel",
             "iptv_urls": [
-                "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "zho",
-            "country": "cn",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "KVsjP0kIbz2vIV",
-            "name": "QTV-6",
-            "iptv_urls": [
-                "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "zho",
-            "country": "cn",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "ozrwv5yOFSMLm3",
-            "name": "QTV-2",
-            "iptv_urls": [
-                "https://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "zho",
-            "country": "cn",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "1orkHxhR4QcJm2",
-            "name": "Jilin Lifestyle Channel",
-            "iptv_urls": [
-                "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8"
+                "https://live.pzhkai.com/wlshtl/sd/live.m3u8?_upt=f156a1051729836828"
             ],
             "youtube_urls": [],
             "language": "zho",
@@ -634,12 +601,12 @@
             "isGeoBlocked": false
         }
     ],
-    "entertainment": [
+    "kids": [
         {
-            "nanoid": "2hbQO3xj7tnz7m",
-            "name": "Panzihihua Culture Tourism & Life Channel",
+            "nanoid": "LZif3PhiUHUfCZ",
+            "name": "Nei Monggol TV Children Channel",
             "iptv_urls": [
-                "https://live.pzhkai.com/wlshtl/sd/live.m3u8?_upt=f156a1051729836828"
+                "https://play1-qk.nmtv.cn/live/1686560464515368.m3u8"
             ],
             "youtube_urls": [],
             "language": "zho",

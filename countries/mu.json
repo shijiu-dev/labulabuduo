@@ -1,13 +1,13 @@
 {
-    "movies": [
+    "entertainment": [
         {
-            "nanoid": "UOnIKye7tIIHXd",
-            "name": "MBC 2",
+            "nanoid": "DwykJ6RWQ9r9ET",
+            "name": "MBC 4",
             "iptv_urls": [
-                "https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8"
+                "https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel4/index.m3u8"
             ],
             "youtube_urls": [],
-            "language": "fra",
+            "language": "hin",
             "country": "mu",
             "isGeoBlocked": false
         }
@@ -25,15 +25,15 @@
             "isGeoBlocked": false
         }
     ],
-    "entertainment": [
+    "movies": [
         {
-            "nanoid": "DwykJ6RWQ9r9ET",
-            "name": "MBC 4",
+            "nanoid": "UOnIKye7tIIHXd",
+            "name": "MBC 2",
             "iptv_urls": [
-                "https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel4/index.m3u8"
+                "https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8"
             ],
             "youtube_urls": [],
-            "language": "hin",
+            "language": "fra",
             "country": "mu",
             "isGeoBlocked": false
         }

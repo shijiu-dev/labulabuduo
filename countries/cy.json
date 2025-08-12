@@ -128,20 +128,18 @@
             "isGeoBlocked": false
         }
     ],
-    "news": [
+    "general": [
         {
-            "nanoid": "BSMlHDKm52ngsP",
-            "name": "Kibris Gen\u00e7 TV",
+            "nanoid": "50XWlvMc7fhB99",
+            "name": "Kibris Kanal T",
             "iptv_urls": [
-                "https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8"
+                "https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "tur",
             "country": "cy",
             "isGeoBlocked": false
-        }
-    ],
-    "general": [
+        },
         {
             "nanoid": "LxPx465GbiCWeH",
             "name": "Kanal Sim",
@@ -163,12 +161,14 @@
             "language": "tur",
             "country": "cy",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "news": [
         {
-            "nanoid": "50XWlvMc7fhB99",
-            "name": "Kibris Kanal T",
+            "nanoid": "BSMlHDKm52ngsP",
+            "name": "Kibris Gen\u00e7 TV",
             "iptv_urls": [
-                "https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8"
+                "https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "tur",

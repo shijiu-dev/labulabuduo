@@ -35,6 +35,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "etg1QtG5OKYo2P",
+            "name": "Kordia TV",
+            "iptv_urls": [
+                "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "nz",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "ouzJTzWehzRiyY",
             "name": "CineView",
             "iptv_urls": [
@@ -53,30 +64,6 @@
             ],
             "youtube_urls": [],
             "language": "",
-            "country": "nz",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "etg1QtG5OKYo2P",
-            "name": "Kordia TV",
-            "iptv_urls": [
-                "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "nz",
-            "isGeoBlocked": false
-        }
-    ],
-    "entertainment": [
-        {
-            "nanoid": "yqNEGGubRnfXQA",
-            "name": "Rush NZ",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/47UuBxCn6e4"
-            ],
-            "language": "eng",
             "country": "nz",
             "isGeoBlocked": false
         }

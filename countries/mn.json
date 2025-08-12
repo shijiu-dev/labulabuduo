@@ -1,23 +1,10 @@
 {
-    "entertainment": [
-        {
-            "nanoid": "P7g6QNTVCdx38r",
-            "name": "Dream TV",
-            "iptv_urls": [
-                "https://cdn3.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "mon",
-            "country": "mn",
-            "isGeoBlocked": false
-        }
-    ],
     "general": [
         {
-            "nanoid": "yRtxXNRanqtYe0",
-            "name": "UBS",
+            "nanoid": "8SsVY1ECEode41",
+            "name": "TV9",
             "iptv_urls": [
-                "https://cdn3.skygo.mn/live/disk1/UBSHD/HLS-FTA/UBSHD.m3u8"
+                "https://cdn2.skygo.mn/live/disk1/TV9HD/HLS-FTA/TV9HD.m3u8"
             ],
             "youtube_urls": [],
             "language": "mon",
@@ -25,10 +12,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "8SsVY1ECEode41",
-            "name": "TV9",
+            "nanoid": "yRtxXNRanqtYe0",
+            "name": "UBS",
             "iptv_urls": [
-                "https://cdn2.skygo.mn/live/disk1/TV9HD/HLS-FTA/TV9HD.m3u8"
+                "https://cdn3.skygo.mn/live/disk1/UBSHD/HLS-FTA/UBSHD.m3u8"
             ],
             "youtube_urls": [],
             "language": "mon",
@@ -185,6 +172,17 @@
             "isGeoBlocked": false
         },
         {
+            "nanoid": "mZE53UrX28LXJ5",
+            "name": "MNB \u0413\u044d\u0440 \u0431\u04af\u043b",
+            "iptv_urls": [
+                "https://live.mnb.mn/hls/mnb_family.stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "mn",
+            "isGeoBlocked": false
+        },
+        {
             "nanoid": "avcRNsWqoTWnAw",
             "name": "Education",
             "iptv_urls": [
@@ -194,15 +192,17 @@
             "language": "",
             "country": "mn",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "sports": [
         {
-            "nanoid": "mZE53UrX28LXJ5",
-            "name": "MNB \u0413\u044d\u0440 \u0431\u04af\u043b",
+            "nanoid": "WjzlJmHsxUPxpZ",
+            "name": "MNB Sport",
             "iptv_urls": [
-                "https://live.mnb.mn/hls/mnb_family.stream.m3u8"
+                "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
             ],
             "youtube_urls": [],
-            "language": "",
+            "language": "mon",
             "country": "mn",
             "isGeoBlocked": false
         }
@@ -213,6 +213,19 @@
             "name": "Bloomberg TV Mongolia HD",
             "iptv_urls": [
                 "https://cdn3.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "mon",
+            "country": "mn",
+            "isGeoBlocked": false
+        }
+    ],
+    "entertainment": [
+        {
+            "nanoid": "P7g6QNTVCdx38r",
+            "name": "Dream TV",
+            "iptv_urls": [
+                "https://cdn3.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8"
             ],
             "youtube_urls": [],
             "language": "mon",
@@ -237,19 +250,6 @@
             "name": "ETV",
             "iptv_urls": [
                 "https://cdn3.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "mon",
-            "country": "mn",
-            "isGeoBlocked": false
-        }
-    ],
-    "sports": [
-        {
-            "nanoid": "WjzlJmHsxUPxpZ",
-            "name": "MNB Sport",
-            "iptv_urls": [
-                "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
             ],
             "youtube_urls": [],
             "language": "mon",

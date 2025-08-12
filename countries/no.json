@@ -1,28 +1,4 @@
 {
-    "general": [
-        {
-            "nanoid": "3k90CtKPqTFnro",
-            "name": "TV \u00d8stfold",
-            "iptv_urls": [
-                "https://streamnorge.com:8088/hls/tvo.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nor",
-            "country": "no",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "0ZKqPaQpJfT5Pe",
-            "name": "Frikanalen",
-            "iptv_urls": [
-                "https://frikanalen.no/stream/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "nor",
-            "country": "no",
-            "isGeoBlocked": false
-        }
-    ],
     "auto": [
         {
             "nanoid": "gype1Rdsg8nVpE",
@@ -33,6 +9,30 @@
             ],
             "youtube_urls": [],
             "language": "eng",
+            "country": "no",
+            "isGeoBlocked": false
+        }
+    ],
+    "general": [
+        {
+            "nanoid": "0ZKqPaQpJfT5Pe",
+            "name": "Frikanalen",
+            "iptv_urls": [
+                "https://frikanalen.no/stream/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nor",
+            "country": "no",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "3k90CtKPqTFnro",
+            "name": "TV \u00d8stfold",
+            "iptv_urls": [
+                "https://streamnorge.com:8088/hls/tvo.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "nor",
             "country": "no",
             "isGeoBlocked": false
         }

@@ -1,10 +1,10 @@
 {
-    "sports": [
+    "religious": [
         {
-            "nanoid": "8fQhR4m1vT0J5n",
-            "name": "Dubai Sports 3",
+            "nanoid": "OijQbjwV7a9kgP",
+            "name": "Sharjah 2",
             "iptv_urls": [
-                "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8"
+                "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -12,10 +12,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "UPkHrsKiFjmLP4",
-            "name": "Sharjah Sports TV",
+            "nanoid": "CyJbsBUb4heHpw",
+            "name": "Noor Dubai",
             "iptv_urls": [
-                "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
+                "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -23,10 +23,21 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "gheSDFEMaPiSYU",
-            "name": "Dubai Sports 1",
+            "nanoid": "tjO1W5XivBV60a",
+            "name": "Nour TV",
             "iptv_urls": [
-                "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8"
+                "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fas",
+            "country": "ae",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "8RMhUftFipxVz5",
+            "name": "Sharjah Radio Quran",
+            "iptv_urls": [
+                "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -34,43 +45,11 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "LDOUdB0YT96Fy3",
-            "name": "Dubai Sports 2",
+            "nanoid": "RC2hZ1z0vrHMtE",
+            "name": "Sharjah TV",
             "iptv_urls": [
-                "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "CLmt4qMWKgdRSD",
-            "name": "Dubai Racing 3",
-            "iptv_urls": [
-                "https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "GE37pCdEhOkN7g",
-            "name": "Dubai Racing 2",
-            "iptv_urls": [
-                "https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "3GLrMzIr2H1nF3",
-            "name": "Dubai Racing",
-            "iptv_urls": [
-                "https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8"
+                "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
+                "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -78,29 +57,44 @@
             "isGeoBlocked": false
         }
     ],
+    "classic": [
+        {
+            "nanoid": "NpgtvD38qnisOV",
+            "name": "Dubai Zaman",
+            "iptv_urls": [
+                "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "ae",
+            "isGeoBlocked": false
+        }
+    ],
+    "entertainment": [
+        {
+            "nanoid": "NCWWidJrVWnWto",
+            "name": "Fujairah TV",
+            "iptv_urls": [
+                "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "ae",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "UjnCLfmZ5c3yRj",
+            "name": "MBC Persia",
+            "iptv_urls": [
+                "https://hls.mbcpersia.live/hls/stream.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "fas",
+            "country": "ae",
+            "isGeoBlocked": false
+        }
+    ],
     "general": [
-        {
-            "nanoid": "o7f2wdALXEzHZs",
-            "name": "Ajman TV",
-            "iptv_urls": [
-                "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "43meg58mA5npya",
-            "name": "Dubai TV",
-            "iptv_urls": [
-                "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
         {
             "nanoid": "jWX1o5DgYHNM3w",
             "name": "MBC 1",
@@ -128,6 +122,17 @@
             "name": "Sharjah Radio",
             "iptv_urls": [
                 "https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "ae",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "o7f2wdALXEzHZs",
+            "name": "Ajman TV",
+            "iptv_urls": [
+                "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -188,41 +193,15 @@
             "language": "eng",
             "country": "ae",
             "isGeoBlocked": false
-        }
-    ],
-    "classic": [
-        {
-            "nanoid": "NpgtvD38qnisOV",
-            "name": "Dubai Zaman",
-            "iptv_urls": [
-                "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        }
-    ],
-    "entertainment": [
-        {
-            "nanoid": "NCWWidJrVWnWto",
-            "name": "Fujairah TV",
-            "iptv_urls": [
-                "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
         },
         {
-            "nanoid": "UjnCLfmZ5c3yRj",
-            "name": "MBC Persia",
+            "nanoid": "43meg58mA5npya",
+            "name": "Dubai TV",
             "iptv_urls": [
-                "https://hls.mbcpersia.live/hls/stream.m3u8"
+                "https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8"
             ],
             "youtube_urls": [],
-            "language": "fas",
+            "language": "ara",
             "country": "ae",
             "isGeoBlocked": false
         }
@@ -249,51 +228,6 @@
             "language": "ara",
             "country": "ae",
             "isGeoBlocked": false
-        },
-        {
-            "nanoid": "mZmbWEboh9MGPf",
-            "name": "The Smurfs: \u0627\u0644\u0633\u0646\u0627\u0641\u0631",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/ZtlLvu8H1OY"
-            ],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "SWuJf6pJ5H5SBG",
-            "name": "\u0627\u0648\u0643\u0648 \u0644\u064a\u0644\u064a \u0627\u0644\u0642\u0646\u0627\u0629 \u0627\u0644\u0631\u0633\u0645\u064a\u0629 1",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/xcewcAUDUTg"
-            ],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "rVlkWuhkPTSNkw",
-            "name": "Cartoonito MENA",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/0rmD2U18t2I"
-            ],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "QFKHFoExvGyTwt",
-            "name": "Cartoon Network",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/Ju7CEfAaGqQ",
-                "https://www.youtube-nocookie.com/embed/uUCTOHriQCg"
-            ],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
         }
     ],
     "music": [
@@ -310,65 +244,20 @@
             "isGeoBlocked": false
         }
     ],
-    "religious": [
-        {
-            "nanoid": "CyJbsBUb4heHpw",
-            "name": "Noor Dubai",
-            "iptv_urls": [
-                "https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "tjO1W5XivBV60a",
-            "name": "Nour TV",
-            "iptv_urls": [
-                "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "fas",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "OijQbjwV7a9kgP",
-            "name": "Sharjah 2",
-            "iptv_urls": [
-                "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "8RMhUftFipxVz5",
-            "name": "Sharjah Radio Quran",
-            "iptv_urls": [
-                "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "RC2hZ1z0vrHMtE",
-            "name": "Sharjah TV",
-            "iptv_urls": [
-                "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
-                "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        }
-    ],
     "news": [
+        {
+            "nanoid": "kkVzrzXzjFuUCN",
+            "name": "Al Arabiya",
+            "iptv_urls": [
+                "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [
+                "https://www.youtube-nocookie.com/embed/n7eQejkXbnM"
+            ],
+            "language": "ara",
+            "country": "ae",
+            "isGeoBlocked": false
+        },
         {
             "nanoid": "lHA8lYSDtLC5LR",
             "name": "Sky News Arabia",
@@ -390,19 +279,6 @@
                 "https://stream.skynewsarabia.com/vertical/vertical.m3u8"
             ],
             "youtube_urls": [],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "kkVzrzXzjFuUCN",
-            "name": "Al Arabiya",
-            "iptv_urls": [
-                "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/n7eQejkXbnM"
-            ],
             "language": "ara",
             "country": "ae",
             "isGeoBlocked": false
@@ -441,14 +317,82 @@
             "language": "ara",
             "country": "ae",
             "isGeoBlocked": false
+        }
+    ],
+    "sports": [
+        {
+            "nanoid": "UPkHrsKiFjmLP4",
+            "name": "Sharjah Sports TV",
+            "iptv_urls": [
+                "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "ae",
+            "isGeoBlocked": false
         },
         {
-            "nanoid": "URU3r9PZvWBdLZ",
-            "name": "CNBC Arabia",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/0uAlQy9Wwu0"
+            "nanoid": "8fQhR4m1vT0J5n",
+            "name": "Dubai Sports 3",
+            "iptv_urls": [
+                "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8"
             ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "ae",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "3GLrMzIr2H1nF3",
+            "name": "Dubai Racing",
+            "iptv_urls": [
+                "https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "ae",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "GE37pCdEhOkN7g",
+            "name": "Dubai Racing 2",
+            "iptv_urls": [
+                "https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "ae",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "CLmt4qMWKgdRSD",
+            "name": "Dubai Racing 3",
+            "iptv_urls": [
+                "https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "ae",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "gheSDFEMaPiSYU",
+            "name": "Dubai Sports 1",
+            "iptv_urls": [
+                "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "ae",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "LDOUdB0YT96Fy3",
+            "name": "Dubai Sports 2",
+            "iptv_urls": [
+                "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8"
+            ],
+            "youtube_urls": [],
             "language": "ara",
             "country": "ae",
             "isGeoBlocked": false
@@ -491,34 +435,12 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "ymEZZ9kXLlqF9g",
-            "name": "Asharq Business \u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0634\u0631\u0642",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/hXKYpuTEwqk"
-            ],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
-        {
             "nanoid": "acbY5wCKKgtMnI",
             "name": "CNBC Arabiya",
             "iptv_urls": [
                 "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
             ],
             "youtube_urls": [],
-            "language": "ara",
-            "country": "ae",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "YYEqzQiS4ARl9R",
-            "name": "Al-Arabiya Business",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/PeKBfM_mcRo"
-            ],
             "language": "ara",
             "country": "ae",
             "isGeoBlocked": false

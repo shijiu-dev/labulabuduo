@@ -1,238 +1,21 @@
 {
-    "music": [
-        {
-            "nanoid": "3FPl5RIfISFiTh",
-            "name": "PRIDEtv LATAM",
-            "iptv_urls": [
-                "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
-                "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "0C2d9cgVcqnI9d",
-            "name": "SoloB\u00e1ilalo",
-            "iptv_urls": [
-                "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
-                "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "wqtEMGQtkW2vmM",
-            "name": "Radio Suyai TV",
-            "iptv_urls": [
-                "https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "3UIRfQdeDlPsdL",
-            "name": "V Classic TV",
-            "iptv_urls": [
-                "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "TmOaWV1T2skQNx",
-            "name": "AE Radio TV",
-            "iptv_urls": [
-                "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "8OOs9QhQf490ir",
-            "name": "Dance FM",
-            "iptv_urls": [
-                "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "ratiMYbPjlz1Pp",
-            "name": "EnerGeek Radio",
-            "iptv_urls": [
-                "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        }
-    ],
-    "business": [
-        {
-            "nanoid": "Buf371rRZBbDSG",
-            "name": "Tevex",
-            "iptv_urls": [
-                "https://v4.tustreaming.cl/tevexinter/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        }
-    ],
-    "general": [
-        {
-            "nanoid": "mvCL9CmKOhlNrJ",
-            "name": "Televisi\u00f3n del Senado",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/1_3DHk8v1ss"
-            ],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "9LYMpZbMSRFBE5",
-            "name": "SUR TV",
-            "iptv_urls": [
-                "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "0574FiKH0K8Wsu",
-            "name": "Canal SCN",
-            "iptv_urls": [
-                "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "dmSkx9ZqRcdIYu",
-            "name": "Nublevision",
-            "iptv_urls": [
-                "https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "9jkb1tHOSl1q2X",
-            "name": "Aysen TV",
-            "iptv_urls": [
-                "https://v1.tustreaming.cl/aysentv/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "IGNi5kMNzh3DBS",
-            "name": "Antofagasta TV (ATV)",
-            "iptv_urls": [
-                "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "qrJk7Z0w2ndHZn",
-            "name": "13C",
-            "iptv_urls": [
-                "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "iJh8Kg1XVtg3h8",
-            "name": "Nativa TV",
-            "iptv_urls": [
-                "https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "LtuGw8CUEvQRPo",
-            "name": "La Popular TV",
-            "iptv_urls": [
-                "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "B06Trbkq5ZZMBH",
-            "name": "ITV Patagonia",
-            "iptv_urls": [
-                "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "6AKwsDAUNYtLKH",
-            "name": "D\u00e9cima TV (Ancud)",
-            "iptv_urls": [
-                "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        }
-    ],
     "religious": [
-        {
-            "nanoid": "v7CKSlcO8gjGok",
-            "name": "Televida",
-            "iptv_urls": [
-                "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
         {
             "nanoid": "k0nYFEHOKnqOiZ",
             "name": "TNE",
             "iptv_urls": [
                 "https://v2.tustreaming.cl/tnetv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "v7CKSlcO8gjGok",
+            "name": "Televida",
+            "iptv_urls": [
+                "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -262,30 +45,6 @@
             "isGeoBlocked": false
         }
     ],
-    "sports": [
-        {
-            "nanoid": "okKQ8KDUVqmzeR",
-            "name": "Teletrak",
-            "iptv_urls": [
-                "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "aE41LbUT8Fnd7w",
-            "name": "Turf Movil",
-            "iptv_urls": [
-                "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        }
-    ],
     "other": [
         {
             "nanoid": "8fkAASWc8aexqU",
@@ -293,6 +52,17 @@
             "iptv_urls": [
                 "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
                 "https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Oy8jyQL0s9urXw",
+            "name": "Tele 2 Web (Retiro)",
+            "iptv_urls": [
+                "https://inliveserver.com:1936/11516/11516/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -359,17 +129,6 @@
             "name": "U Los Lagos TV",
             "iptv_urls": [
                 "https://tv.ulagos.cl/web/live.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Oy8jyQL0s9urXw",
-            "name": "Tele 2 Web (Retiro)",
-            "iptv_urls": [
-                "https://inliveserver.com:1936/11516/11516/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -588,23 +347,25 @@
             "isGeoBlocked": false
         }
     ],
-    "news": [
+    "business": [
         {
-            "nanoid": "jngXF7oLunOTve",
-            "name": "T13",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/R_V7FhsCPwM"
+            "nanoid": "Buf371rRZBbDSG",
+            "name": "Tevex",
+            "iptv_urls": [
+                "https://v4.tustreaming.cl/tevexinter/index.m3u8"
             ],
+            "youtube_urls": [],
             "language": "spa",
             "country": "cl",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "sports": [
         {
-            "nanoid": "zjUM7zUUhBPTQU",
-            "name": "Puranoticia TV",
+            "nanoid": "okKQ8KDUVqmzeR",
+            "name": "Teletrak",
             "iptv_urls": [
-                "https://pnt.janusmedia.tv/hls/pnt.m3u8"
+                "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -612,54 +373,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "fJikHBvZcviret",
-            "name": "Chilevisi\u00f3n",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/Xao31cGWl5s"
-            ],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Kc3HHZPOGrmJWv",
-            "name": "Atacama Noticias",
+            "nanoid": "aE41LbUT8Fnd7w",
+            "name": "Turf Movil",
             "iptv_urls": [
-                "https://v2.tustreaming.cl/atacamanoticias/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Z1XG0CWTJ230DD",
-            "name": "NCTV",
-            "iptv_urls": [
-                "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "ubJBXevTlFFMsm",
-            "name": "Meganoticias",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/DlERv4EEyg0"
-            ],
-            "language": "spa",
-            "country": "cl",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "i7jOCnWyYw935a",
-            "name": "Contivision",
-            "iptv_urls": [
-                "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8"
+                "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -695,6 +412,245 @@
             "name": "Holvoet TV (Copiap\u00f3)",
             "iptv_urls": [
                 "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        }
+    ],
+    "general": [
+        {
+            "nanoid": "9LYMpZbMSRFBE5",
+            "name": "SUR TV",
+            "iptv_urls": [
+                "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "0574FiKH0K8Wsu",
+            "name": "Canal SCN",
+            "iptv_urls": [
+                "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "dmSkx9ZqRcdIYu",
+            "name": "Nublevision",
+            "iptv_urls": [
+                "https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "9jkb1tHOSl1q2X",
+            "name": "Aysen TV",
+            "iptv_urls": [
+                "https://v1.tustreaming.cl/aysentv/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "IGNi5kMNzh3DBS",
+            "name": "Antofagasta TV (ATV)",
+            "iptv_urls": [
+                "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "qrJk7Z0w2ndHZn",
+            "name": "13C",
+            "iptv_urls": [
+                "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "iJh8Kg1XVtg3h8",
+            "name": "Nativa TV",
+            "iptv_urls": [
+                "https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "LtuGw8CUEvQRPo",
+            "name": "La Popular TV",
+            "iptv_urls": [
+                "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "B06Trbkq5ZZMBH",
+            "name": "ITV Patagonia",
+            "iptv_urls": [
+                "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "6AKwsDAUNYtLKH",
+            "name": "D\u00e9cima TV (Ancud)",
+            "iptv_urls": [
+                "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        }
+    ],
+    "music": [
+        {
+            "nanoid": "0C2d9cgVcqnI9d",
+            "name": "SoloB\u00e1ilalo",
+            "iptv_urls": [
+                "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+                "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "wqtEMGQtkW2vmM",
+            "name": "Radio Suyai TV",
+            "iptv_urls": [
+                "https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "3FPl5RIfISFiTh",
+            "name": "PRIDEtv LATAM",
+            "iptv_urls": [
+                "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
+                "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "3UIRfQdeDlPsdL",
+            "name": "V Classic TV",
+            "iptv_urls": [
+                "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "TmOaWV1T2skQNx",
+            "name": "AE Radio TV",
+            "iptv_urls": [
+                "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "8OOs9QhQf490ir",
+            "name": "Dance FM",
+            "iptv_urls": [
+                "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "ratiMYbPjlz1Pp",
+            "name": "EnerGeek Radio",
+            "iptv_urls": [
+                "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        }
+    ],
+    "news": [
+        {
+            "nanoid": "zjUM7zUUhBPTQU",
+            "name": "Puranoticia TV",
+            "iptv_urls": [
+                "https://pnt.janusmedia.tv/hls/pnt.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Kc3HHZPOGrmJWv",
+            "name": "Atacama Noticias",
+            "iptv_urls": [
+                "https://v2.tustreaming.cl/atacamanoticias/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Z1XG0CWTJ230DD",
+            "name": "NCTV",
+            "iptv_urls": [
+                "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "cl",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "i7jOCnWyYw935a",
+            "name": "Contivision",
+            "iptv_urls": [
+                "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",

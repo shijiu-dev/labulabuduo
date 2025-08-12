@@ -1,139 +1,10 @@
 {
-    "science": [
-        {
-            "nanoid": "JLRlLiosJOhAzH",
-            "name": "UMSA TVU Internacional",
-            "iptv_urls": [
-                "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "bo",
-            "isGeoBlocked": false
-        }
-    ],
-    "religious": [
-        {
-            "nanoid": "bXD4q6ffj1GZXZ",
-            "name": "VTV Canal 17",
-            "iptv_urls": [
-                "https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "bo",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Wrd1kGF3kEDaL6",
-            "name": "Canal 29 TVA",
-            "iptv_urls": [
-                "https://play.agenciastreaming.com:19360/8160/8160.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "bo",
-            "isGeoBlocked": false
-        }
-    ],
-    "other": [
-        {
-            "nanoid": "T3D6a3NyVvl2H9",
-            "name": "UniversidadMayordeSanAndres",
-            "iptv_urls": [
-                "https://live.enhdtv.com:8081/8190/index.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "",
-            "country": "bo",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "hzi4nlNP3J2X8P",
-            "name": "Red CCTV",
-            "iptv_urls": [
-                "https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "eng",
-            "country": "bo",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "9WQ5cB189iew4n",
-            "name": "Gigavision",
-            "iptv_urls": [
-                "https://tv2.bitstreaming.net:3896/multi_web/play.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "bo",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "2TeFmbSu18GnAQ",
-            "name": "Cadena A",
-            "iptv_urls": [
-                "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "bo",
-            "isGeoBlocked": false
-        }
-    ],
-    "news": [
-        {
-            "nanoid": "fcllzx7ENtLcnw",
-            "name": "UMSA TVU LP",
-            "iptv_urls": [
-                "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "bo",
-            "isGeoBlocked": false
-        }
-    ],
     "general": [
         {
-            "nanoid": "h9YZeUd456czhm",
-            "name": "Turbion Digital TV",
+            "nanoid": "YF1mCrSJfaks7u",
+            "name": "IN TV",
             "iptv_urls": [
-                "https://live20.bozztv.com/akamaissh101/ssh101/turbion/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "bo",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "Nm9ZKQh0ejEIjF",
-            "name": "TELE 6",
-            "iptv_urls": [
-                "https://envivo.bolivia-link.com:3337/live/tele6live.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "bo",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "87xKAUIruoYGZK",
-            "name": "TDT Multimedia",
-            "iptv_urls": [
-                "https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "spa",
-            "country": "bo",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "7dI0JWykSvXjne",
-            "name": "PAT La Paz",
-            "iptv_urls": [
-                "https://www.redpat.tv/proxylpz/index.m3u8"
+                "https://envivo.bolivia-link.com:3580/live/intvlive.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -152,10 +23,43 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "YF1mCrSJfaks7u",
-            "name": "IN TV",
+            "nanoid": "7dI0JWykSvXjne",
+            "name": "PAT La Paz",
             "iptv_urls": [
-                "https://envivo.bolivia-link.com:3580/live/intvlive.m3u8"
+                "https://www.redpat.tv/proxylpz/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "bo",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Nm9ZKQh0ejEIjF",
+            "name": "TELE 6",
+            "iptv_urls": [
+                "https://envivo.bolivia-link.com:3337/live/tele6live.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "bo",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "h9YZeUd456czhm",
+            "name": "Turbion Digital TV",
+            "iptv_urls": [
+                "https://live20.bozztv.com/akamaissh101/ssh101/turbion/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "bo",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "87xKAUIruoYGZK",
+            "name": "TDT Multimedia",
+            "iptv_urls": [
+                "https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -185,10 +89,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "hiCZpbwj9latCv",
-            "name": "Coral TV",
+            "nanoid": "xMxBrFq6gsmEkE",
+            "name": "Imperial TV",
             "iptv_urls": [
-                "https://tv.mediacp.eu:8081/coraltv/index.m3u8"
+                "https://play.agenciastreaming.com:19360/8122/8122.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -196,10 +100,10 @@
             "isGeoBlocked": false
         },
         {
-            "nanoid": "xMxBrFq6gsmEkE",
-            "name": "Imperial TV",
+            "nanoid": "hiCZpbwj9latCv",
+            "name": "Coral TV",
             "iptv_urls": [
-                "https://play.agenciastreaming.com:19360/8122/8122.m3u8"
+                "https://tv.mediacp.eu:8081/coraltv/index.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",
@@ -234,6 +138,102 @@
             "name": "Abya Yala TV",
             "iptv_urls": [
                 "https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "bo",
+            "isGeoBlocked": false
+        }
+    ],
+    "other": [
+        {
+            "nanoid": "hzi4nlNP3J2X8P",
+            "name": "Red CCTV",
+            "iptv_urls": [
+                "https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "eng",
+            "country": "bo",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "T3D6a3NyVvl2H9",
+            "name": "UniversidadMayordeSanAndres",
+            "iptv_urls": [
+                "https://live.enhdtv.com:8081/8190/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "",
+            "country": "bo",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "9WQ5cB189iew4n",
+            "name": "Gigavision",
+            "iptv_urls": [
+                "https://tv2.bitstreaming.net:3896/multi_web/play.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "bo",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "2TeFmbSu18GnAQ",
+            "name": "Cadena A",
+            "iptv_urls": [
+                "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "bo",
+            "isGeoBlocked": false
+        }
+    ],
+    "science": [
+        {
+            "nanoid": "JLRlLiosJOhAzH",
+            "name": "UMSA TVU Internacional",
+            "iptv_urls": [
+                "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "bo",
+            "isGeoBlocked": false
+        }
+    ],
+    "news": [
+        {
+            "nanoid": "fcllzx7ENtLcnw",
+            "name": "UMSA TVU LP",
+            "iptv_urls": [
+                "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "bo",
+            "isGeoBlocked": false
+        }
+    ],
+    "religious": [
+        {
+            "nanoid": "bXD4q6ffj1GZXZ",
+            "name": "VTV Canal 17",
+            "iptv_urls": [
+                "https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "spa",
+            "country": "bo",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "Wrd1kGF3kEDaL6",
+            "name": "Canal 29 TVA",
+            "iptv_urls": [
+                "https://play.agenciastreaming.com:19360/8160/8160.m3u8"
             ],
             "youtube_urls": [],
             "language": "spa",

@@ -1,45 +1,10 @@
 {
-    "kids": [
-        {
-            "nanoid": "AnJeMRVilOxANP",
-            "name": "Roya Kids Originals",
-            "iptv_urls": [
-                "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "jo",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "IaPzNcOFguJ1fR",
-            "name": "Roya Kids",
-            "iptv_urls": [
-                "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "jo",
-            "isGeoBlocked": false
-        }
-    ],
     "general": [
         {
             "nanoid": "EgkvX9kJOJxMoC",
             "name": "Roya TV",
             "iptv_urls": [
                 "https://royatv-live.daioncdn.net/royatv/royatv.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "jo",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "JLqZ7picOIRrVI",
-            "name": "Jordan Satellite Channel",
-            "iptv_urls": [
-                "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -56,36 +21,12 @@
             "language": "ara",
             "country": "jo",
             "isGeoBlocked": false
-        }
-    ],
-    "news": [
-        {
-            "nanoid": "6UZczrfKhh4IaQ",
-            "name": "Roya News",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/25s4393dRMU"
-            ],
-            "language": "ara",
-            "country": "jo",
-            "isGeoBlocked": false
         },
         {
-            "nanoid": "cs8N9yYfCucs0n",
-            "name": "Al Mamlaka TV",
+            "nanoid": "JLqZ7picOIRrVI",
+            "name": "Jordan Satellite Channel",
             "iptv_urls": [
-                "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "jo",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "yBvpOWVJ77DxGY",
-            "name": "Alhaqeqa Aldawlia",
-            "iptv_urls": [
-                "https://ghaasiflu.online/alhqeqa/index.m3u8"
+                "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -110,6 +51,65 @@
             "name": "Jordan Kitchen",
             "iptv_urls": [
                 "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "jo",
+            "isGeoBlocked": false
+        }
+    ],
+    "kids": [
+        {
+            "nanoid": "AnJeMRVilOxANP",
+            "name": "Roya Kids Originals",
+            "iptv_urls": [
+                "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "jo",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "IaPzNcOFguJ1fR",
+            "name": "Roya Kids",
+            "iptv_urls": [
+                "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "jo",
+            "isGeoBlocked": false
+        }
+    ],
+    "other": [
+        {
+            "nanoid": "6FpSz42sPdEMNz",
+            "name": "Jordan Archive",
+            "iptv_urls": [
+                "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "jo",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "qKAl8NiXFdyK7W",
+            "name": "Jordan Tourism",
+            "iptv_urls": [
+                "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "jo",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "v4Dbw80p8X5RYF",
+            "name": "Jordan Drama",
+            "iptv_urls": [
+                "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -154,34 +154,12 @@
             "isGeoBlocked": false
         }
     ],
-    "other": [
+    "music": [
         {
-            "nanoid": "qKAl8NiXFdyK7W",
-            "name": "Jordan Tourism",
+            "nanoid": "u6ZkGLLqixazm2",
+            "name": "Jordan Songs",
             "iptv_urls": [
-                "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "jo",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "6FpSz42sPdEMNz",
-            "name": "Jordan Archive",
-            "iptv_urls": [
-                "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "jo",
-            "isGeoBlocked": false
-        },
-        {
-            "nanoid": "v4Dbw80p8X5RYF",
-            "name": "Jordan Drama",
-            "iptv_urls": [
-                "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8"
+                "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",
@@ -189,12 +167,23 @@
             "isGeoBlocked": false
         }
     ],
-    "music": [
+    "news": [
         {
-            "nanoid": "u6ZkGLLqixazm2",
-            "name": "Jordan Songs",
+            "nanoid": "yBvpOWVJ77DxGY",
+            "name": "Alhaqeqa Aldawlia",
             "iptv_urls": [
-                "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8"
+                "https://ghaasiflu.online/alhqeqa/index.m3u8"
+            ],
+            "youtube_urls": [],
+            "language": "ara",
+            "country": "jo",
+            "isGeoBlocked": false
+        },
+        {
+            "nanoid": "cs8N9yYfCucs0n",
+            "name": "Al Mamlaka TV",
+            "iptv_urls": [
+                "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8"
             ],
             "youtube_urls": [],
             "language": "ara",

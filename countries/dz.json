@@ -1,17 +1,4 @@
 {
-    "religious": [
-        {
-            "nanoid": "lQHz2qPkJgtXvF",
-            "name": "CNA (Cha\u00eene Nord Africaine)",
-            "iptv_urls": [
-                "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8"
-            ],
-            "youtube_urls": [],
-            "language": "ara",
-            "country": "dz",
-            "isGeoBlocked": false
-        }
-    ],
     "news": [
         {
             "nanoid": "H7V9aJymbO5o7g",
@@ -34,14 +21,16 @@
             "language": "ara",
             "country": "dz",
             "isGeoBlocked": false
-        },
+        }
+    ],
+    "religious": [
         {
-            "nanoid": "2hs4FzDgKk1l2e",
-            "name": "Almagharibia TV: \u0627\u0644\u0645\u063a\u0627\u0631\u0628\u064a\u0629",
-            "iptv_urls": [],
-            "youtube_urls": [
-                "https://www.youtube-nocookie.com/embed/W9-l-rVgZjE"
+            "nanoid": "lQHz2qPkJgtXvF",
+            "name": "CNA (Cha\u00eene Nord Africaine)",
+            "iptv_urls": [
+                "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8"
             ],
+            "youtube_urls": [],
             "language": "ara",
             "country": "dz",
             "isGeoBlocked": false

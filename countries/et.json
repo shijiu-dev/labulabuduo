@@ -1,10 +1,10 @@
 {
-    "news": [
+    "general": [
         {
-            "nanoid": "QZv3UK41AsuViO",
-            "name": "Mereja TV",
+            "nanoid": "gACPlurrvdXLs8",
+            "name": "Addis TV",
             "iptv_urls": [
-                "https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
+                "https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "amh",
@@ -12,12 +12,12 @@
             "isGeoBlocked": false
         }
     ],
-    "general": [
+    "news": [
         {
-            "nanoid": "gACPlurrvdXLs8",
-            "name": "Addis TV",
+            "nanoid": "QZv3UK41AsuViO",
+            "name": "Mereja TV",
             "iptv_urls": [
-                "https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8"
+                "https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
             ],
             "youtube_urls": [],
             "language": "amh",
