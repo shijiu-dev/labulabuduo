@@ -9,6 +9,6 @@
         "country": "United Arab Emirates",
         "capital": "Abu Dhabi",
         "timeZone": "Asia\/Dubai",
-        "hasChannels": false
+        "hasChannels": true
     }
 }
