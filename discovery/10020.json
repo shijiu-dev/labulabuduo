@@ -1,0 +1,62 @@
+{
+    "bn": {
+        "country": "Brunei",
+        "capital": "Bandar Seri Begawan",
+        "timeZone": "Asia\/Brunei",
+        "hasChannels": true
+    },
+    "id": {
+        "country": "Indonesia",
+        "capital": "Jakarta",
+        "timeZone": "Asia\/Jakarta",
+        "hasChannels": true
+    },
+    "kh": {
+        "country": "Cambodia",
+        "capital": "Phnom Penh",
+        "timeZone": "Asia\/Phnom_Penh",
+        "hasChannels": true
+    },
+    "la": {
+        "country": "Laos",
+        "capital": "Vientiane",
+        "timeZone": "Asia\/Vientiane",
+        "hasChannels": true
+    },
+    "mm": {
+        "country": "Myanmar",
+        "capital": "Nay Pyi Taw",
+        "timeZone": "Asia\/Yangon",
+        "hasChannels": true
+    },
+    "my": {
+        "country": "Malaysia",
+        "capital": "Kuala Lumpur",
+        "timeZone": "Asia\/Kuala_Lumpur",
+        "hasChannels": true
+    },
+    "ph": {
+        "country": "Philippines",
+        "capital": "Manila",
+        "timeZone": "Asia\/Manila",
+        "hasChannels": true
+    },
+    "sg": {
+        "country": "Singapore",
+        "capital": "Singapore",
+        "timeZone": "Asia\/Singapore",
+        "hasChannels": true
+    },
+    "th": {
+        "country": "Thailand",
+        "capital": "Bangkok",
+        "timeZone": "Asia\/Bangkok",
+        "hasChannels": true
+    },
+    "vn": {
+        "country": "Vietnam",
+        "capital": "Hanoi",
+        "timeZone": "Asia\/Ho_Chi_Minh",
+        "hasChannels": true
+    }
+}
