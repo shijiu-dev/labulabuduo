@@ -3,60 +3,60 @@
         "country": "Brunei",
         "capital": "Bandar Seri Begawan",
         "timeZone": "Asia\/Brunei",
-        "hasChannels": false
+        "hasChannels": true
     },
     "id": {
         "country": "Indonesia",
         "capital": "Jakarta",
         "timeZone": "Asia\/Jakarta",
-        "hasChannels": false
+        "hasChannels": true
     },
     "kh": {
         "country": "Cambodia",
         "capital": "Phnom Penh",
         "timeZone": "Asia\/Phnom_Penh",
-        "hasChannels": false
+        "hasChannels": true
     },
     "la": {
         "country": "Laos",
         "capital": "Vientiane",
         "timeZone": "Asia\/Vientiane",
-        "hasChannels": false
+        "hasChannels": true
     },
     "mm": {
         "country": "Myanmar",
         "capital": "Nay Pyi Taw",
         "timeZone": "Asia\/Yangon",
-        "hasChannels": false
+        "hasChannels": true
     },
     "my": {
         "country": "Malaysia",
         "capital": "Kuala Lumpur",
         "timeZone": "Asia\/Kuala_Lumpur",
-        "hasChannels": false
+        "hasChannels": true
     },
     "ph": {
         "country": "Philippines",
         "capital": "Manila",
         "timeZone": "Asia\/Manila",
-        "hasChannels": false
+        "hasChannels": true
     },
     "sg": {
         "country": "Singapore",
         "capital": "Singapore",
         "timeZone": "Asia\/Singapore",
-        "hasChannels": false
+        "hasChannels": true
     },
     "th": {
         "country": "Thailand",
         "capital": "Bangkok",
         "timeZone": "Asia\/Bangkok",
-        "hasChannels": false
+        "hasChannels": true
     },
     "vn": {
         "country": "Vietnam",
         "capital": "Hanoi",
         "timeZone": "Asia\/Ho_Chi_Minh",
-        "hasChannels": false
+        "hasChannels": true
     }
 }
