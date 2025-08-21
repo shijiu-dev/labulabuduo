@@ -3,7 +3,7 @@
         "country": "Andorra",
         "capital": "Andorra la Vella",
         "timeZone": "Europe\/Andorra",
-        "hasChannels": true
+        "hasChannels": false
     },
     "ae": {
         "country": "United Arab Emirates",
