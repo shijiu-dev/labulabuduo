@@ -1,8 +1,50 @@
 {
+    "ae": {
+        "country": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "timeZone": "Asia\/Dubai",
+        "hasChannels": true
+    },
+    "am": {
+        "country": "Armenia",
+        "capital": "Yerevan",
+        "timeZone": "Asia\/Yerevan",
+        "hasChannels": true
+    },
+    "ar": {
+        "country": "Argentina",
+        "capital": "Buenos Aires",
+        "timeZone": "America\/Argentina\/Buenos_Aires",
+        "hasChannels": true
+    },
     "bn": {
         "country": "Brunei",
         "capital": "Bandar Seri Begawan",
         "timeZone": "Asia\/Brunei",
+        "hasChannels": true
+    },
+    "br": {
+        "country": "Brazil",
+        "capital": "Bras\u00edlia",
+        "timeZone": "America\/Sao_Paulo",
+        "hasChannels": true
+    },
+    "cl": {
+        "country": "Chile",
+        "capital": "Santiago",
+        "timeZone": "America\/Santiago",
+        "hasChannels": true
+    },
+    "co": {
+        "country": "Colombia",
+        "capital": "Bogot\u00e1",
+        "timeZone": "America\/Bogota",
+        "hasChannels": true
+    },
+    "eg": {
+        "country": "Egypt",
+        "capital": "Cairo",
+        "timeZone": "Africa\/Cairo",
         "hasChannels": true
     },
     "id": {
@@ -11,10 +53,28 @@
         "timeZone": "Asia\/Jakarta",
         "hasChannels": true
     },
+    "in": {
+        "country": "India",
+        "capital": "New Delhi",
+        "timeZone": "Asia\/Kolkata",
+        "hasChannels": true
+    },
+    "iq": {
+        "country": "Iraq",
+        "capital": "Baghdad",
+        "timeZone": "Asia\/Baghdad",
+        "hasChannels": true
+    },
     "kh": {
         "country": "Cambodia",
         "capital": "Phnom Penh",
         "timeZone": "Asia\/Phnom_Penh",
+        "hasChannels": true
+    },
+    "kz": {
+        "country": "Kazakhstan",
+        "capital": "Nur-Sultan",
+        "timeZone": "Asia\/Almaty",
         "hasChannels": true
     },
     "la": {
@@ -23,10 +83,34 @@
         "timeZone": "Asia\/Vientiane",
         "hasChannels": true
     },
+    "lk": {
+        "country": "Sri Lanka",
+        "capital": "Sri Jayawardenepura Kotte",
+        "timeZone": "Asia\/Colombo",
+        "hasChannels": true
+    },
+    "ma": {
+        "country": "Morocco",
+        "capital": "Rabat",
+        "timeZone": "Africa\/Casablanca",
+        "hasChannels": true
+    },
     "mm": {
         "country": "Myanmar",
         "capital": "Nay Pyi Taw",
         "timeZone": "Asia\/Yangon",
+        "hasChannels": true
+    },
+    "mn": {
+        "country": "Mongolia",
+        "capital": "Ulaanbaatar",
+        "timeZone": "Asia\/Ulaanbaatar",
+        "hasChannels": true
+    },
+    "mx": {
+        "country": "Mexico",
+        "capital": "Mexico City",
+        "timeZone": "America\/Mexico_City",
         "hasChannels": true
     },
     "my": {
@@ -41,6 +125,24 @@
         "timeZone": "Asia\/Manila",
         "hasChannels": true
     },
+    "pk": {
+        "country": "Pakistan",
+        "capital": "Islamabad",
+        "timeZone": "Asia\/Karachi",
+        "hasChannels": true
+    },
+    "ru": {
+        "country": "Russia",
+        "capital": "Moscow",
+        "timeZone": "Europe\/Moscow",
+        "hasChannels": true
+    },
+    "sa": {
+        "country": "Saudi Arabia",
+        "capital": "Riyadh",
+        "timeZone": "Asia\/Riyadh",
+        "hasChannels": true
+    },
     "sg": {
         "country": "Singapore",
         "capital": "Singapore",
@@ -51,6 +153,12 @@
         "country": "Thailand",
         "capital": "Bangkok",
         "timeZone": "Asia\/Bangkok",
+        "hasChannels": true
+    },
+    "tj": {
+        "country": "Tajikistan",
+        "capital": "Dushanbe",
+        "timeZone": "Asia\/Dushanbe",
         "hasChannels": true
     },
     "vn": {
