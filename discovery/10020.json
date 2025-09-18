@@ -41,6 +41,18 @@
         "timeZone": "America\/Bogota",
         "hasChannels": true
     },
+    "cr": {
+        "country": "Costa Rica",
+        "capital": "San Jos\u00e9",
+        "timeZone": "America\/Costa_Rica",
+        "hasChannels": true
+    },
+    "ec": {
+        "country": "Ecuador",
+        "capital": "Quito",
+        "timeZone": "America\/Guayaquil",
+        "hasChannels": true
+    },
     "eg": {
         "country": "Egypt",
         "capital": "Cairo",
@@ -63,6 +75,12 @@
         "country": "Iraq",
         "capital": "Baghdad",
         "timeZone": "Asia\/Baghdad",
+        "hasChannels": true
+    },
+    "ke": {
+        "country": "Kenya",
+        "capital": "Nairobi",
+        "timeZone": "Africa\/Nairobi",
         "hasChannels": true
     },
     "kh": {
@@ -119,6 +137,12 @@
         "timeZone": "Asia\/Kuala_Lumpur",
         "hasChannels": true
     },
+    "ng": {
+        "country": "Nigeria",
+        "capital": "Abuja",
+        "timeZone": "Africa\/Lagos",
+        "hasChannels": true
+    },
     "ph": {
         "country": "Philippines",
         "capital": "Manila",
@@ -129,6 +153,12 @@
         "country": "Pakistan",
         "capital": "Islamabad",
         "timeZone": "Asia\/Karachi",
+        "hasChannels": true
+    },
+    "qa": {
+        "country": "Qatar",
+        "capital": "Doha",
+        "timeZone": "Asia\/Qatar",
         "hasChannels": true
     },
     "ru": {
@@ -161,10 +191,22 @@
         "timeZone": "Asia\/Dushanbe",
         "hasChannels": true
     },
+    "ve": {
+        "country": "Venezuela",
+        "capital": "Caracas",
+        "timeZone": "America\/Caracas",
+        "hasChannels": true
+    },
     "vn": {
         "country": "Vietnam",
         "capital": "Hanoi",
         "timeZone": "Asia\/Ho_Chi_Minh",
+        "hasChannels": true
+    },
+    "za": {
+        "country": "South Africa",
+        "capital": "Pretoria",
+        "timeZone": "Africa\/Johannesburg",
         "hasChannels": true
     }
 }
