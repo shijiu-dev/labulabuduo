@@ -29,12 +29,6 @@
         "timeZone": "America\/Sao_Paulo",
         "hasChannels": true
     },
-    "ca": {
-        "country": "Canada",
-        "capital": "Ottawa",
-        "timeZone": "America\/Toronto",
-        "hasChannels": true
-    },
     "cl": {
         "country": "Chile",
         "capital": "Santiago",
@@ -225,12 +219,6 @@
         "country": "Tajikistan",
         "capital": "Dushanbe",
         "timeZone": "Asia\/Dushanbe",
-        "hasChannels": true
-    },
-    "us": {
-        "country": "United States",
-        "capital": "Washington, D.C.",
-        "timeZone": "America\/New_York",
         "hasChannels": true
     },
     "ve": {
