@@ -59,6 +59,12 @@
         "timeZone": "Africa\/Cairo",
         "hasChannels": true
     },
+    "hn": {
+        "country": "Honduras",
+        "capital": "Tegucigalpa",
+        "timeZone": "America\/Tegucigalpa",
+        "hasChannels": true
+    },
     "id": {
         "country": "Indonesia",
         "capital": "Jakarta",
@@ -75,6 +81,12 @@
         "country": "Iraq",
         "capital": "Baghdad",
         "timeZone": "Asia\/Baghdad",
+        "hasChannels": true
+    },
+    "jo": {
+        "country": "Jordan",
+        "capital": "Amman",
+        "timeZone": "Asia\/Amman",
         "hasChannels": true
     },
     "ke": {
@@ -143,6 +155,12 @@
         "timeZone": "Africa\/Lagos",
         "hasChannels": true
     },
+    "pe": {
+        "country": "Peru",
+        "capital": "Lima",
+        "timeZone": "America\/Lima",
+        "hasChannels": true
+    },
     "ph": {
         "country": "Philippines",
         "capital": "Manila",
@@ -153,6 +171,12 @@
         "country": "Pakistan",
         "capital": "Islamabad",
         "timeZone": "Asia\/Karachi",
+        "hasChannels": true
+    },
+    "pr": {
+        "country": "Puerto Rico",
+        "capital": "San Juan",
+        "timeZone": "America\/Puerto_Rico",
         "hasChannels": true
     },
     "qa": {
