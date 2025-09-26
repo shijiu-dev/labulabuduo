@@ -185,6 +185,12 @@
         "timeZone": "America\/Puerto_Rico",
         "hasChannels": true
     },
+    "py": {
+        "country": "Paraguay",
+        "capital": "Asunci\u00f3n",
+        "timeZone": "America\/Asuncion",
+        "hasChannels": true
+    },
     "qa": {
         "country": "Qatar",
         "capital": "Doha",
@@ -219,6 +225,12 @@
         "country": "Tajikistan",
         "capital": "Dushanbe",
         "timeZone": "Asia\/Dushanbe",
+        "hasChannels": true
+    },
+    "uy": {
+        "country": "Uruguay",
+        "capital": "Montevideo",
+        "timeZone": "America\/Montevideo",
         "hasChannels": true
     },
     "ve": {
