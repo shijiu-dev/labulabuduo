@@ -29,12 +29,6 @@
         "timeZone": "America\/Sao_Paulo",
         "hasChannels": true
     },
-    "bt": {
-        "country": "Bhutan",
-        "capital": "Thimphu",
-        "timeZone": "Asia\/Thimphu",
-        "hasChannels": false
-    },
     "cl": {
         "country": "Chile",
         "capital": "Santiago",
@@ -141,6 +135,12 @@
         "country": "Morocco",
         "capital": "Rabat",
         "timeZone": "Africa\/Casablanca",
+        "hasChannels": true
+    },
+    "mm": {
+        "country": "Myanmar",
+        "capital": "Nay Pyi Taw",
+        "timeZone": "Asia\/Yangon",
         "hasChannels": true
     },
     "mn": {

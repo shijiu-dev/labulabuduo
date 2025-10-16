@@ -34,11 +34,5 @@
         "capital": "Ashgabat",
         "timeZone": "Asia\/Ashgabat",
         "hasChannels": true
-    },
-    "uz": {
-        "country": "Uzbekistan",
-        "capital": "Tashkent",
-        "timeZone": "Asia\/Tashkent",
-        "hasChannels": true
     }
 }
