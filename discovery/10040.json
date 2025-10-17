@@ -239,12 +239,6 @@
         "timeZone": "America\/Montevideo",
         "hasChannels": true
     },
-    "uz": {
-        "country": "Uzbekistan",
-        "capital": "Tashkent",
-        "timeZone": "Asia\/Tashkent",
-        "hasChannels": true
-    },
     "ve": {
         "country": "Venezuela",
         "capital": "Caracas",
