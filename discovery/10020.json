@@ -27,12 +27,12 @@
         "country": "Tajikistan",
         "capital": "Dushanbe",
         "timeZone": "Asia\/Dushanbe",
-        "hasChannels": true
+        "hasChannels": false
     },
     "tm": {
         "country": "Turkmenistan",
         "capital": "Ashgabat",
         "timeZone": "Asia\/Ashgabat",
-        "hasChannels": true
+        "hasChannels": false
     }
 }
