@@ -105,7 +105,7 @@
         "country": "Kyrgyzstan",
         "capital": "Bishkek",
         "timeZone": "Asia\/Bishkek",
-        "hasChannels": false
+        "hasChannels": true
     },
     "kh": {
         "country": "Cambodia",
@@ -225,13 +225,13 @@
         "country": "Tajikistan",
         "capital": "Dushanbe",
         "timeZone": "Asia\/Dushanbe",
-        "hasChannels": false
+        "hasChannels": true
     },
     "tm": {
         "country": "Turkmenistan",
         "capital": "Ashgabat",
         "timeZone": "Asia\/Ashgabat",
-        "hasChannels": false
+        "hasChannels": true
     },
     "uy": {
         "country": "Uruguay",
