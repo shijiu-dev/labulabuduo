@@ -89,12 +89,6 @@
         "timeZone": "Asia\/Baghdad",
         "hasChannels": true
     },
-    "ir": {
-        "country": "Iran",
-        "capital": "Tehran",
-        "timeZone": "Asia\/Tehran",
-        "hasChannels": true
-    },
     "jo": {
         "country": "Jordan",
         "capital": "Amman",
