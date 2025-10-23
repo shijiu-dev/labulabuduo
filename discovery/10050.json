@@ -41,6 +41,12 @@
         "timeZone": "America\/Bogota",
         "hasChannels": true
     },
+    "cr": {
+        "country": "Costa Rica",
+        "capital": "San Jos\u00e9",
+        "timeZone": "America\/Costa_Rica",
+        "hasChannels": true
+    },
     "eg": {
         "country": "Egypt",
         "capital": "Cairo",
@@ -135,6 +141,12 @@
         "country": "Qatar",
         "capital": "Doha",
         "timeZone": "Asia\/Qatar",
+        "hasChannels": true
+    },
+    "sa": {
+        "country": "Saudi Arabia",
+        "capital": "Riyadh",
+        "timeZone": "Asia\/Riyadh",
         "hasChannels": true
     },
     "th": {
