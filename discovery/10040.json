@@ -89,12 +89,6 @@
         "timeZone": "Asia\/Amman",
         "hasChannels": true
     },
-    "kg": {
-        "country": "Kyrgyzstan",
-        "capital": "Bishkek",
-        "timeZone": "Asia\/Bishkek",
-        "hasChannels": true
-    },
     "kh": {
         "country": "Cambodia",
         "capital": "Phnom Penh",

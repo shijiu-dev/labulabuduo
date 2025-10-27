@@ -65,12 +65,6 @@
         "timeZone": "Africa\/Cairo",
         "hasChannels": true
     },
-    "fj": {
-        "country": "Fiji",
-        "capital": "Suva",
-        "timeZone": "Pacific\/Fiji",
-        "hasChannels": false
-    },
     "gt": {
         "country": "Guatemala",
         "capital": "Guatemala City",
