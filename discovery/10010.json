@@ -1,8 +1,1 @@
-{
-    "ad": {
-        "country": "Andorra",
-        "capital": "Andorra la Vella",
-        "timeZone": "Europe\/Andorra",
-        "hasChannels": true
-    }
-}
+{"ad":{"country":"Andorra","capital":"Andorra la Vella","timeZone":"Europe\/Andorra","hasChannels":true}}
